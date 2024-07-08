@@ -1,0 +1,1 @@
+Low voltage, slower timing than PMTs, etc.

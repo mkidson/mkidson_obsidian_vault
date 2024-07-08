@@ -13,6 +13,8 @@ Looking at using [Budibase](https://budibase.com/) or just building some backend
 # The reader
 Mainly been looking at using a[ javascript package](https://github.com/jbialobr/JsQRScanner/tree/master) that has an example at https://jbialobr.github.io/JsQRScanner/. Also looking at [this article](https://www.sitepoint.com/create-qr-code-reader-mobile-website/) as they have a nice example of the html needed.
 
+Using [[JS Package]]
+
 
 
 # The link to google sheets

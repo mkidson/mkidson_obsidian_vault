@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "MSc/Thesis Kanban.md",
+                "file": "MSc/MSc Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -25,6 +25,34 @@
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "e95a8f89808eb952",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9eca4ad14c5e42fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/To-Do files/SANSA Bursary application.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis Kanban.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis Kanban.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +161,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis Kanban.md"
+                "file": "MSc/MSc Kanban.md"
               }
+            }
+          },
+          {
+            "id": "664199f0b277803d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
@@ -158,10 +194,15 @@
   },
   "active": "94d6337da1ba3470",
   "lastOpenFiles": [
-    "MSc/To-Do files/Test card.md",
+    "MSc/To-Do files/SANSA Bursary application.md",
+    "MSc/MSc Kanban.md",
     "MSc/Thesis.md",
-    "MSc/Thesis Kanban.md",
+    "QR Code Scanner/Jazz Fest QR Code Scanner.md",
+    "Science/Plastic Scintillator.md",
+    "Science/Silicon Photomultipliers.md",
+    "Science",
     "PhD/SANSA Bursary Application.md",
+    "MSc/To-Do files/Test card.md",
     "to-do/Try reassign events in S histograms by fitting.md",
     "to-do/Unfolding.md",
     "MSc/To-Do files/0.1 MeVee structure in proton simulation only for sphere.md",
@@ -182,15 +223,11 @@
     "MSc/To-Do files/Loot at seconds from first event for the weird locus at low S.md",
     "MSc/To-Do files/PSD cut automations Something to do with the standard deviation etc..md",
     "Crossword/crossword.md",
-    "MSc/Untitled.md",
-    "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "QR Code Scanner/JS Package.md",
     "QR Code Scanner",
     "PhD",
     "MSc",
     "Daily Notes",
-    "Crossword",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Crossword"
   ]
 }

@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] Look into FPGA programming
 - [ ] [[Quick investigation into SiPM temperature dependence]]
 - [ ] Check the fraction of escaping recoils in cylinder compared to sphere
+- [ ] SAIP Proceedings
 
 
 ## In Progress
@@ -37,10 +38,9 @@ kanban-plugin: board
 - [ ] Uncertainty can be sigma/x where we compare it to the width of the edge of the L spectrum
 - [ ] [[Uncertainty on the E value for a given L edge position]]
 - [ ] [[Unfold then apply efficiency curve]]
-- [ ] SANSA Bursary application
 - [ ] [[0.1 MeVee structure in proton simulation only for sphere]]
-- [ ] Unfolding
 - [ ] Compare to 0.3 MeVee threshold as alphas aren't in that region
+- [ ] [[MSc/To-Do files/SANSA Bursary application|SANSA Bursary application]]
 
 
 ## Complete
