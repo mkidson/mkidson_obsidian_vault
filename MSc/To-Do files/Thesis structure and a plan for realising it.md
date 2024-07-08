@@ -1,0 +1,1 @@
+Look at Erin’s paper for a general sequence. See if it does or doesn’t work.

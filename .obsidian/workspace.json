@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ae75e203f7d680cb",
+        "id": "6b4b214106114521",
         "type": "tabs",
         "children": [
           {
-            "id": "e8515eda7c2d8c1c",
+            "id": "94d6337da1ba3470",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -22,7 +23,8 @@
                     false
                   ]
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -150,29 +152,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "e8515eda7c2d8c1c",
+  "active": "94d6337da1ba3470",
   "lastOpenFiles": [
-    "MSc/Unfolding.md",
-    "MSc/Thesis Kanban.md",
+    "MSc/To-Do files/Test card.md",
     "MSc/Thesis.md",
+    "MSc/Thesis Kanban.md",
+    "PhD/SANSA Bursary Application.md",
+    "to-do/Try reassign events in S histograms by fitting.md",
+    "to-do/Unfolding.md",
+    "MSc/To-Do files/0.1 MeVee structure in proton simulation only for sphere.md",
+    "to-do/Task.md",
+    "to-do",
+    "MSc/test to-do.md",
+    "MSc/Test 2.md",
+    "MSc/Thesis_Canvas.canvas",
+    "MSc/To-Do files/Unfold then apply efficiency curve.md",
+    "MSc/To-Do files/Uncertainty on the E value for a given L edge position.md",
+    "MSc/To-Do files/Let's get going on uncertainties.md",
+    "MSc/To-Do files/Towards a usable workflow of data to results.md",
+    "MSc/To-Do files/Thesis structure and a plan for realising it.md",
+    "MSc/To-Do files/Quick investigation into SiPM temperature dependence.md",
+    "MSc/To-Do files/All 4 AMANDE energies simulate energy dep for sphere. Fully irradiated. With and without a broadening factor. Plotted with AMANDE data.md",
+    "MSc/Unfolding.md",
+    "MSc/To-Do files",
+    "MSc/To-Do files/Loot at seconds from first event for the weird locus at low S.md",
+    "MSc/To-Do files/PSD cut automations Something to do with the standard deviation etc..md",
     "Crossword/crossword.md",
     "MSc/Untitled.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "QR Code Scanner/JS Package.md",
     "QR Code Scanner",
-    "PhD/SANSA Bursary Application.md",
     "PhD",
-    "MSc/Thesis_Canvas.canvas",
     "MSc",
     "Daily Notes",
     "Crossword",
     "Untitled.md",
-    "Untitled 1.md",
-    "JS Package.md",
-    "create a link.md",
-    "2024-07-04.md"
+    "Untitled 1.md"
   ]
 }
