@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "Crossword/crossword.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "Crossword/crossword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "Crossword/crossword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis.md"
+                "file": "Crossword/crossword.md"
               }
             }
           }
@@ -149,13 +149,15 @@
   },
   "active": "e8515eda7c2d8c1c",
   "lastOpenFiles": [
+    "MSc/Untitled.md",
+    "Crossword/crossword.md",
+    "MSc/Thesis.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "QR Code Scanner/JS Package.md",
     "QR Code Scanner",
     "PhD/SANSA Bursary Application.md",
     "PhD",
     "MSc/Thesis_Canvas.canvas",
-    "MSc/Thesis.md",
     "MSc",
     "Daily Notes",
     "Crossword",
