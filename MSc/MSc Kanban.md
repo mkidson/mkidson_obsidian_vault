@@ -34,8 +34,8 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Towards a usable workflow of data to results]]
-- [ ] [[Let's get going on uncertainties]]
 - [ ] Uncertainty can be sigma/x where we compare it to the width of the edge of the L spectrum
+- [ ] [[Let's get going on uncertainties]]
 - [ ] [[Uncertainty on the E value for a given L edge position]]
 - [ ] [[Unfold then apply efficiency curve]]
 - [ ] [[0.1 MeVee structure in proton simulation only for sphere]]

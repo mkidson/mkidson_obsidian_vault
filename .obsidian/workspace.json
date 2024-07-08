@@ -54,8 +54,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ed7fd5663e6b0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science/Motivation for neutron spectrometry in space and aviation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,6 +128,7 @@
       {
         "id": "1a8c5f9fe88efcd7",
         "type": "tabs",
+        "dimension": 80.68181818181819,
         "children": [
           {
             "id": "806aa30da74e4db3",
@@ -121,8 +136,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/MSc Kanban.md",
-                "collapseAll": false,
+                "file": "MSc/To-Do files/SANSA Bursary application.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -138,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/MSc Kanban.md",
+                "file": "MSc/To-Do files/SANSA Bursary application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/MSc Kanban.md"
+                "file": "MSc/To-Do files/SANSA Bursary application.md"
               }
             }
           },
@@ -175,6 +190,21 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "5e2176fd98b2929a",
+        "type": "tabs",
+        "dimension": 19.31818181818182,
+        "children": [
+          {
+            "id": "05adfc1bf9a71871",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,20 +218,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "94d6337da1ba3470",
+  "active": "9eca4ad14c5e42fa",
   "lastOpenFiles": [
+    "Science/Motivation for neutron spectrometry in space and aviation.md",
     "MSc/To-Do files/SANSA Bursary application.md",
     "MSc/MSc Kanban.md",
+    "PhD/SANSA Bursary Application.md",
     "MSc/Thesis.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "Science/Plastic Scintillator.md",
     "Science/Silicon Photomultipliers.md",
     "Science",
-    "PhD/SANSA Bursary Application.md",
     "MSc/To-Do files/Test card.md",
     "to-do/Try reassign events in S histograms by fitting.md",
     "to-do/Unfolding.md",
@@ -223,7 +253,6 @@
     "MSc/To-Do files/Loot at seconds from first event for the weird locus at low S.md",
     "MSc/To-Do files/PSD cut automations Something to do with the standard deviation etc..md",
     "Crossword/crossword.md",
-    "QR Code Scanner/JS Package.md",
     "QR Code Scanner",
     "PhD",
     "MSc",

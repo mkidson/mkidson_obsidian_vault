@@ -1,0 +1,1 @@
+- Astronauts in long term missions by far exceed the annual dose limits applied for radiation workers on earth and the exposure to space radiation remains one of the major health concerns for astronauts (Chancellor et al., 2014)
