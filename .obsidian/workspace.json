@@ -49,13 +49,15 @@
               "type": "pdf",
               "state": {
                 "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 3,
+                "left": -9,
+                "top": 751,
+                "zoom": 1.7248301628152323
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+                "file": "MSc/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+                "file": "MSc/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf"
+                "file": "MSc/Thesis.md"
               }
             }
           },
@@ -210,10 +212,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6ed7fd5663e6b0e4",
+  "active": "e95a8f89808eb952",
   "lastOpenFiles": [
-    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
     "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
     "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).md",
     "MSc/Thesis.md",
     "Science/Neutrons in space and aviation",
