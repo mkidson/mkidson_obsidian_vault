@@ -11,11 +11,9 @@ Looking at using [Budibase](https://budibase.com/) or just building some backend
 
 
 # The reader
-Mainly been looking at using a[ javascript package](https://github.com/jbialobr/JsQRScanner/tree/master) that has an example at https://jbialobr.github.io/JsQRScanner/. Also looking at [this article](https://www.sitepoint.com/create-qr-code-reader-mobile-website/) as they have a nice example of the html needed.
+Using [this scanner](https://github.com/mebjas/html5-qrcode?tab=readme-ov-file) which handles it all nicely. When it scans, I've made it pop up with a `window.alert` so it won't scan until you press "OK". Then need to find out how to send that text to the python stuff. 
 
-Using [[JS Package]]
-
-
+Want to use some logic so that it only sends if it starts with `NYJF` or similar.
 
 # The link to google sheets
 I've set up a google sheets API thing. Using the [spreadsheets.values.append](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/append) function to append to a bunch of rows. Might come up against an issue of API request rates. It has a limit of 100 per 5 mins. 

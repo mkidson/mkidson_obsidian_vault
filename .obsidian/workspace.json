@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QR Code Scanner/JS Package.md",
+                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QR Code Scanner/JS Package.md",
+                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QR Code Scanner/JS Package.md",
+                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QR Code Scanner/JS Package.md"
+                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "f21606f3bdf54941",
   "lastOpenFiles": [
+    "QR Code Scanner/JS Package.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/SANSA Bursary application.md",
@@ -243,7 +244,6 @@
     "MSc/To-Do files/Thesis structure and a plan for realising it.md",
     "MSc/To-Do files/Quick investigation into SiPM temperature dependence.md",
     "MSc/To-Do files/All 4 AMANDE energies simulate energy dep for sphere. Fully irradiated. With and without a broadening factor. Plotted with AMANDE data.md",
-    "MSc/Unfolding.md",
     "MSc/To-Do files",
     "QR Code Scanner",
     "PhD",
