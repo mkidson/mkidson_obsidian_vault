@@ -18,7 +18,7 @@ The sensitivity of the detector system to the direction of the incident radiatio
 
 - Picture of Angus's detector with 4 scints
 
-
+The plastic scintillator is coupled directly to the 6 mm x 6 mm silicon photomultiplier (SiPM) from ONSEMI. These operate at 28.5 V - much lower than their traditional counterparts. 
 
 
 
