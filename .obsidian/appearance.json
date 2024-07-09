@@ -3,7 +3,9 @@
   "cssTheme": "Minimal",
   "nativeMenus": false,
   "showViewHeader": true,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "monospaceFontFamily": "Droid Sans Mono",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true,
+  "textFontFamily": "Helvetica,Times New Roman",
+  "interfaceFontFamily": "Helvetica"
 }

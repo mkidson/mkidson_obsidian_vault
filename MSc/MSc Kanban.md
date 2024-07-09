@@ -40,7 +40,8 @@ kanban-plugin: board
 - [ ] [[Unfold then apply efficiency curve]]
 - [ ] [[0.1 MeVee structure in proton simulation only for sphere]]
 - [ ] Compare to 0.3 MeVee threshold as alphas aren't in that region
-- [ ] [[MSc/To-Do files/SANSA Bursary application|SANSA Bursary application]]
+- [ ] [[MSc/SANSA Bursary application|SANSA Bursary application]]
+- [ ] [[SAIP 2024 Proceedings]] ^8fs028
 
 
 ## Complete
