@@ -43,28 +43,16 @@
             }
           },
           {
-            "id": "9eca4ad14c5e42fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/SANSA Bursary application.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ed7fd5663e6b0e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Science/Motivation for neutron spectrometry in space and aviation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+                "page": 2,
+                "left": -9,
+                "top": 118,
+                "zoom": 1.7248301628152323
               }
             }
           }
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SANSA Bursary application.md",
+                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SANSA Bursary application.md",
+                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SANSA Bursary application.md"
+                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf"
               }
             }
           },
@@ -218,17 +206,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9eca4ad14c5e42fa",
+  "active": "6ed7fd5663e6b0e4",
   "lastOpenFiles": [
-    "Science/Motivation for neutron spectrometry in space and aviation.md",
+    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
+    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).md",
+    "MSc/Thesis.md",
+    "Science/Neutrons in space and aviation",
     "MSc/SANSA Bursary application.md",
     "PhD/SANSA Bursary Application.md",
     "MSc/MSc Kanban.md",
     "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Thesis.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "Science/Plastic Scintillator.md",
     "Science/Silicon Photomultipliers.md",
@@ -251,8 +245,6 @@
     "MSc/To-Do files/All 4 AMANDE energies simulate energy dep for sphere. Fully irradiated. With and without a broadening factor. Plotted with AMANDE data.md",
     "MSc/Unfolding.md",
     "MSc/To-Do files",
-    "MSc/To-Do files/Loot at seconds from first event for the weird locus at low S.md",
-    "MSc/To-Do files/PSD cut automations Something to do with the standard deviation etc..md",
     "QR Code Scanner",
     "PhD",
     "MSc",

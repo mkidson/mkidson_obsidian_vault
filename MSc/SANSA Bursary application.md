@@ -28,7 +28,7 @@ The space radiation environment is a complex mixture of particles of galactic (g
 At or around sea level, the atmosphere does a great job of shielding against the neutrons and charged particles produced in these reactions. At regular aviation altitudes, however, we're not so lucky, with ***WOULD LIKE AN APPROXIMATE DOSE COMPARISON HERE***. The composition of the radiation fields at these altitudes has been shown to be about 40% neutrons (Goldhagen et. al., 2003)
 
 ---
-# Dosimetry at altitude and in space
+# Neutron spectrometry at altitude and in space
 
 - What are the technologies?
 - What techniques do they typically rely on?

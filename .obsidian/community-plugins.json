@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-kanban",
   "quick-latex",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "highlightr-plugin",
+  "pdf-plus",
+  "obsidian-zotero-desktop-connector"
 ]
