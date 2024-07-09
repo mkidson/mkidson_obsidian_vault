@@ -27,10 +27,24 @@ The space radiation environment is a complex mixture of particles of galactic (g
 
 At or around sea level, the atmosphere does a great job of shielding against the neutrons and charged particles produced in these reactions. At regular aviation altitudes, however, we're not so lucky, with ***WOULD LIKE AN APPROXIMATE DOSE COMPARISON HERE***. The composition of the radiation fields at these altitudes has been shown to be about 40% neutrons (Goldhagen et. al., 2003)
 
----
+
 # Neutron spectrometry at altitude and in space
 
 - What are the technologies?
 - What techniques do they typically rely on?
+- What are the problems with the current technologies?
+
+# What technologies do we plan to use
+- New technology (SiPM, plastic scint, digital data acq)
+- Benefits of each of those technologies
+- Show the MSc work
+- GEANT4
+
+# Response functions
+- Need to measure new ones for each detector system
+- Want to use iThemba LABS for up to 120 MeV
+
+# Research questions
+- Test systems in space/aviation environments to try reproduce old results
+- Improve on those results?
 - 
-There are a 

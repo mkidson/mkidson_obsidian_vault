@@ -43,21 +43,20 @@
             }
           },
           {
-            "id": "6ed7fd5663e6b0e4",
+            "id": "f21606f3bdf54941",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
-                "page": 3,
-                "left": -9,
-                "top": 751,
-                "zoom": 1.7248301628152323
+                "file": "MSc/SAIP 2024 Proceedings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis.md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -212,17 +211,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e95a8f89808eb952",
+  "active": "f21606f3bdf54941",
   "lastOpenFiles": [
-    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
-    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
-    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).md",
-    "MSc/Thesis.md",
-    "Science/Neutrons in space and aviation",
     "MSc/SANSA Bursary application.md",
+    "MSc/Thesis.md",
+    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
+    "Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf.md",
+    "MSc/SAIP 2024 Proceedings.md",
+    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
+    "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).md",
+    "Science/Neutrons in space and aviation",
     "PhD/SANSA Bursary Application.md",
     "MSc/MSc Kanban.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "Science/Plastic Scintillator.md",
     "Science/Silicon Photomultipliers.md",

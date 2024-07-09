@@ -3,7 +3,3 @@
 - Measurements inside the ISS have mostly been carried out for the charged particle component, resulting in dose equivalent values around 500 µSv/day depending on the location inside the ISS (Smith et al., 2013).
 - For example, measurements with Bonner spheres equipped with activation foil detectors made near solar maximum in low inclination with high altitude resulted in a dose equivalents ranging from 45 µSv/day to 345 µSv/day depending on the orbit inclination and altitude (Wilson et al., 2002)
 - The future settlements on the Moon will provide additional GCR shielding since they will be buried beneath layers of lunar regolith. However, this will decrease the dose rate from charged particles, but the shielding from in situ resources will increase the absolute contribution from neutrons, which was previously described in the Apollo 17 Lunar Neutron Probe Experiment (Woolum et al., 1975
-
-
-[[Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf]]
-
