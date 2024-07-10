@@ -48,7 +48,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
+                "file": "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d649b0e374c8d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/SANSA Bursary application.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "579bd18c55e1c1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
+                "file": "MSc/SANSA Bursary application.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md",
+                "file": "MSc/SANSA Bursary application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QR Code Scanner/Jazz Fest QR Code Scanner.md"
+                "file": "MSc/SANSA Bursary application.md"
               }
             }
           },
@@ -211,14 +237,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f21606f3bdf54941",
+  "active": "9d649b0e374c8d90",
   "lastOpenFiles": [
-    "QR Code Scanner/JS Package.md",
-    "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/SANSA Bursary application.md",
-    "MSc/Thesis.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
+    "QR Code Scanner/Jazz Fest QR Code Scanner.md",
+    "QR Code Scanner/JS Package.md",
+    "MSc/Thesis.md",
     "Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf.md",
     "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).pdf",
     "Science/Neutrons in space and aviation/Performance Characteristics of the Ionospheric Neutron Content Analyzer (INCA).md",
