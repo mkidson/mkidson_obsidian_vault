@@ -49,4 +49,4 @@ At or around sea level, the atmosphere does a great job of shielding against the
 # Research questions
 - Test systems in space/aviation environments to try reproduce old results
 - Improve on those results?
-- 
+- Test radiation hardness. A/B test e.g. AmBe in the lab before and after being on a weather balloon.
