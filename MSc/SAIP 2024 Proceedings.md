@@ -26,17 +26,26 @@ The sensitivity of the detector system to the direction of the incident radiatio
 The plastic scintillator is coupled directly to the 6 mm x 6 mm silicon photomultiplier (SiPM) from ONSEMI. These operate at 28.5 V - much lower than their traditional counterparts. These SiPMs have a fast and slow output, where the fast is usually used for trigger and timing applications, and the slow is used for pulse height/pulse integral (need to reword this for sure) applications. For this work, only the slow output was used. This resulted in a slower detector response than the traditional PMTs, but there is no effect on the quality of the data.
 
 ## Digital Data Acquisition
-Lastly, a CAEN DT-5730 desktop digitiser was used to record the event pulses for offline analysis. The DT-5730 has 8 channels, each with 14 bit ADCs. It runs at 500 MS/s and has a variable input voltage range, with the choice between 2.0 Vpp and 0.5 Vpp. It connects by USB or optical link to a PC and interfaces with a bespoke software written by a former UCT PhD student, called QtDAQ. QtDAQ (shown below) is able to do a lot of the analysis online, but for the sake of iteration and flexibility, in this case it was used simply to record each incoming pulse and save them to a file. QtDAQ triggers capture when an event trace goes above a specified voltage threshhold
-
-
-
-
+Lastly, a CAEN DT-5730 desktop digitiser was used to record the event pulses for offline analysis. The DT-5730 has 8 channels, each with 14 bit ADCs. It runs at 500 MS/s and has a variable input voltage range, with the choice between 2.0 Vpp and 0.5 Vpp. It connects by USB or optical link to a PC and interfaces with a bespoke software written by a former UCT PhD student, called QtDAQ. QtDAQ (shown below) is able to do a lot of the analysis online, but for the sake of iteration and flexibility, in this case it was used simply to record each incoming pulse and save them to a file. QtDAQ triggers when an event trace goes above a specified voltage threshold, then captures a specified number of samples (2 samples per ns), with a specified window before the trigger time being captures, for baseline calculations. After measurement, the data are analysed offline in Python.
 
 # Pulse Shape Discrimination
+Neutron radiation fields are practically never present without an accompanying gamma ray field. This is due to the fact that fast neutrons are created in nuclear reactions, which more often than not leave the mother nucleus in an excited state, resulting in an emitted gamma ray. For this reason, it is necessary to be able to distinguish between neutron and gamma ray events in the detector systems. To do this, the scintillator needs to be produced in such a way that the time-scale on which the scintillation light is produced depends slightly on the mass of the charged particle that is ionising the material itself. 
+
+For organic scintillators, heavier ionising particles have a higher chance of exciting the fluorescent material into triplet states, rather than singlet states. These triplet states take slightly longer to de-excite, resulting in a slightly different shape of event pulse. See figure below for the difference between a neutron and gamma ray event of the same pulse integral. Taking the integral of the event pulse over two intervals, named $t_{short}$ and $t_{long}$, and taking the ratio results in a pulse shape parameter S. Figure below shows the different loci produced from a mixed radiation field such as from AmBe.
+
+- n-gamma PSD event trace plot
+- classic PSD plot
+
+# MeVee units
+On the x-axis of the figure above is the unit $MeV_{ee}$, or MeV electron equivalent. When gamma rays are incident on the scintillation medium, they produce recoil electrons through Compton scattering. For inorganic scintillators other processes also contribute. These electrons travel through the scintillator and ionise the fluorescent material, which then de-excites and emits light that gets collected by the SiPM. Since it is relatively easy to calibrate a scintillator with gamma ray sources, due to them being commonplace in most nuclear research labs, the electron is chosen as the standard to which all other recoiling particle is compared. 
+
+Due to Bethe-Bloch and Birks' Law, particles with different masses and different charges will ionise the medium in different ways that are not easily linearly related to each other. Because of this, the energy deposition of a particle that isn't an electron cannot be simply equated to an electron's because they produced the same amount of scintillation light. This is the reason for the $MeV_{ee}$ unit for light output.
+
+# Unfolding
+
 
 # Time of Flight
 
-# Unfolding
 
 # Simulation with GEANT4
 
