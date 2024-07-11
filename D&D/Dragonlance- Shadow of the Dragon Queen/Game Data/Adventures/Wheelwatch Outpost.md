@@ -43,6 +43,27 @@ Wheelwatch Outpost has the following features:
 The walls of Wheelwatch are  
 **20 feet high**, with towers and fortifications adding an additional **10 feet** for each floor. A character can climb the walls by succeeding on a **DC 14 Strength (Athletics)** check. The windows in these walls are 6-inch-wide arrow slits.
 
+
+### **Wheelwatch Alert**
+
+The Dragon Army troops occupying Wheelwatch Outpost are on the lookout for danger. Use the following details to guide when the Dragon Army soldiers go on alert and how that affects their behaviour.
+
+**Alarm Horns**
+
+Each of the outpost’s corner guard posts (areas W2, area W3, and area W4) is equipped with an alarm horn. If a sentry in one of these areas notices enemies or unusual activity, they attempt to sound an alarm horn 1 round later on their turn. Once an alarm horn is sounded, the fort goes on alert.
+
+**Alert**
+
+If a threat is detected, the eight Dragon Army soldiers in area W5 rush to meet it (or gather in area W1 if the source is unclear). While on alert, Dragon Army troops have advantage on Wisdom (Perception) checks. Troops remain on alert for twelve hours after spotting an enemy or finding other clear signs of enemy activity. In the case of other threats, troops remain on alert until the danger passes or is identified as a false alarm.
+
+**Impostors**
+
+Characters who wear Dragon Army armor have advantage on Charisma (Deception) checks made to pass as Dragon Army soldiers.
+
+**Dragonnel Rider**
+
+The Dragon Army has a secret weapon in area W8: a Dragon Army dragonnel and its Dragon Army officer rider (see appendix B for both stat blocks). If the characters don’t discover the pair first, the dragonnel and its rider take to the air and attack at a dramatic moment—likely after the characters have overcome most of the fort’s forces or as they work to open the gates in area W1.
+
 ## Wheelwatch Locations
 
 ### W1: Courtyard
@@ -71,26 +92,6 @@ The northwest tower is the largest of Wheelwatch’s guard towers. Its second fl
 On the first floor, a sivak draconian (see appendix B) stands guard in human guise. It’s using its Shape Theft reaction to take the form of a Kalaman soldier it killed. If slain, it shifts back to its true form. The sivak draconian has a small spell book. 
 
 Two Dragon Army soldiers (see appendix B) guard the second floor. Their alarm horn hangs on the south wall by the ladder.
-
-### Wheelwatch Alert
-
-The Dragon Army troops occupying Wheelwatch Outpost are on the lookout for danger. Use the following details to guide when the Dragon Army soldiers go on alert and how that affects their behaviour.
-
-**Alarm Horns**
-
-Each of the outpost’s corner guard posts (areas W2, area W3, and area W4) is equipped with an alarm horn. If a sentry in one of these areas notices enemies or unusual activity, they attempt to sound an alarm horn 1 round later on their turn. Once an alarm horn is sounded, the fort goes on alert.
-
-**Alert**
-
-If a threat is detected, the eight Dragon Army soldiers in area W5 rush to meet it (or gather in area W1 if the source is unclear). While on alert, Dragon Army troops have advantage on Wisdom (Perception) checks. Troops remain on alert for twelve hours after spotting an enemy or finding other clear signs of enemy activity. In the case of other threats, troops remain on alert until the danger passes or is identified as a false alarm.
-
-**Impostors**
-
-Characters who wear Dragon Army armor have advantage on Charisma (Deception) checks made to pass as Dragon Army soldiers.
-
-**Dragonnel Rider**
-
-The Dragon Army has a secret weapon in area W8: a Dragon Army dragonnel and its Dragon Army officer rider (see appendix B for both stat blocks). If the characters don’t discover the pair first, the dragonnel and its rider take to the air and attack at a dramatic moment—likely after the characters have overcome most of the fort’s forces or as they work to open the gates in area W1.
 
 ### W4: Northeast Fortification
 
