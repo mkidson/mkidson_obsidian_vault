@@ -65,6 +65,27 @@ $$
 where $\epsilon_j$ is the efficiency of detecting a neutron of a given energy $\phi_j$. With this modification, the unfolding process will produce a neutron energy spectrum corresponding to the *incident* neutrons, as opposed to just those detected. 
 
 # Time of Flight
+Unfolding requires knowing the response of the detector system to monoenergetic neutrons, which means making measurements where the energies of the incident neutrons are known. To do this, measurements were made at the PTB PIAF cyclotron facility, with time-of-flight. 
+
+The PTB PIAF cyclotron accelerates protons to ~17 MeV and fires them at a thick Be target. This produces a neutron field with a broad spectrum of energies, from ~1 MeV to about 16 MeV. Every time a proton is fired at the target, a signal is sent to the digitiser to be captured along with the event pulse. If an event is large enough to trigger the acquisition system, the signal from the digitiser will look something like the figure below.
+
+- Example ToF trace
+
+The time difference between the event pulse and the last ToF pulse is determined used CFD on both pulses. The actual place on the pulse that is chosen to take the time difference isn't critical, simply that the place is chosen consistently for each event as a calibration happens next. With a time difference found for each event, the following plot is produced, where the sharp peak on the right is the gamma rays, as the distance from target to detector remains constant and so does the speed of light. 
+
+- time difference plot
+
+This gamma "flash", as it's called, is used to calibrate the technique, as the distance from target to detector can be measured. This gives a time-of-flight spectrum for all events in the detector, with the neutrons being the large chunk that first arrive at the detector after ~200 ns.
+
+- tof plot
+
+Lastly, knowing the time taken to travel a known distance, the velocity can be calculated, eventually leading to the neutron energy. Monoenergetic response functions are made by slicing these events according to their neutron energy.
+
+- response function plot
+
+
+
+
 
 
 # Simulation with GEANT4
