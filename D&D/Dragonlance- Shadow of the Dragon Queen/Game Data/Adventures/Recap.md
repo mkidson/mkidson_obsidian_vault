@@ -1,0 +1,27 @@
+# Notes
+
+- All five of the characters found themselves travelling to Vogler to attend the funeral of a dear friend, Ispin Greenshield.
+- Daethia and Rohlah awoke in a shared dream where they encountered their gods, Mishakal and Chislev respectively. They were then able to harness their magic.
+- Along the way to Vogler, the more magically inclined attended the Trial of the Barb, on the Night of the Eye, when Krynn’s three moons align and magic is in the air. This was the first step in their journey towards joining the Mages of High Sorcery, allowing them to legally practice magic on Ansalon.
+- After completing the trial, they were given scrolls and told not to open them, but rather give them to the mage Wyhan, in Kalaman.
+- Before finally reaching Vogler, they happened across a young farm worker named Rhys, who had witnessed strange lizard creatures killing some knights he was helping. The gang found the creatures and ran them off.
+- The gang finally arrived on the day of Ispin’s funeral. The ceremony was sombre as he was lowered into a boat on the river and sent off to the sea. A party followed, with many fantastical stories from all involved. One sour patch on the evening was a young, overconfident brat who turned out to be Bakaris “The Younger” Uth Estide, son of Lord Bakaris, a horrid man who claims glory for himself.
+- The gang met Becklin and Cudgel. Becklin is a Knight of Solamnia and was training up Darrett Highwater to be her squire and eventually a knight himself. Cudgel is the leader of the Ironclad Regiment. Both are old friends of Ispin’s.
+- At the party was a mysterious blue elf who claimed to be Silvanesti, yet didn’t know anything of the tragedy Daethia asked her about… How interesting.
+- The characters attended the Kingfisher festival, taking part in the festivities and even catching a fish or two in the competition! Mayor Raven (Maven) took part and won handily, being a very experienced fisher.
+- The characters were asked by Ispin to do one last thing for him, which was taking part in the battle reenactment and dying a fabulous death in remembrance of him. They agreed and lined up on the hill.
+- As they began to charge, the glint of real weapons from the other side was noticed by one or two characters, but it was too late. A full on battle broke out, with the Ironclad Regiment betraying Cudgel and the people of Vogler. The characters fought the leader of the rebels, Gragonis the half-ogre, and captured him.
+- Gragonis was interrogated and mentioned being paid by someone in a cloak wearing red and black armour.
+- Some investigation of the surrounding area revealed a HUGE army of red and black.
+- Cudgel introduced her lieutenant, Jeyev Veldrews, who she believed to be faithful as he and the remaining mercenaries could have easily overpowered her by this point.
+- While deciding what to do about the army, a soldier in red and black, on horseback, arrived to give the message that the town will be invaded and they should accommodate the army or be destroyed.
+- After much thought, the characters helped the town to evacuate on a flotilla of rafts, down the Vingaard river. Just as the last boat was being boarded, carrying Becklin, Cudgel, Jeyev, Mayor Raven, and the characters, the army broke through and invaded the town, burning buildings and destroying the much-loved town.
+- On the way down the river towards Kalaman, Becklin and Cudgel jumped out to travel West and take word of this invasion to the Knights of Solamnia. The characters couldn’t join them. Becklin left a box for the characters to give to Darrett. Inside is a suit of armour.
+- In Kalaman, the refugees set up camp outside the city walls while the characters went to talk to the Governor about housing them. They were beaten to the punch by Lord Bakaris, who claimed to be the hero of the story despite being a coward and fleeing early.
+- The characters met the Governor and the Marshal, Vendri, offering their help with combatting the army that’s coming. They were signed onto the city army, other than Daethia and Xoe due to dumb personal reasons idk.
+- Darrett has also signed up as an officer and is the one who brings them their missions.
+- Before missioning, the crew took their scrolls to Wyhan at her Apothecary. She promised to contact the characters when they will be able to do their Test of High Sorcery in Wayreth.
+- Their first mission was to go speak to a gnome called Tatiana Rookledust about the great hunking metal dragon construct they saw when evacuating Vogler. They found her beset by goblins, who they beat handily. They discovered the army is called the Red Dragon Army and the goblins were sent here to get a weapon.
+- Rookledust agreed to come to Kalaman to advise on matters of constructs etc. She also gave the characters the “Fargab”, which allows them to speak to one another across large distances.
+- The characters returned to Kalaman and then were given a number of missions to go on. They first rescued a scout from the forest north of the Vingaard river, crossing with the help of Jerry Mander, the spunky Kender man.
+- I think that’s where we left off, with two other missions to choose from (and secret encounters hehehehehehe)

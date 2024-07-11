@@ -6,24 +6,24 @@ Once they have ideas for characters:
 - Characters should be level 1 but be prepped to jump to level 2 mid-session
 - characters should be “willing to join a war/army”
 
+  
+
 For the “Broken Silence” prelude:
 
 - Which god do you worship?
 - Have you worshipped for a while or is this going to be the first encounter?
 - remind them that the power of the gods has not been seen on Krynn for centuries
 
+  
+
+  
+
+  
+
 Wherever they are in the world of Krynn, the characters receive a letter addressed to them. It reads:
 
-> [! Note]
-> Dear friend,
-> I am Becklin Uth Viharin. I’ve heard much about you from our mutual friend, Ispin Greenshield. It grieves me to share the news that our dear friend Ispin passed away peacefully here at his home in Vogler. May fortune and the old gods protect his soul.
-> 
-> Ispin’s friends are holding a memorial for him in the manner he always wanted. It will take place here in Vogler on the eve of the Kingfisher Festival. I write to ask you to do Ispin one last honor and attend. Should you come, accommodations will be available at the Brass Crab.
-> 
-> Though the circumstances are sad, I am eager to meet you and, through our memories, to revel in the life of our great friend.
-> 
-> Becklin Uth Viharin Knight of the Crown
-
+> [!important]  
+> Dear friend,I am Becklin Uth Viharin. I’ve heard much about you from our mutual friend, Ispin Greenshield. It grieves me to share the news that our dear friend Ispin passed away peacefully here at his home in Vogler. May fortune and the old gods protect his soul.Ispin’s friends are holding a memorial for him in the manner he always wanted. It will take place here in Vogler on the eve of the Kingfisher Festival. I write to ask you to do Ispin one last honor and attend. Should you come, accommodations will be available at the Brass Crab.Though the circumstances are sad, I am eager to meet you and, through our memories, to revel in the life of our great friend.Becklin Uth ViharinKnight of the Crown  
 
 Having grown very fond of the old adventurer Ispin, you quickly begin your journey to the port city of Kalaman, in the province of Solamnia.
 
