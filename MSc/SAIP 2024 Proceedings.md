@@ -46,9 +46,23 @@ EJ-276 scintillator is made of hydrogen and carbon atoms, with a roughly equal n
 
 This means that there are effectively 3 reactions that produce enough light to actually be detected: (n,p) elastic scatter on hydrogen, 1 alpha (& 9-Be), and 3 alphas. These three are dominated by elastic scatter on hydrogen, which is where the vast majority of the usable data come from. Below is a diagram showing the kinematics of the (n,p) elastic scatter. Note that the proton can recoil with any angle $-\pi/2 \leq \theta \leq \pi/2$, with the cross-section being about equal for all angles. This means that the energy of the recoiling proton cannot necessarily carry any information about the energy of the incident neutron. On an event-by-event basis, the energy of the incident neutron cannot be known. 
 
-Since the intention of this work is to create a neutron spectrometer, knowing the energy of the neutrons incident on the detector is quite import
-
 - Scattering diagram from Knoll
+
+Since the intention of this work is to create a neutron spectrometer, knowing the energy of the neutrons incident on the detector is quite important, so another technique must be used to determine this information. Instead of finding the energy event-by-event, the energy of the spectrum as a whole is determined using a technique called spectral unfolding, which assumes that the measured light output spectrum of a neutron field with a complex combination of neutron energies is simply the linear combination of light output spectra corresponding to monoenergetic neutrons. 
+
+$$ 
+z_{i} = \sum\limits_{j=1}^{m}R_{ij}\phi_{j}
+$$
+
+Then, with $z_i$ being the measured neutron light output spectrum, $R_{ij}$ being a matrix containing the monoenergetic light output responses, and $\phi_j$ being the actual energies of the neutrons detected, the above equation can be deconvolved or "unfolded", to determine the energy spectrum of the neutrons detected. This unfolding process is done using a code called GRAVEL or MAXED and works by doing a gradient descent on the parameters in the case of GRAVEL, or a Monte Carlo-based search of the parameter space in the case of MAXED.
+
+Of course, the spectrum of the neutrons detected is not necessarily the same as the spectrum of neutrons incident on the detector, as detection efficiency varies with neutron energy. As such, the detection efficiency must be considered when doing unfolding, which leaves the equation looking like
+
+$$
+z_{i} = \sum\limits_{j=1}^{m}R_{ij}{\color{red}\epsilon_j}\phi_{j},
+$$
+
+where $\epsilon_j$ is the efficiency of detecting a neutron of a given energy $\phi_j$. With this modification, the unfolding process will produce a neutron energy spectrum corresponding to the *incident* neutrons, as opposed to just those detected. 
 
 # Time of Flight
 
