@@ -93,9 +93,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d271601c8b96369b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Dragonlance/Dragonlance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c84fef3d53d120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Dragonlance/Session 0 Planning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "D&D/Dragonlance/Session 0 Planning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "D&D/Dragonlance/Session 0 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "D&D/Dragonlance/Session 0 Planning.md"
               }
             }
           },
@@ -250,11 +276,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "579bd18c55e1c1b4",
+  "active": "39c84fef3d53d120",
   "lastOpenFiles": [
+    "D&D/Dragonlance/Dragonlance.md",
+    "D&D/Dragonlance/Session 0 Planning.md",
+    "MSc/SAIP 2024 Proceedings.md",
+    "D&D/Dragonlance",
+    "D&D",
     "MSc/Detector name options.md",
     "MSc/SANSA Bursary application.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
     "QR Code Scanner/Jazz Fest QR Code Scanner.md",
     "QR Code Scanner/JS Package.md",
@@ -281,13 +311,9 @@
     "MSc/To-Do files/Uncertainty on the E value for a given L edge position.md",
     "MSc/To-Do files/Let's get going on uncertainties.md",
     "MSc/To-Do files/Towards a usable workflow of data to results.md",
-    "MSc/To-Do files/Thesis structure and a plan for realising it.md",
-    "MSc/To-Do files/Quick investigation into SiPM temperature dependence.md",
     "MSc/To-Do files",
     "QR Code Scanner",
     "PhD",
-    "MSc",
-    "Daily Notes",
-    "Crossword"
+    "MSc"
   ]
 }
