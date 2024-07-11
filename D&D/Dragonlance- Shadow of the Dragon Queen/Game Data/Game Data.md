@@ -1,5 +1,3 @@
-[[PCs]]
-
 [[NPCs]]
 
 [[Sessions]]

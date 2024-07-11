@@ -162,3 +162,5 @@ Any Dragon Army soldier taken captive during the mission makes one of the follow
 
 ---
 Once they're done here, they will travel back to Kalaman, victorious, but it won't quite be as they'd hoped.
+
+[[Battle at Steel Springs]]

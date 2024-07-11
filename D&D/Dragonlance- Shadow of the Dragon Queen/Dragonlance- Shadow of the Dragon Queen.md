@@ -1,14 +1,15 @@
 # Sessions
 
-| Session Name                                                                                              | Date | Characters |
-| --------------------------------------------------------------------------------------------------------- | ---- | ---------- |
+| Session Name                               | Date | Characters |
+| ------------------------------------------ | ---- | ---------- |
 | [[Session 0 Planning\|Session 0 Planning]] |      |            |
-| [[Preludes]]                                                                                              |      |            |
-| [[Vogler]]                                                                                                |      |            |
-| [[Kalaman Sessions]]                                                                                      |      |            |
-| [[Kalaman City]]                                                                                          |      |            |
-| [[Recap]]                                                                                                 |      |            |
-| [[Wheelwatch Outpost]]                                                                                    |      |            |
+| [[Preludes]]                               |      |            |
+| [[Vogler]]                                 |      |            |
+| [[Kalaman Sessions]]                       |      |            |
+| [[Kalaman City]]                           |      |            |
+| [[Recap]]                                  |      |            |
+| [[Wheelwatch Outpost]]                     |      |            |
+| [[Battle at Steel Springs]]                |      |            |
 
 ---
 # Chapters
@@ -60,21 +61,6 @@
 |[[Thornwall Keep]]|[[Becklin Uth Viharin]], [[Darrett Highwater]]|
 |[[Village Circle]]||
 |[[Castle Kalaman]]|[[Marshal Vendri]], [[Governor Calof Miat]]|
-
-  
-  
-
----
-
-#### PCs
-
-|PC Name|Categories|Image|Player|Related to Sessions (Characters)|Short Description|
-|---|---|---|---|---|---|
-|[[Merle Highchurch]]|[[Male]]|![[merle.jpg]]|||I cast Zone of Truth|
-|[[Untitled]]||||||
-
-  
-  
 
 ---
 
