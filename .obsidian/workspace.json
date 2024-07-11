@@ -56,6 +56,19 @@
             }
           },
           {
+            "id": "40a0368571db03f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8b2e473c8b11493",
             "type": "leaf",
             "state": {
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
+                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
+                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md"
+                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md"
               }
             }
           },
@@ -201,7 +214,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5e2176fd98b2929a",
@@ -237,8 +251,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8b2e473c8b11493",
+  "active": "40a0368571db03f5",
   "lastOpenFiles": [
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
+    "D&D/Spell Scroll.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Spell Scrolls.md",
+    "HTML import/test.md",
+    "HTML import/SDB5e_SpellBlock.asp?SDBID=231.md",
+    "HTML import",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+    "MSc/Thesis.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Froswin.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Elthar.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Governor Calof Miat.md",
@@ -246,12 +269,9 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Veldrews.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Verldrews.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/NPCs.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Darrett Highwater.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Becklin Uth Viharin.md",
@@ -260,11 +280,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Maps/Maps.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/Bakaris “the Younger” Uth Estide.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Ispin Greenshield.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Notes on the campaign.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Levelling Milestones.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Places.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Categories for Characters.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/Vogler.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",
@@ -284,7 +299,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Categories for Characters",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs",
     "MSc/Thesis_Canvas.canvas"
   ]
 }

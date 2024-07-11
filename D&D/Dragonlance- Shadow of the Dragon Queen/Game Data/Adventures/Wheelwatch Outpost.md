@@ -68,7 +68,7 @@ The south guard towers are identical. In each, two Dragon Army soldiers (see app
 
 The northwest tower is the largest of Wheelwatch’s guard towers. Its second floor is identical to the first, accessed by the ladder here.
 
-On the first floor, a sivak draconian (see appendix B) stands guard in human guise. It’s using its Shape Theft reaction to take the form of a Kalaman soldier it killed. If slain, it shifts back to its true form.
+On the first floor, a sivak draconian (see appendix B) stands guard in human guise. It’s using its Shape Theft reaction to take the form of a Kalaman soldier it killed. If slain, it shifts back to its true form. The sivak draconian has a small spell book. 
 
 Two Dragon Army soldiers (see appendix B) guard the second floor. Their alarm horn hangs on the south wall by the ladder.
 

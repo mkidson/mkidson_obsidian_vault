@@ -1,71 +1,3 @@
-Encounters
-
-Merchants
-
-Danthelon’s Dancing Axe
-
-Entharl Danthelon
-
-Yssra Brackrel
-
-Eastway Expeditions
-
-Scalm Shilvin
-
-Some Magical Item Crafter/Curator
-
-City Market
-
-Wyhan’s Apothecary
-
-Meulara’s Oddities
-
-Harbreeze Bakery
-
-Entertainment
-
-Oasis Theatre
-
-Guilds
-
-Cartographers’
-
-Dockhands’
-
-Fishers’
-
-Masons’
-
-Shipwrights’
-
-Inns/Taverns/Brothels (ITB)
-
-Blushing Mermaid
-
-Jopalin’s Teahouse
-
-The Low Lantern
-
-Eomane House
-
-The Undercellar
-
-The Steady Beacon
-
-Craftsmen
-
-Hammerstrike Forges
-
-Public Services
-
-Garynmor Stables and Menagerie
-
-Kalaman Harbour
-
-Decoration
-
-The Drawing Tree
-
 # Encounters
 
 |d4|Type of Interaction|
@@ -75,20 +7,20 @@ The Drawing Tree
 |3|Upper City|
 |4|Outer City|
 
-|d12|Interaction|
-|---|---|
-|1|A band of crew members with purple armbands and fabulous eye makeup — the Bloomridge Dandies — stop the party to tell the characters they’re watching them and to keep their noses clean.|
-|2|A reporter from Kalaman’s Mouth waves the party over, hoping they’ll help her get information for a story about some outrageous conspiracy.|
-|3|A man offers to sell the party a glass eye. Later, a drunk stumbles away from the Blushing Mermaid tavern, searching every gutter for his missing eye.|
-|4|An undertaker from Candulhallow’s Arrangements approaches and asks if the party has considered undeath insurance, ominously warning about liabilities should their corpses commit post-death damages.|
-|5|Scalm Shilvin of Eastway Expeditions mocks a party member’s armour. She offers to apply “raptor repellent” at the discounted price of 10 gp.|
-|6|A man with a dreadful fear of rats races down the street and slams into the party, having witnessed a bunch of rats feeding on something in an alley.|
-|7|The druid Torimesh offers one party member a strange symbol stained on a piece of bark. He tells the party that the Drawing Tree sent it as a message.|
-|8|The city’s sketchiest tea enthusiast invites the party into Jopalin’s for a free cup of the café’s special blend.|
-|9|A rough-and-tumble woman gets chummy with the party and tells characters that Laraelra Thundreth is hiring bouncers at the Low Lantern.|
-|10|A winding crack in the street shrieks when a specific party member steps on it. The crack runs for blocks, tracing back to Mandorcai’s Mansion.|
-|11|Two drunk sailors invite the characters to join them in singing a well-known shanty called _Really Big Oysters_, but one quickly keels over backwards and the other goes to help him.|
-|12|A reeking, damp “druid” flees from the direction of the harbour. If stopped, the panicked man claims “Something hatched!”|
+| d12 | Interaction                                                                                                                                                                                           |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A band of crew members with purple armbands and fabulous eye makeup — the Bloomridge Dandies — stop the party to tell the characters they’re watching them and to keep their noses clean.             |
+| 2   | A reporter from Kalaman’s Mouth waves the party over, hoping they’ll help her get information for a story about some outrageous conspiracy.                                                           |
+| 3   | A man offers to sell the party a glass eye. Later, a drunk stumbles away from the Blushing Mermaid tavern, searching every gutter for his missing eye.                                                |
+| 4   | An undertaker from Candulhallow’s Arrangements approaches and asks if the party has considered undeath insurance, ominously warning about liabilities should their corpses commit post-death damages. |
+| 5   | Scalm Shilvin of Eastway Expeditions mocks a party member’s armour. She offers to apply “raptor repellent” at the discounted price of 10 gp.                                                          |
+| 6   | A man with a dreadful fear of rats races down the street and slams into the party, having witnessed a bunch of rats feeding on something in an alley.                                                 |
+| 7   | The druid Torimesh offers one party member a strange symbol stained on a piece of bark. He tells the party that the Drawing Tree sent it as a message.                                                |
+| 8   | The city’s sketchiest tea enthusiast invites the party into Jopalin’s for a free cup of the café’s special blend.                                                                                     |
+| 9   | A rough-and-tumble woman gets chummy with the party and tells characters that Laraelra Thundreth is hiring bouncers at the Low Lantern.                                                               |
+| 10  | A winding crack in the street shrieks when a specific party member steps on it. The crack runs for blocks, tracing back to Mandorcai’s Mansion.                                                       |
+| 11  | Two drunk sailors invite the characters to join them in singing a well-known shanty called _Really Big Oysters_, but one quickly keels over backwards and the other goes to help him.                 |
+| 12  | A reeking, damp “druid” flees from the direction of the harbour. If stopped, the panicked man claims “Something hatched!”                                                                             |
 
 |d12|Interaction|
 |---|---|
