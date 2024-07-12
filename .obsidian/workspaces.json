@@ -1,0 +1,394 @@
+{
+  "workspaces": {
+    "Physics": {
+      "main": {
+        "id": "ec808c34a31c2ae4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8545cb1697ad9743",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b99f809a1c7cdbb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "MSc/MSc Kanban.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "808d170c6ad8f0a6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSc/Thesis.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "55a84f077b7eafbe",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5aa8e9dbcec004c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ef86e625dcfc59d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6b100aca2ec60f19",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3f03e2eaa420809f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 238.5
+      },
+      "right": {
+        "id": "f81b7733af5458c3",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a8c5f9fe88efcd7",
+            "type": "tabs",
+            "dimension": 74.0530303030303,
+            "children": [
+              {
+                "id": "806aa30da74e4db3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "MSc/Thesis.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8ed96f4c3489fa90",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "MSc/Thesis.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e7b56ecadb024cf9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "35a9006f313788e5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "MSc/Thesis.md"
+                  }
+                }
+              },
+              {
+                "id": "664199f0b277803d",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "5e2176fd98b2929a",
+            "type": "tabs",
+            "dimension": 25.946969696969695,
+            "children": [
+              {
+                "id": "05adfc1bf9a71871",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-kanban:Create new board": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "obsidian-importer:Open Importer": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "808d170c6ad8f0a6",
+      "mtime": "2024-07-12T10:16:10+02:00"
+    },
+    "D&D": {
+      "main": {
+        "id": "ec808c34a31c2ae4",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8f14f2457da57db",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18c887516e9fb872",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "55a84f077b7eafbe",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5aa8e9dbcec004c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ef86e625dcfc59d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6b100aca2ec60f19",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3f03e2eaa420809f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 238.5
+      },
+      "right": {
+        "id": "f81b7733af5458c3",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a8c5f9fe88efcd7",
+            "type": "tabs",
+            "dimension": 74.0530303030303,
+            "children": [
+              {
+                "id": "806aa30da74e4db3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8ed96f4c3489fa90",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e7b56ecadb024cf9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "35a9006f313788e5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md"
+                  }
+                }
+              },
+              {
+                "id": "664199f0b277803d",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "5e2176fd98b2929a",
+            "type": "tabs",
+            "dimension": 25.946969696969695,
+            "children": [
+              {
+                "id": "05adfc1bf9a71871",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-kanban:Create new board": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "obsidian-importer:Open Importer": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "3ef86e625dcfc59d",
+      "mtime": "2024-07-12T10:15:29+02:00"
+    }
+  },
+  "active": "D&D"
+}

@@ -1,5 +1,5 @@
 [[NPCs]]
 
-[[Sessions]]
+[[Adventures]]
 
 [[Chapters]]

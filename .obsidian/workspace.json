@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4b214106114521",
+        "id": "c8f14f2457da57db",
         "type": "tabs",
         "children": [
           {
-            "id": "94d6337da1ba3470",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MSc/MSc Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e95a8f89808eb952",
+            "id": "18c887516e9fb872",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,12 +23,12 @@
             }
           },
           {
-            "id": "9ddbf7102d781712",
+            "id": "8584b17039d3f9d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "D&D/Spell Scroll.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "D&D/Spell Scroll.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "D&D/Spell Scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "D&D/Spell Scroll.md"
               }
             }
           },
@@ -176,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5e2176fd98b2929a",
@@ -209,16 +189,23 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "664199f0b277803d",
+  "active": "8584b17039d3f9d4",
   "lastOpenFiles": [
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session 0 Planning.md",
+    "D&D/Spells",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Adventures.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "MSc/Thesis.md",
+    "MSc/MSc Kanban.md",
+    "MSc/SAIP 2024 Proceedings.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Sessions.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/11-7-2024.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Sessions",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
     "D&D/Spell Scroll.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
@@ -228,7 +215,6 @@
     "HTML import/test.md",
     "HTML import/SDB5e_SpellBlock.asp?SDBID=231.md",
     "HTML import",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Froswin.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Elthar.md",
@@ -237,11 +223,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Veldrews.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Verldrews.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/NPCs.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Darrett Highwater.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Becklin Uth Viharin.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Chapters.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",
@@ -259,7 +240,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Character Creation/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Categories for Characters",
     "MSc/Thesis_Canvas.canvas"
   ]
 }
