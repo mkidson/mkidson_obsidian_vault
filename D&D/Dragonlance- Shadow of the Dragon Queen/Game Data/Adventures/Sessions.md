@@ -7,3 +7,4 @@
 | [[Kalaman City]]                           |            |      |
 | [[Recap]]                                  |            |      |
 | [[Wheelwatch Outpost]]                     |            |      |
+
