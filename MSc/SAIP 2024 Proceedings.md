@@ -1,3 +1,4 @@
+#physics #SAIP #proceedings #neutrons #spectrometry #dosimetry #metrology 
 # Don't forget to do the submission form thing, for supervisor signature etc.
 
 # Introduction
@@ -83,12 +84,20 @@ Lastly, knowing the time taken to travel a known distance, the velocity can be c
 
 - response function plot
 
-
+***Maybe put in something about the edge positions giving us E vs L*** 
 
 
 
 
 # Simulation with GEANT4
+The GEANT4 Monte Carlo simulation framework was used to determine the neutron detection efficiency for a given neutron energy. The EJ-276 plastic scintillator was modelled according to the number densities supplied in the online documentation. Monoenergetic neutrons were simulated incident on the scintillator, flooding the entire volume, with energies from 1 MeV to 20 MeV (double check that). The energy deposited by the recoiling charged particles was recorded, separately for each individual recoil product, and then converted to light output parameter L using the edge positions of the measured response functions
+
+
+
+## The alpha issue
+
+
+
 
 # Measurements
 

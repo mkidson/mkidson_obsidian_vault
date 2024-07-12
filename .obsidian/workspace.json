@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f14f2457da57db",
+        "id": "8545cb1697ad9743",
         "type": "tabs",
         "children": [
           {
-            "id": "18c887516e9fb872",
+            "id": "2b99f809a1c7cdbb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MSc/MSc Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "808d170c6ad8f0a6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+                "file": "MSc/Thesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +43,12 @@
             }
           },
           {
-            "id": "8584b17039d3f9d4",
+            "id": "6aad8db26409be93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Spell Scroll.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Spell Scroll.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Spell Scroll.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Spell Scroll.md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -193,21 +213,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8584b17039d3f9d4",
+  "active": "35a9006f313788e5",
   "lastOpenFiles": [
+    "Science/Silicon Photomultipliers.md",
+    "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
+    "Science/Plastic Scintillator.md",
+    "MSc/Thesis.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session 0 Planning.md",
+    "D&D/Spell Scroll.md",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Adventures.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
-    "MSc/Thesis.md",
     "MSc/MSc Kanban.md",
     "MSc/SAIP 2024 Proceedings.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
-    "D&D/Spell Scroll.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Maps/Maps.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Recap.md",
@@ -221,8 +244,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Governor Calof Miat.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Yalme.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Veldrews.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Verldrews.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/NPCs.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",

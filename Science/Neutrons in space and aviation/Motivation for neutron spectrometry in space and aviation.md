@@ -1,3 +1,4 @@
+#neutrons #space #spectrometry #aviation #physics 
 - Astronauts in long term missions by far exceed the annual dose limits applied for radiation workers on earth and the exposure to space radiation remains one of the major health concerns for astronauts (Chancellor et al., 2014)
 - Solar flares produce additional neutrons with energies ranging from thermal up to several GeV (Armstrong et al., 2001).
 - Measurements inside the ISS have mostly been carried out for the charged particle component, resulting in dose equivalent values around 500 µSv/day depending on the location inside the ISS (Smith et al., 2013).
