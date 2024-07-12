@@ -90,12 +90,18 @@ Lastly, knowing the time taken to travel a known distance, the velocity can be c
 
 
 # Simulation with GEANT4
-The GEANT4 Monte Carlo simulation framework was used to determine the neutron detection efficiency for a given neutron energy. The EJ-276 plastic scintillator was modelled according to the number densities supplied in the online documentation. Monoenergetic neutrons were simulated incident on the scintillator, flooding the entire volume, with energies from 1 MeV to 20 MeV (double check that). The energy deposited by the recoiling charged particles was recorded, separately for each individual recoil product, and then converted to light output parameter L using the edge positions of the measured response functions
+The GEANT4 Monte Carlo simulation framework was used to determine the neutron detection efficiency for a given neutron energy. The EJ-276 plastic scintillator was modelled according to the number densities supplied in the online documentation. Monoenergetic neutrons were simulated incident on the scintillator, flooding the entire volume, with energies from 1 MeV to 20 MeV (double check that as well as the spacing). The energy deposited by the recoiling charged particles was recorded, separately for each individual recoil product, and then converted to light output parameter L using the edge positions of the measured response functions. Combining the light output from each recoil product per incident neutron event, the total light output per event can be found. 
 
+A light output threshold is chosen and all events with L greater than that threshold get counted. Dividing by the total number of incident neutrons gives the neutron detection efficiency for that threshold, at that neutron energy. This process is repeated at each desired energy. This produces an efficiency curve such as the one seen below.
 
+- Typical efficiency curve
 
 ## The alpha issue
+When a neutron is travelling through a medium in GEANT4, the program decides through a number of branching probabilities if an interaction will happen, and if so which interaction and how much energy will be deposited. Below 20 MeV, the distributions that GEANT4 samples from to make decisions are verified against measured data, but one issue was found in the simulation that affected how low the efficiency threshold could be set. 
 
+When considering inelastic scatter of neutrons on carbon nuclei, there are two main processes that produce enough light to be seen in the light output spectra for neutrons below 20 MeV. Those are 1-alpha and 3-alpha production, and they work in much the same way.
+***Look at Table 1 in Garcia et al.***
+Garcia et al. (2017) showed that GEANT4 does not model these carbon breakup reactions properly. For this reason, the efficiency threshold had to be chosen to be above any possible alpha particle responses. In the case of 20 MeV neutrons, this is around 1.9 MeVee. 
 
 
 

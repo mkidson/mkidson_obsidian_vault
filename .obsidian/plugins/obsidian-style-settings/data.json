@@ -1,7 +1,7 @@
 {
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Appearance-dark@@accent-dark": "#485FFB",
+  "Appearance-dark@@accent-dark": "#8748FB",
   "Appearance-dark@@accent-color-override-dark": true,
   "Components@@tab-autohide": false,
   "Components@@status-bar-autohide": false,
@@ -26,5 +26,10 @@
   "Editor@@h1-size": "2em",
   "Editor@@h2-size": "1.75em",
   "Editor@@h3-size": "1.5em",
-  "Editor@@h4-size": "1.25em"
+  "Editor@@h4-size": "1.25em",
+  "Editor@@h1-accent-color@@dark": "#00BF00",
+  "Editor@@h2-accent-color@@dark": "#7CDCF0",
+  "Editor@@h3-accent-color@@dark": "#5C5FFB",
+  "Editor@@h5-accent-color@@dark": "#9900FF",
+  "Editor@@hover-indicator-color@@dark": "#8748FB2E"
 }

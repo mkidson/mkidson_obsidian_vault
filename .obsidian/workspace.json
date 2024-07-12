@@ -68,6 +68,7 @@
       {
         "id": "d5aa8e9dbcec004c",
         "type": "tabs",
+        "dimension": 72.96511627906976,
         "children": [
           {
             "id": "3ef86e625dcfc59d",
@@ -103,6 +104,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "815b955c2aece699",
+        "type": "tabs",
+        "dimension": 27.03488372093023,
+        "children": [
+          {
+            "id": "05adfc1bf9a71871",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +131,6 @@
       {
         "id": "1a8c5f9fe88efcd7",
         "type": "tabs",
-        "dimension": 74.0530303030303,
         "children": [
           {
             "id": "806aa30da74e4db3",
@@ -123,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,21 +188,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "5e2176fd98b2929a",
-        "type": "tabs",
-        "dimension": 25.946969696969695,
-        "children": [
-          {
-            "id": "05adfc1bf9a71871",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -213,8 +209,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "35a9006f313788e5",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
+    "MSc/SAIP 2024 Proceedings.md",
     "Science/Silicon Photomultipliers.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
     "Science/Plastic Scintillator.md",
@@ -226,7 +223,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Adventures.md",
     "MSc/MSc Kanban.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
