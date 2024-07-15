@@ -46,14 +46,12 @@
             "id": "1e17fe0723462b54",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MSc/SAIP 2024 proceedings.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -390,
-                  "zoom": -0.44180172461550593
-                }
+                "file": "MSc/SAIP 2024 Proceedings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -82,22 +80,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6762740db1a7390d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Detector name options.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Detector name options.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Detector name options.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Detector name options.md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -254,19 +239,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6762740db1a7390d",
+  "active": "1e17fe0723462b54",
   "lastOpenFiles": [
+    "MSc/SAIP 2024 proceedings.canvas",
     "Daily Notes/2024-07-15.md",
-    "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Detector name options.md",
-    "MSc/MSc Kanban.md",
     "MSc/Plot examples.md",
+    "MSc/MSc Kanban.md",
+    "MSc/Thesis.md",
+    "MSc/Detector name options.md",
+    "MSc/SAIP 2024 Proceedings.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
-    "MSc/SAIP 2024 proceedings.canvas",
-    "MSc/Thesis.md",
     "Science/Plastic Scintillator.md",
     "Science/Silicon Photomultipliers.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
@@ -285,7 +270,6 @@
     "HTML import/test.md",
     "HTML import/SDB5e_SpellBlock.asp?SDBID=231.md",
     "HTML import",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",

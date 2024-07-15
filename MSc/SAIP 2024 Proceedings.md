@@ -1,5 +1,6 @@
 #physics #SAIP #proceedings #neutrons #spectrometry #dosimetry #metrology 
 # Don't forget to do the submission form thing, for supervisor signature etc.
+# And acknowledge IRSN
 
 # Introduction
 Neutrons as secondary radiation from high energy charged particles are present in many environments and pose a great risk biologically and to electronics and machinery. Two of those environments are at aviation altitudes, due to spallation in the atmosphere from cosmic rays, and in proton therapy centres, where interactions of the protons with the materials present result in fast neutrons. The characterisation of these fields using a neutron spectrometer is clearly of great importance.
