@@ -107,4 +107,22 @@ Garcia et al. (2017) showed that GEANT4 does not model these carbon breakup reac
 
 # Measurements
 
+Measurements of the response functions were made at the PTB PIAF cyclotron facility. 
+
+***NEED DETAILS ON HOW THE NEUTRON-PRODUCING REACTIONS WORK***
+
+The detectors were placed (12.00 +/- etc) m from the Be target and measurements made for 12 hours, stopping every hour to save and restart for the sake of stability. Those data were merged into one analysis and the following results obtained.
+
+# Results
+
+
+## Response Functions
+
+## Unfolding (do we do before and after?)
+
+
+
+
+# Discussion and Conclusions
+
 

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"f8b6c8ce2e62806c","type":"text","text":"Introduction","x":85,"y":-1000,"width":250,"height":60},
+		{"id":"9626b2460769d0ef","type":"text","text":"Detector Concept","x":85,"y":-820,"width":250,"height":60},
+		{"id":"77d9e5fd8c219217","x":85,"y":-640,"width":250,"height":60,"type":"text","text":"Pulse Shape Discrimination"},
+		{"id":"e93a7b27df9b9360","x":260,"y":-480,"width":250,"height":60,"type":"text","text":"MeVee units"},
+		{"id":"2dfceda96f1e5df9","x":260,"y":160,"width":250,"height":60,"type":"text","text":"Results"},
+		{"id":"440daa871d29531f","x":260,"y":40,"width":250,"height":60,"type":"text","text":"Measurements"},
+		{"id":"b8f4606218519791","x":85,"y":-400,"width":250,"height":60,"type":"text","text":"Unfolding Theory"},
+		{"id":"f0d3cfcaa68988ce","type":"file","file":"MSc/SAIP 2024 Proceedings.md","x":-540,"y":-450,"width":400,"height":260},
+		{"id":"26613d225eef7170","x":85,"y":-270,"width":250,"height":60,"type":"text","text":"Time of Flight"},
+		{"id":"9622a293350a2de6","x":385,"y":-245,"width":195,"height":70,"type":"text","text":"Simulation with GEANT4"}
+	],
+	"edges":[
+		{"id":"cabd49730e107528","fromNode":"f8b6c8ce2e62806c","fromSide":"bottom","toNode":"9626b2460769d0ef","toSide":"top"},
+		{"id":"bd743166612d1185","fromNode":"9626b2460769d0ef","fromSide":"bottom","toNode":"77d9e5fd8c219217","toSide":"top"},
+		{"id":"68c5681dd90e5e98","fromNode":"77d9e5fd8c219217","fromSide":"bottom","toNode":"e93a7b27df9b9360","toSide":"top"},
+		{"id":"bcf7204d4138c1eb","fromNode":"440daa871d29531f","fromSide":"bottom","toNode":"2dfceda96f1e5df9","toSide":"top"},
+		{"id":"ef92ec542f5d8894","fromNode":"77d9e5fd8c219217","fromSide":"bottom","toNode":"b8f4606218519791","toSide":"top"},
+		{"id":"0908cfb834fb6143","fromNode":"b8f4606218519791","fromSide":"bottom","toNode":"26613d225eef7170","toSide":"top"},
+		{"id":"b5845e7b16649a1c","fromNode":"b8f4606218519791","fromSide":"bottom","toNode":"9622a293350a2de6","toSide":"top"},
+		{"id":"e887eb9d08d5e82e","fromNode":"26613d225eef7170","fromSide":"bottom","toNode":"9622a293350a2de6","toSide":"left"},
+		{"id":"f904a22939f5983b","fromNode":"26613d225eef7170","fromSide":"bottom","toNode":"440daa871d29531f","toSide":"top"},
+		{"id":"b7d6f088b17c0cb9","fromNode":"9622a293350a2de6","fromSide":"bottom","toNode":"440daa871d29531f","toSide":"top"}
+	]
+}

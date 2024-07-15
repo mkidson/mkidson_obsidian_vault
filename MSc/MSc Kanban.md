@@ -19,7 +19,6 @@ kanban-plugin: board
 - [ ] Check the fraction of escaping recoils in cylinder compared to sphere
 - [ ] [[Thesis structure and a plan for realising it]]
 - [ ] Make final plots of things where possible
-- [ ] Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.
 - [ ] Redo Cs simulation
 - [ ] Ask about fluence for ToF data
 - [ ] Check functional form of energy resolution against ToF sigma data
@@ -42,6 +41,7 @@ kanban-plugin: board
 - [ ] Compare to 0.3 MeVee threshold as alphas aren't in that region
 - [ ] [[MSc/SANSA Bursary application|SANSA Bursary application]]
 - [ ] [[SAIP 2024 Proceedings]] ^8fs028
+- [ ] Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.
 
 
 ## Complete

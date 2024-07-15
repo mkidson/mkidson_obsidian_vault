@@ -1,6 +1,6 @@
-# Sessions
+# Adventures
 
-| Session Name                               | Date | Characters |
+| Adventure Name                             | Date | Characters |
 | ------------------------------------------ | ---- | ---------- |
 | [[Session 0 Planning\|Session 0 Planning]] |      |            |
 | [[Preludes]]                               |      |            |

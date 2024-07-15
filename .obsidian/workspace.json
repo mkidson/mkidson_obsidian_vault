@@ -41,9 +41,49 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1e17fe0723462b54",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MSc/SAIP 2024 proceedings.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -390,
+                  "zoom": -0.44180172461550593
+                }
+              }
+            }
+          },
+          {
+            "id": "c6851a34062767ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/SAIP 2024 Proceedings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e394755f85a185c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Plot examples.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis.md"
+                "file": "MSc/MSc Kanban.md"
               }
             }
           },
@@ -200,14 +240,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "808d170c6ad8f0a6",
+  "active": "2b99f809a1c7cdbb",
   "lastOpenFiles": [
+    "MSc/Plot examples.md",
+    "MSc/SAIP 2024 Proceedings.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/Sessions.md",
+    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
+    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis.md",
     "Science/Plastic Scintillator.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "Science/Silicon Photomultipliers.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session 0 Planning.md",
     "D&D/Spell Scroll.md",
     "D&D/Spells",
@@ -215,7 +260,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Adventures.md",
     "MSc/MSc Kanban.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/11-7-2024.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
@@ -228,9 +272,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Battle at Steel Springs.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Froswin.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Elthar.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Governor Calof Miat.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Yalme.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Jeyev Veldrews.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",

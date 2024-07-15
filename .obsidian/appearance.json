@@ -7,5 +7,6 @@
   "monospaceFontFamily": "Droid Sans Mono",
   "baseFontSizeAction": true,
   "textFontFamily": "Helvetica,Times New Roman",
-  "interfaceFontFamily": "Helvetica"
+  "interfaceFontFamily": "Helvetica",
+  "theme": "obsidian"
 }
