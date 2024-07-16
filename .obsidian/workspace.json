@@ -164,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,10 +235,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e17fe0723462b54",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-15.md",
     "MSc/SAIP 2024 Proceedings.md",
+    "Daily Notes/2024-07-15.md",
     "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Plot examples.md",
     "MSc/MSc Kanban.md",
