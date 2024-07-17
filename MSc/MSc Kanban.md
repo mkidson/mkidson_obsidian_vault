@@ -28,6 +28,8 @@ kanban-plugin: board
 - [ ] [[Quick investigation into SiPM temperature dependence]]
 - [ ] Check the fraction of escaping recoils in cylinder compared to sphere
 - [ ] Histograms should go to zero at the start
+- [ ] [[Details on neutron energies in space]]
+- [ ] [[Read up on Bonner sphere systems]]
 
 
 ## In Progress

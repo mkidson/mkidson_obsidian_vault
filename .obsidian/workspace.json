@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "MSc/Thesis/Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/Thesis/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/Thesis/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Introduction.md"
+                "file": "MSc/Thesis/Theory.md"
               }
             }
           },
@@ -265,13 +265,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c94e2292802db3e8",
+  "active": "1e17fe0723462b54",
   "lastOpenFiles": [
-    "MSc/MSc Kanban.md",
-    "MSc/Thesis/Introduction.md",
-    "MSc/SAIP 2024 Proceedings.md",
-    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Theory.md",
+    "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Introduction.pdf",
+    "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/attachments/Pasted image 20240717121822.png",
+    "MSc/Thesis/attachments",
+    "MSc/MSc Kanban.md",
+    "MSc/To-Do files/Details on neutron energies in space.md",
+    "MSc/Thesis/READ UP ON BONNER SPHERES.md",
+    "MSc/To-Do files/Read up on Bonner sphere systems.md",
+    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
@@ -293,9 +300,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Maps/Maps.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Recap.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Spell Scrolls.md",
-    "HTML import/test.md",
     "HTML import",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
@@ -306,13 +310,10 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-035.evil-god-symbols.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-023.symbol-zivilyn.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-039.o-neutral-trio.png",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-033.neutral-god-symbols.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Maps/attachments",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Character Creation/attachments",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/attachments",
     "MSc/Thesis_Canvas.canvas"
   ]
 }
