@@ -43,19 +43,6 @@
             }
           },
           {
-            "id": "1e17fe0723462b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c94e2292802db3e8",
             "type": "leaf",
             "state": {
@@ -82,25 +69,12 @@
             }
           },
           {
-            "id": "c6851a34062767ba",
+            "id": "2194efdbc1f8e937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e394755f85a185c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Plot examples.md",
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Theory.md"
+                "file": "MSc/Thesis/Thesis.md"
               }
             }
           },
@@ -265,13 +239,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e17fe0723462b54",
+  "active": "808d170c6ad8f0a6",
   "lastOpenFiles": [
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Response functions and unfolding.md",
+    "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Introduction.md",
+    "Daily Notes/2024-07-15.md",
+    "MSc/Plot examples.md",
+    "MSc/Thesis/Prototyping.md",
     "MSc/Thesis/Introduction.pdf",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/attachments/Pasted image 20240717121822.png",
     "MSc/Thesis/attachments",
     "MSc/MSc Kanban.md",
@@ -280,8 +261,6 @@
     "MSc/To-Do files/Read up on Bonner sphere systems.md",
     "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis",
-    "Daily Notes/2024-07-15.md",
-    "MSc/Plot examples.md",
     "MSc/Detector name options.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
@@ -294,12 +273,7 @@
     "D&D/Spell Scroll.md",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Adventures.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman Sessions.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Wheelwatch Outpost.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Kalaman City.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Maps/Maps.md",
     "HTML import",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
