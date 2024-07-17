@@ -12,3 +12,7 @@
 	- Requirements
 	- Motivation for making the measurements and simulations
 - Time of flight maybe?
+
+
+# Theory
+## Scintillation

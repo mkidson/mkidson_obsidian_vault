@@ -80,9 +80,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0034d0ccd52d01ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13dcbda9be0415b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSc/Thesis/Thesis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,16 +261,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "808d170c6ad8f0a6",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
-    "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Thesis.md",
-    "MSc/Thesis/Response functions and unfolding.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Light output as a function of neutron energy.md",
+    "MSc/Thesis/Response functions and unfolding.md",
+    "MSc/Thesis/Simulation.md",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
     "MSc/Thesis/Prototyping.md",
