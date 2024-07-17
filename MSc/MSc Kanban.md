@@ -27,7 +27,6 @@ kanban-plugin: board
 - [ ] Look into FPGA programming
 - [ ] [[Quick investigation into SiPM temperature dependence]]
 - [ ] Check the fraction of escaping recoils in cylinder compared to sphere
-- [ ] SAIP Proceedings
 - [ ] Histograms should go to zero at the start
 
 
@@ -43,6 +42,7 @@ kanban-plugin: board
 - [ ] [[MSc/SANSA Bursary application|SANSA Bursary application]]
 - [ ] [[SAIP 2024 Proceedings]] ^8fs028
 - [ ] Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.
+- [ ] SAIP Proceedings
 
 
 ## Complete
