@@ -56,20 +56,7 @@
             }
           },
           {
-            "id": "92cc53ecb1d0ad11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2194efdbc1f8e937",
+            "id": "13dcbda9be0415b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,22 +80,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13dcbda9be0415b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md"
+              }
             }
           },
           {
@@ -261,13 +239,56 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05adfc1bf9a71871",
+  "floating": {
+    "id": "ee39ed290eb17120",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6f49dee63800dd3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "911acc9bb3c3a909",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "92cc53ecb1d0ad11",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSc/SAIP 2024 Proceedings.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1379,
+        "y": 19,
+        "width": 1317,
+        "height": 988,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "13dcbda9be0415b6",
   "lastOpenFiles": [
-    "MSc/Thesis/Thesis.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/attachments/ToF_E.png",
+    "MSc/Thesis/attachments/ToF_T.png",
+    "MSc/Thesis/attachments/ToF_Gamma_Peak.png",
+    "MSc/Thesis/attachments/ToF_T_uncalibrated.png",
     "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/attachments/ToF_event_trace.png",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Response functions and unfolding.md",
     "MSc/Thesis/Simulation.md",
@@ -294,7 +315,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session 0 Planning.md",
     "D&D/Spell Scroll.md",
     "D&D/Spells",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session Notes.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "HTML import",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
@@ -302,10 +322,6 @@
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/attachments/03-002.becklin-uth-viharin.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-030.symbol-zeboim.png",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-040.o-evil-trio.png",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-035.evil-god-symbols.png",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-023.symbol-zivilyn.png",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments/00-039.o-neutral-trio.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments",
