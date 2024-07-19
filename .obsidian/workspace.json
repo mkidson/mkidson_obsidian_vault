@@ -46,14 +46,12 @@
             "id": "c94e2292802db3e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
-                "viewState": {
-                  "x": 2752.895370808617,
-                  "y": 623.4009881100001,
-                  "zoom": -0.8803287016971946
-                }
+                "file": "MSc/Thesis/Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -89,15 +87,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Response functions.md",
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b125baffa0c81134",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MSc/Thesis/Thesis.canvas",
+                "viewState": {
+                  "x": 1183.5887224914889,
+                  "y": 646.2841506672352,
+                  "zoom": -1.1318003149564728
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
+                "file": "MSc/Thesis/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
+                "file": "MSc/Thesis/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas"
+                "file": "MSc/Thesis/Theory.md"
               }
             }
           },
@@ -254,22 +267,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ef86e625dcfc59d",
+  "active": "0034d0ccd52d01ec",
   "lastOpenFiles": [
-    "MSc/Thesis/Thesis.md",
-    "MSc/Thesis/Response functions.md",
-    "MSc/Thesis/Unfolding.md",
-    "MSc/Thesis/Thesis.canvas",
-    "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Introduction.md",
+    "MSc/MSc Kanban.md",
+    "MSc/Thesis/Theory.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/Test.md",
+    "MSc/Thesis/Response functions.md",
+    "MSc/Thesis/Thesis.canvas",
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/attachments/Pasted image 20240719121013.png",
+    "MSc/Thesis/Unfolding.md",
+    "MSc/Thesis/Simulation.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/attachments/ToF_E.png",
     "MSc/Thesis/attachments/ToF_T.png",
     "MSc/Thesis/attachments/ToF_Gamma_Peak.png",
     "MSc/Thesis/attachments/ToF_T_uncalibrated.png",
     "MSc/Thesis/attachments/ToF_event_trace.png",
-    "MSc/Thesis/Theory.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
@@ -277,7 +293,6 @@
     "MSc/Thesis/Introduction.pdf",
     "MSc/Thesis/attachments/Pasted image 20240717121822.png",
     "MSc/Thesis/attachments",
-    "MSc/MSc Kanban.md",
     "MSc/To-Do files/Details on neutron energies in space.md",
     "MSc/Thesis/READ UP ON BONNER SPHERES.md",
     "MSc/To-Do files/Read up on Bonner sphere systems.md",
@@ -292,14 +307,12 @@
     "Science/Silicon Photomultipliers.md",
     "Science/Neutrons in space and aviation/Motivation for neutron spectrometry in space and aviation.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Session 0 Planning.md",
-    "D&D/Spell Scroll.md",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "HTML import",
     "D&D/Dragonlance- Shadow of the Dragon Queen/attachments/00-006.tiamat-splash.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments/03-004.bakaris-the-younger.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/PCs/Merle Highchurch/attachments/nicholas-kole-img-6970.jpg",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/attachments/03-002.becklin-uth-viharin.png",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/NPCs/Bakaris “the Younger” Uth Estide/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Adventures/Vogler/attachments",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Chapters/Dragonlance lore for players/attachments",

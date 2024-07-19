@@ -18,7 +18,7 @@ The neutrons in these environments come from interactions of cosmic rays with th
 
 In the case of aviation, measurements of the neutron spectrum have been made and two distinct peaks in the fast neutron region have been identified, shown in the figure below, at around 1 MeV and around 100 MeV. In order to properly monitor these fields, the detector system must be capable of measuring neutrons from 1 to 120 MeV. 
 
-![[Pasted image 20240717121822.png]] (Goldhagen et al. 2003)
+![[Pasted image 20240719121013.png]]
 
 In many applications, the characterisation of neutron fields is done with Bonner sphere systems; proportional counters that get surrounded by increasingly thicker shielding to moderate the neutrons, thus counting the neutrons at different energies ***[[Read up on Bonner sphere systems]]***. These systems work well to measure the neutron energy spectrum and are well understood as metrology devices, but they are often fairly large, fragile, and require tedious analyses, making them not particularly well-suited to the applications of interest. ***something about how the required energy sensitivity range will affect the length of analysis***
 
@@ -29,3 +29,7 @@ Thankfully, that's not where this story ends. There exists a shining bastion of 
 Silicon photomultipliers, such as the MicroFC-60035 model from ONSEMI, are new developments in photodetection technology that run at much lower voltages that traditional photomultuplier tubes (~28 V) and are much less fragile. 
 
 These two technologies, along with digital data acquisition to reduce the bulk of the electronics systems, are the focus of this work. A new detector system for the characterisation and monitoring of neutrons in aviation and spacecraft has been developed and tested in the range of 1 - 20 MeV, as a proof of concept for a future system that will be sensitive to neutrons up to 120 MeV.
+
+
+
+

@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] Histograms should go to zero at the start
 - [ ] [[Details on neutron energies in space]]
 - [ ] [[Read up on Bonner sphere systems]]
+- [ ] What is "radiationless internal conversion" from pg 224/225 of Knoll. Doesn't that mean a kind of energy loss?
 
 
 ## In Progress
