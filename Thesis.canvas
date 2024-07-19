@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"893244a0e5a4cda2","x":-1360,"y":-160,"width":457,"height":1560,"type":"text","text":"![[Thesis#Introduction]]\n\n\n# Introduces neutrons as radiation\n# The need for a new detector system\n# The technologies used\n"},
+		{"id":"4b1a4aa570393ccc","type":"text","text":"![[Thesis#Theory]]\n\n\n# Scintillation\n# Photomultipliers\n# Unfolding\n","x":-720,"y":-160,"width":457,"height":1560},
+		{"id":"61c719e50375635c","type":"text","text":"![[Thesis#Prototyping]]\n\n\n# Wrappings\n# Shapes\n# SiPM boards\n","x":0,"y":-160,"width":457,"height":1560},
+		{"id":"dde41b78934d62be","type":"text","text":"![[Thesis#Measurements at AMANDE and PTB]]\n\n\n# PTB: explaining ToF","x":680,"y":-160,"width":457,"height":1560},
+		{"id":"8ea8e07f34cd38a7","type":"text","text":"![[Thesis#Simulation]]","x":1320,"y":-160,"width":457,"height":600},
+		{"id":"d9cd87164f83e2b1","type":"text","text":"![[Thesis#Response functions and unfolding]]","x":1920,"y":-160,"width":457,"height":600},
+		{"id":"7223564f9552c2b9","type":"text","text":"![[Thesis#Light output as a function of neutron energy]]","x":2680,"y":-160,"width":457,"height":600}
+	],
+	"edges":[]
+}

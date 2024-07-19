@@ -59,12 +59,14 @@
             "id": "13dcbda9be0415b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Thesis.canvas",
+                "viewState": {
+                  "x": -115.9473749582167,
+                  "y": 700.435572678691,
+                  "zoom": -1.1183412774403891
+                }
               }
             }
           },
@@ -75,6 +77,19 @@
               "type": "markdown",
               "state": {
                 "file": "MSc/Thesis/Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92cc53ecb1d0ad11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "Thesis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "Thesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "Thesis.canvas"
               }
             }
           },
@@ -239,56 +254,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "ee39ed290eb17120",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6f49dee63800dd3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "911acc9bb3c3a909",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "92cc53ecb1d0ad11",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSc/SAIP 2024 Proceedings.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1379,
-        "y": 19,
-        "width": 1317,
-        "height": 988,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "92cc53ecb1d0ad11",
+  "active": "13dcbda9be0415b6",
   "lastOpenFiles": [
+    "MSc/Thesis/Introduction.md",
+    "Thesis.canvas",
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/attachments/ToF_E.png",
     "MSc/Thesis/attachments/ToF_T.png",
     "MSc/Thesis/attachments/ToF_Gamma_Peak.png",
     "MSc/Thesis/attachments/ToF_T_uncalibrated.png",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/attachments/ToF_event_trace.png",
     "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Introduction.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Response functions and unfolding.md",
     "MSc/Thesis/Simulation.md",
