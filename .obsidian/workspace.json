@@ -46,26 +46,13 @@
             "id": "c94e2292802db3e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13dcbda9be0415b6",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "Thesis.canvas",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "viewState": {
-                  "x": -115.9473749582167,
-                  "y": 700.435572678691,
-                  "zoom": -1.1183412774403891
+                  "x": 464.1769339068028,
+                  "y": 623.4009881100001,
+                  "zoom": -0.8803287016971946
                 }
               }
             }
@@ -95,9 +82,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3bf11337803e4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Response functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis.canvas",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis.canvas",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis.canvas"
+                "file": "MSc/Thesis/Thesis.canvas"
               }
             }
           },
@@ -254,11 +254,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13dcbda9be0415b6",
+  "active": "3ef86e625dcfc59d",
   "lastOpenFiles": [
-    "MSc/Thesis/Introduction.md",
-    "Thesis.canvas",
     "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Response functions.md",
+    "MSc/Thesis/Unfolding.md",
+    "MSc/Thesis/Thesis.canvas",
+    "MSc/Thesis/Simulation.md",
+    "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/attachments/ToF_E.png",
@@ -268,8 +271,6 @@
     "MSc/Thesis/attachments/ToF_event_trace.png",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
-    "MSc/Thesis/Response functions and unfolding.md",
-    "MSc/Thesis/Simulation.md",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
     "MSc/Thesis/Prototyping.md",
