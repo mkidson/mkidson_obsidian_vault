@@ -1,6 +1,6 @@
 # Overview
-- Creation of response functions from ToF data
-- Possibly simulations as well
+- [ ] Creation of response functions from ToF data
+- [ ] Possibly simulations as well
 
 
 

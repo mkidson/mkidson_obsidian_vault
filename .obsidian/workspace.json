@@ -69,19 +69,6 @@
             }
           },
           {
-            "id": "6ae7859379518928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54223eb6e935f1e5",
             "type": "leaf",
             "state": {
@@ -93,9 +80,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f30aae1ead2ddc85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c065f3bb09af8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/Thesis/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/Thesis/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Introduction.md"
+                "file": "MSc/Thesis/Theory.md"
               }
             }
           },
@@ -252,12 +265,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "371fd3928573ad8d",
+  "active": "f30aae1ead2ddc85",
   "lastOpenFiles": [
-    "MSc/Thesis/Thesis.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Prototyping.md",
+    "MSc/Thesis/Theory.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/Light output as a function of neutron energy.md",
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Simulation.md",
+    "MSc/Thesis/Response functions.md",
     "VWS/Module 1.md",
     "VWS/attachments/Pasted image 20240721223114.png",
     "VWS/attachments/Pasted image 20240721221159.png",
@@ -269,20 +287,15 @@
     "VWS/attachments/Pasted image 20240721213011.png",
     "VWS/attachments",
     "Untitled",
-    "MSc/Thesis/Unfolding.md",
     "MSc/MSc Kanban.md",
     "MSc/Thesis/Introduction.pdf",
     "VWS",
     "MSc/Thesis/Thesis.canvas",
     "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Thesis/Theory.md",
     "MSc/Thesis/Test.md",
-    "MSc/Thesis/Response functions.md",
     "MSc/Thesis/attachments/Pasted image 20240719121013.png",
-    "MSc/Thesis/Simulation.md",
     "MSc/Thesis/attachments/ToF_E.png",
     "MSc/Thesis/attachments/ToF_T.png",
-    "MSc/Thesis/Light output as a function of neutron energy.md",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
     "MSc/Thesis/attachments",

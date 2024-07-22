@@ -1,6 +1,6 @@
 # Overview
-- Development of the detector
-	- Wrappings
-	- Shapes
-	- SiPM boards?
-	- 
+- [ ] Development of the detector
+	- [ ] Wrappings
+	- [ ] Shapes
+	- [ ] SiPM boards?
+	- [ ] 
