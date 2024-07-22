@@ -457,15 +457,29 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Basic Wildfire Suppression Course.md",
+                    "file": "VWS/Basic Wildfire Suppression Course.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "bdc12e2f426e5cc1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VWS/Module 1.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -547,7 +561,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Basic Wildfire Suppression Course.md",
+                    "file": "VWS/Module 1.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -564,7 +578,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Basic Wildfire Suppression Course.md",
+                    "file": "VWS/Module 1.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -587,7 +601,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Basic Wildfire Suppression Course.md"
+                    "file": "VWS/Module 1.md"
                   }
                 }
               },
@@ -622,9 +636,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f11255f17b062092",
-      "mtime": "2024-07-21T20:55:49+02:00"
+      "active": "bdc12e2f426e5cc1",
+      "mtime": "2024-07-22T09:42:09+02:00"
     }
   },
-  "active": "Fire"
+  "active": "Physics"
 }

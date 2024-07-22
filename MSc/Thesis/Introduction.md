@@ -1,15 +1,15 @@
 # Overview
-- Where neutrons come from
-- How they are damaging
-- Energy ranges of the neutrons
-- Current detector technologies
-	- Moderator-based systems
-	- Liquid organic scintillators
-- Quick introduction to the three technologies
-	- Plastic organic scintillators
-	- Silicon Photomultipliers
-	- Digital data acquisitions
-- Direction insensitivity (yay I can finally talk about the sphere!)
+- [x] Where neutrons come from
+- [ ] How they are damaging
+- [x] Energy ranges of the neutrons
+- [ ] Current detector technologies
+	- [ ] Moderator-based systems
+	- [x] Liquid organic scintillators
+- [x] Quick introduction to the three technologies
+	- [x] Plastic organic scintillators
+	- [x] Silicon Photomultipliers
+	- [x] Digital data acquisitions
+- [ ] Direction insensitivity (yay I can finally talk about the sphere!)
 # Introduction
 
 Fast neutrons as secondary radiation from high energy charged particles are present in many environments. They have been shown to be damaging to both humans and electronics, so the characterisation and monitoring of fast neutron fields is of great importance. Of the many environments in which fast neutrons are present, aviation and spacecraft pose specific challenges for the measurement of neutron energy spectra due to the need for detectors to be robust, compact, and easy to use in extreme environments. 
