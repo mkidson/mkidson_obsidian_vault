@@ -19,8 +19,8 @@ This work will present the characterisation and calibration of a detector system
 ![[Theory#Overview]]
 
 
-# [[Prototyping]]
-![[Prototyping#Overview]]
+# [[Prototyping - Design]]
+![[Prototyping - Design#Overview]]
 
 
 # [[Measurements at AMANDE and PTB]]

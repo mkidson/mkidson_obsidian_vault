@@ -43,19 +43,6 @@
             }
           },
           {
-            "id": "371fd3928573ad8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62699f0626e499b6",
             "type": "leaf",
             "state": {
@@ -74,20 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Prototyping.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f30aae1ead2ddc85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "MSc/Thesis/Prototyping - Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,9 +80,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5035d344b927c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c9f3fc25dc2e9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "MSc/Thesis/Prototyping - Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "MSc/Thesis/Prototyping - Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Theory.md"
+                "file": "MSc/Thesis/Prototyping - Design.md"
               }
             }
           },
@@ -265,15 +265,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f30aae1ead2ddc85",
+  "active": "54223eb6e935f1e5",
   "lastOpenFiles": [
-    "MSc/Thesis/Introduction.md",
-    "MSc/Thesis/Unfolding.md",
-    "MSc/Thesis/Prototyping.md",
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/Introduction.md",
+    "MSc/To-Do files/Details on neutron energies in space.md",
+    "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Response functions.md",
     "VWS/Module 1.md",
@@ -291,7 +293,6 @@
     "MSc/Thesis/Introduction.pdf",
     "VWS",
     "MSc/Thesis/Thesis.canvas",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Test.md",
     "MSc/Thesis/attachments/Pasted image 20240719121013.png",
     "MSc/Thesis/attachments/ToF_E.png",
@@ -299,7 +300,6 @@
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
     "MSc/Thesis/attachments",
-    "MSc/To-Do files/Details on neutron energies in space.md",
     "MSc/Thesis/READ UP ON BONNER SPHERES.md",
     "MSc/To-Do files/Read up on Bonner sphere systems.md",
     "MSc/SAIP 2024 proceedings.canvas",

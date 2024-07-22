@@ -26,3 +26,10 @@ Organic scintillators work on the principle of fluorescence: charged particles d
 Because of this, the number of photons produced in a given event is assumed to be directly related to the energy of the charged particle, as particles with more energy will simply undergo more interactions with the material, thus exciting more electrons. 
 
 Radiation-less internal conversion, along with other de-excitation modes that don't involve the emission of light (e.g. heat), are all grouped under the term "quenching". Effectively this covers all processes that result in a more complicated conversion from light output to energy deposited.
+
+
+### Plastic Organic Scintillators
+
+
+
+### Neutron Interactions in Plastic/Organics
