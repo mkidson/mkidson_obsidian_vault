@@ -190,4 +190,36 @@ Weather is the primary influence on wildfire behaviour. Its constant changing me
 - Slope and aspect determines sun exposure
 - North- and west-facing slopes receive more sun
 - Lower nighttime temps typically make fires easier to suppress, but daytime conditions vary
-- Fuel temp affec
+- Fuel temp affects fire spread
+- High temp reduces humidity, drying out vegetation
+
+## Wind
+- Temperature variations cause wind
+- Named for where it comes from
+- Day and night affects wind (temperature)
+- Increases fire intensity, especially when fanning due to temperature-driven air movement
+- Fries fuel, supplies oxygen
+- Embers can be thrown around, heating the ground and aiding in drying fuel
+
+### Wind Types
+- **Prevailing Wind:** Wind generally seen in an are, seasonally etc. Not necessarily present
+- **General Wind:** The main wind reported in forecasts etc. Can add oxygen and influence genera direction of fire spread
+- **Local Wind:** Results from natural features on a smaller scale. Can lead to valley and slope winds, which affect fire behaviour. Localised fire spread.
+- **Surface Wind:** Measured 6-10 m above the ground. Affect fire behaviour through ember spread etc. Can drive crown fires
+- **Mid-flame Wind:** Occur halfway up the flames and have the greatest impact on the immediate direction of fire spread
+- **Fire Whirls:** Can move completely out of the main area. Ignite fuels at their base as they move. Generally a bad time
+
+## Relative Humidity
+- Measures moisture in the atmosphere: Ratio of actual water vapor in the air to the amount needed for saturation *at a given temperature*
+- Lower RH dries vegetation and increases fire risk
+- RH fluctuates throughout the day
+- Warmer air can hold more moisture
+
+
+## Atmospheric Stability
+- **Unstable Atmosphere:** Encourages vertical air movement, increasing fire activity.
+- **Stable Atmosphere**: Discourages vertical air movement, leading to slower fire spread.
+- **Inversion:** The most stable atmospheric condition, especially near the surface. Inversions can quickly break and lead to rapid escalation of the fire.
+
+![[Pasted image 20240721223114.png]]
+
