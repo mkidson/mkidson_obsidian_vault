@@ -223,3 +223,125 @@ Weather is the primary influence on wildfire behaviour. Its constant changing me
 
 ![[Pasted image 20240721223114.png]]
 
+# Behaviour due to Fuels
+Fuel is any material available to ignite and burn, usually vegetation. State of the fuel affects behaviour, i.e. brown vegetation is drier than green so burns better.
+
+Fynbos and eucalypts have oils so while they appear green can burn even more aggressively.
+
+## Types of Fuels
+### Heavy Fuels
+- Slower burning
+- Thick logs or tree trunks
+- More heat to ignite but also more effort to extinguish
+- Burn slower and longer
+
+### Light Fuels
+- Faster-burning fuels
+- Grasses, twigs, needles
+- Referred to as tinder
+- Less effort to extinguish
+- Less residual heat
+
+### Ground (underground) Fuels
+- Situated in deep layers of leaves, roots, logs, peat
+- Tend to burn for long at low intensity 
+- Tend to smoulder for very long
+- Nicknamed "zombie fires"
+
+### Surface Fuels
+- Located from ground to approximately two metres high
+- Tall grass, shrubs, forest debris
+- When beneath trees, lead to spread of fires to higher levels through ladder fuels
+
+### Ladder Fuels
+- Continuous arrangement of combustible materials enabling fires to move upward into aerial fuels in the canopy
+- Tall grasses, bushes, slash, sizeable shrubs, tree bark, fallen dead branches
+
+### Aerial Fuels
+- In the overhead canopy
+- > 2 metres above ground
+- Fires can spread through aerial fuels only
+- Very dangerous
+- Crown fires
+
+## Properties of Fuels
+### Size and Shape
+- Finer fuels ignite quicker, leading to faster spread
+- Small fuels release moisture quickly and require lower temperatures to ignite
+
+### Size and Shape of Embers
+- Affects fire spread and spotting
+- Small embers lose heat rapidly and typically cause spot fires only near to the main fire
+- Large embers retain heat and can cause long-range spotting
+
+### Chemical Content
+- Oils in plants can lead to being more flammable, and more fiercely burning
+- Fynbos, Renosterveld, Eucalyptus, Pines
+
+### Moisture Content
+- More water means burns less
+
+
+## Environmental factors influencing moisture content
+### Indirect Influences
+- Time of Day
+- Cloud Cover
+- Fuel Canopy
+- Aspect
+- Slope
+- Elevation
+- Shade Cover
+
+### Direct Influences
+- Wind
+- Temperature
+- Relative Humidity
+- Precipitation
+
+> [!NOTE] **_As a firefighter sizing up a wildfire you must always ask “how will these fuels burn”?_**
+
+## Arrangement of Fuels
+### Compact Fuels
+- Very little space between them
+- Present less surface area for combustion
+- Spread more slowly than loose packs
+
+### Loaded (Area) Fuels
+- Fuel loading refers to the total dry weight of fuel accumulated in a specific area
+- More highly loaded areas will result in higher intensity fire
+
+### Horizontal Continuity
+- Arrangement of fuels next to each other across a surface
+- Affects rate of spread
+- Scattered fuels mean less chance of spread than continuously arranged fuels
+
+### Vertical Continuity
+- Arrangement stacked on top of each other, including surface and aerial fuels
+- Ladder fuels result in high vertical continuity
+- Also greatly affect spread
+
+
+
+# Behaviour due to Topography
+Topography is the shape of the land, including elevation changes and locations of natural and human-made structures. Greatly affect rate of speed (ROS) and presence of fuels. Generally considered "static" for a given situation as it doesn't change much.
+
+## Features
+### Valleys or Kloofs
+- Always a similar effect, but depends on steepness, width, size
+- Narrow valleys run perpendicular to ridges of mountains. Prone to fire spreading across the valley through spotting or radiant heat. Narrow valleys will accelerate uphill ROS
+- Wide valleys have less chance of fire spread across the valley due to spotting etc, except in high winds and specific fuels. More susceptible to prevailing winds and swirling effects of wind over ridge lines.
+- Box valleys are steep sided valleys surrounded on all or three sides. Fire tends to be drawn along and upward due to winds channelled up and over ridge lines. Fire can burn in a circular fashion, leading to dangerous situations.
+
+### Chimneys or Chutes
+- Narrow topographic features
+- Fire behaves similarly to in narrow valleys but more extreme
+- ROS is accelerated upslope
+- Extremely hazardous and to be avoided
+- Trench Effect occurs (accelerated spread up the trench)
+
+### Ridges 
+- Long high area that slopes down to two different aspects on each side
+- Dominant ridges form a prominent skyline feature with one or more spur ridges connected
+- Spur ridges are small and finger-like off of a main ridge
+- Flat ridges are gently sloping ridges. Make good places for fire containment as they're easy to travel along and have moderate fire behaviour
+- Knife ridges have steep slopes on either 

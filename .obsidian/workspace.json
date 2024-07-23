@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30b21e98c4762019",
+        "id": "bcb67688b4921e22",
         "type": "tabs",
         "children": [
           {
-            "id": "d3989c2628b542cf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MSc/MSc Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe520b9627d0b461",
+            "id": "f11255f17b062092",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "VWS/Basic Wildfire Suppression Course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,64 +23,12 @@
             }
           },
           {
-            "id": "62699f0626e499b6",
+            "id": "bdc12e2f426e5cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Unfolding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54223eb6e935f1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Prototyping - Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c065f3bb09af8a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5035d344b927c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c9f3fc25dc2e9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "VWS/Module 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSc/Thesis/Thesis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,10 +189,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe520b9627d0b461",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
-    "MSc/Thesis/Prototyping - Design.md",
+    "VWS/Module 1.md",
+    "VWS/Basic Wildfire Suppression Course.md",
     "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/Thesis/Introduction.md",
@@ -278,13 +204,11 @@
     "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Response functions.md",
-    "VWS/Module 1.md",
     "VWS/attachments/Pasted image 20240721223114.png",
     "VWS/attachments/Pasted image 20240721221159.png",
     "VWS/attachments/Pasted image 20240721220836.png",
     "VWS/attachments/Pasted image 20240721220810.png",
     "VWS/attachments/Pasted image 20240721220004.png",
-    "VWS/Basic Wildfire Suppression Course.md",
     "VWS/attachments/Pasted image 20240721213944.png",
     "VWS/attachments/Pasted image 20240721213011.png",
     "VWS/attachments",
