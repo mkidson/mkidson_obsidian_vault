@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Prototyping - Design.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Prototyping - Design.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Prototyping - Design.md"
+                "file": "MSc/Thesis/Thesis.md"
               }
             }
           },
@@ -265,10 +265,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54223eb6e935f1e5",
+  "active": "fe520b9627d0b461",
   "lastOpenFiles": [
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Prototyping - Design.md",
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/Thesis/Introduction.md",

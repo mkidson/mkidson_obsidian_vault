@@ -3,9 +3,9 @@
 	- [ ] Motivation for monoenergetic
 	- [ ] Actual measurements
 - [ ] PTB
-	- [ ] Motivation (ToF)
-	- [ ] Measurements
-	- [ ] How ToF works
+	- [x] Motivation (ToF)
+	- [x] Measurements
+	- [x] How ToF works
 
 # Measurements
 ## PTB PIAF
