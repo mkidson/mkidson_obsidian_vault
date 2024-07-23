@@ -344,4 +344,68 @@ Topography is the shape of the land, including elevation changes and locations o
 - Dominant ridges form a prominent skyline feature with one or more spur ridges connected
 - Spur ridges are small and finger-like off of a main ridge
 - Flat ridges are gently sloping ridges. Make good places for fire containment as they're easy to travel along and have moderate fire behaviour
-- Knife ridges have steep slopes on either 
+- Knife ridges have steep slopes on either side of a sharp ridge
+- Depending on the characteristics and fuel present, ridges can be selected for control lines, or even Direct Attacks
+- Ridges can slow fires as they encounter upslope airflow from the opposing side
+- Essential to assess current conditions
+- Erratic winds can cause quick changes in fire beaviour
+
+### Saddles
+- Sloping gap or depression on a ridgeline
+- Same effect on air movement as a chimney or narrow valley
+- Wind increases speed and strength as it moves through the constricted area
+- Typically accelerates fire spread and intensity
+- Can cause shifts in direction
+
+### Natural or Constructed Barriers
+- Key to planning methods of attack and containment lines
+- Rivers, lakes, rocky areas, previously burned areas, young fynbos (1-2 years), large cliff faces with no vegetation
+- Firebreaks, fuel breaks, control lines, roads, reservoirs, dams, parking areas, loading zones etc
+- Slow down surface fire spread, but may not be effective in high winds
+- Crucial to consider predicted flame length, esp for safety zones
+
+
+
+## Characteristics
+### Slope
+- Measured as the percentage change in elevation over a specific distance
+- Use contour lines
+- Influences type and density of vegetation
+- Steep slopes lead to fast fire spread uphill due to preheating of fuels
+- ROS up a slope is exponential, with speed doubling for every 20% or $10^\degree$ of slope increase
+	- 0 – 20% results in a determined flame height and a rate of spread.
+	- 20 – 40% results in an increase of 2 x flame height and 4 x rate of spread.
+	- 40 – 60% results in 2.5 x flame height and 8 x rate of spread.
+	- 60 – 80% results in 3 x flame height and 14 x rate of spread.
+![[Pasted image 20240723222325.png]]
+
+> Note: When communicating a position on a slope to others you may use the terms, lower, middle, and upper to describe the location.
+
+- Need to consider potential for burning material to roll downhill, below the control line, and ignite new fire
+- Advised to position control line activities at the top or base of a slope
+- Working mid-slope is hazardous and requires thorough assessment beforehand
+
+### Aspect
+- Refers to the cardinal direction it faces
+- Determines amount of sunlight it receives
+- North and northwest slopes are more susceptible (in SA) due to the lighter and sparser fuels, higher temperatures, lower humidity, and lower moisture
+- South and southeast slopes have heavier fuels, so can also be risks for fire spread but of a different kind\
+
+
+
+# Fire Danger Index
+- Informs on daily fire weather conditions and their impact on wildfires
+- Blue is lowest risk to Red is highest risk
+- Assesses risk based on temperature, wind speed, relative humidity, and recent rainfall
+
+![[Pasted image 20240723224402.png]]
+
+- Provides guidelines on levels of preparedness required by organisations, landowners, and the public
+- Goals:
+	- Aid in prevention of wildfires through precautionary measures
+	- Provide guidelines on how planned fires are to be managed and whether or not to go ahead with them
+	- Provide guidelines on resource readiness plans
+	- Provide guidelines on suppression tactics given expected conditions
+	- Serve as an alert or warning system to the public of fire danger on any given day to heighten readiness and promote good practice
+
+![[Pasted image 20240723224650.png]]

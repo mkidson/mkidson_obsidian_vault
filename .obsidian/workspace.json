@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VWS/Module 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VWS/Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VWS/Module 1.md"
+              }
             }
           },
           {
@@ -189,8 +193,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05adfc1bf9a71871",
+  "active": "bdc12e2f426e5cc1",
   "lastOpenFiles": [
+    "VWS/attachments/Pasted image 20240723224650.png",
+    "VWS/attachments/Pasted image 20240723224402.png",
+    "VWS/attachments/Pasted image 20240723222325.png",
     "VWS/Module 1.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "MSc/Thesis/Thesis.md",
@@ -219,8 +226,6 @@
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Test.md",
     "MSc/Thesis/attachments/Pasted image 20240719121013.png",
-    "MSc/Thesis/attachments/ToF_E.png",
-    "MSc/Thesis/attachments/ToF_T.png",
     "Daily Notes/2024-07-15.md",
     "MSc/Plot examples.md",
     "MSc/Thesis/attachments",
