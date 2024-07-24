@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -241,6 +241,9 @@
   },
   "active": "6ae7859379518928",
   "lastOpenFiles": [
+    "MSc/SAIP 2024 proceedings.canvas",
+    "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/Module 1.md",
     "VWS/attachments/Pasted image 20240723224650.png",
     "VWS/attachments/Pasted image 20240723224402.png",
@@ -249,10 +252,8 @@
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/Thesis/Introduction.md",
     "MSc/To-Do files/Details on neutron energies in space.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
     "MSc/Thesis/Simulation.md",
@@ -276,7 +277,6 @@
     "MSc/Thesis/attachments",
     "MSc/Thesis/READ UP ON BONNER SPHERES.md",
     "MSc/To-Do files/Read up on Bonner sphere systems.md",
-    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis",
     "MSc/Detector name options.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
