@@ -24,7 +24,7 @@ When an event triggers the digitiser to record, it records both the event trace 
 
 The difference in time between event and RF pulse is still calculated, but there are sometimes two RF pulses in the captured window, so the last pulse in the window is used. The RF pulses are also always after the event pulse, at least in this experiment's case, so the final time difference will need to be multiplied by $-1$. 
 
-![[ToF_event_trace.png]]
+![[MSc/Thesis/attachments/ToF_event_trace.png]]
 
 Calculating this uncalibrated time difference for each event produces the histogram in the figure below. The main locus is primarily neutrons, with some contamination from gamma rays, and the large, sharp spike around 1500 ns is the majority of the gamma ray events. Since gamma rays always travel at the same speed, they're expected to always arrive at the detector in at the same time relative to the RF pulses. As a result, this gamma "flash" is seen, and can be used to calibrate the technique.
 
