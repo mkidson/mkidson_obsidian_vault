@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "MSc/MSc Kanban.md"
               }
             }
           },
@@ -239,10 +238,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ae7859379518928",
+  "active": "d3989c2628b542cf",
   "lastOpenFiles": [
-    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/SAIP 2024 Proceedings.md",
+    "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/Module 1.md",
     "VWS/attachments/Pasted image 20240723224650.png",

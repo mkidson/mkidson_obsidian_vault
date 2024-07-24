@@ -49,6 +49,32 @@ On the x-axis of the figure above is the unit $MeV_{ee}$, or MeV electron equiva
 Due to Bethe-Bloch and Birks' Law, particles with different masses and different charges will ionise the medium in different ways that are not easily linearly related to each other. Because of this, the energy deposition of a particle that isn't an electron cannot be simply equated to an electron's because they produced the same amount of scintillation light. This is the reason for the $MeV_{ee}$ unit for light output.
 
 # Unfolding
+```latex
+EJ-276 scintillator is made of hydrogen and carbon atoms, with a roughly equal number density. Because of this, the interactions of neutrons with the material is split between two categories: (n,p) elastic scatter on hydrogen, and inelastic scatter on carbon, resulting in an $\alpha$ particle and a \ce{^{9}Be} nucleus. This \ce{^{9}Be} either deposits energy itself or decays into two more $\alpha$ particles. Elastic scatter on carbon is also observed, but thanks to Bethe-Bloch, the recoiling nucleus is so massive that the light output for those events is greatly reduced and practically never goes above the trigger threshold. The same is true for the recoiling \ce{^{9}Be} nuclei.
+
+  
+
+\begin{wrapfigure}{r}{.4\textwidth}
+
+\begin{center}
+
+\includegraphics[width=.4\textwidth]{figures/knoll_scatter.png}
+
+\caption{Diagram showing the (n,p) elastic scattering process for neutrons on hydrogen nuclei.}
+
+\label{fig:knoll_scatter}
+
+\end{center}
+
+\end{wrapfigure}
+
+  
+
+This means that there are effectively 3 reactions that produce enough light to actually be detected: (n,p) elastic scatter on hydrogen, $\alpha$ + \ce{^{9}Be}, and 3$\alpha$. These reactions are dominated by elastic scatter on hydrogen, which is where the vast majority of the usable data come from for spectrometry below \SI{20}{\mev}. \Cref{fig:knoll_scatter} shows the kinematics of the (n,p) elastic scatter. Note that the proton can recoil with any angle $-\pi/2 \leq \theta \leq \pi/2$, with the cross-section being about equal for all angles. This means that the energy of the recoiling proton cannot necessarily carry any information about the energy of the incident neutron; on an event-by-event basis, the energy of the incident neutron cannot be known.
+```
+
+
+
 EJ-276 scintillator is made of hydrogen and carbon atoms, with a roughly equal number density. Because of this, the interactions of neutrons with the material is split between two categories: (n,p) elastic scatter on hydrogen, and inelastic scatter on carbon, resulting in an alpha particle and a 9-Be nucleus, which either deposits energy itself or decays into two more alphas. Elastic scatter on carbon is also observed, but the recoiling nucleus is so massive that the light output for those events is greatly reduced (Bethe-Bloch) and practically never goes above the trigger threshold. The same is true for the recoiling 9-Be nuclei. 
 
 This means that there are effectively 3 reactions that produce enough light to actually be detected: (n,p) elastic scatter on hydrogen, 1 alpha (& 9-Be), and 3 alphas. These three are dominated by elastic scatter on hydrogen, which is where the vast majority of the usable data come from. Below is a diagram showing the kinematics of the (n,p) elastic scatter. Note that the proton can recoil with any angle $-\pi/2 \leq \theta \leq \pi/2$, with the cross-section being about equal for all angles. This means that the energy of the recoiling proton cannot necessarily carry any information about the energy of the incident neutron. On an event-by-event basis, the energy of the incident neutron cannot be known. 
