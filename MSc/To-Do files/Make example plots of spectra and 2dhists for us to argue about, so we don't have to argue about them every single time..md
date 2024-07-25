@@ -134,6 +134,12 @@ plt.errorbar(energies, tot_counts_norm[:-1], label='', color='blue', marker='^',
 plt.xlabel('Neutron energy [MeV]')
 plt.ylabel('Neutron detection efficiency')
 
+plt.xlim(0,21)
+plt.ylim(bottom=0)
+
+plt.legend(frameon=False, loc='lower right')
+
+plt.show()
 ```
 
 
