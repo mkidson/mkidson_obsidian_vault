@@ -2,6 +2,7 @@
 # Event Trace
 ```python
 plt.figure(figsize=(13,9), layout='constrained')
+matplotlib.rcParams.update({'font.size': 30})
 
 plt.plot(trace_x, trace_0, label='', lw=2, color='blue')
 
@@ -31,13 +32,40 @@ plt.show()
 
 
 # Neutron Energy Spectrum
+```python
+plt.figure(figsize=(16,9), layout='constrained')
 
+matplotlib.rcParams.update({'font.size': 30})
 
+iso_low_bound = 24
+
+plt.stairs(ambe_iso[1]/np.trapz(ambe_iso[1][iso_low_bound:], ambe_iso[0][iso_low_bound:]), np.concatenate((ambe_iso[0], [11.0])), lw=2, label='AmBe ISO Spectrum', color='black', ls='-')
+
+uncorrected_low_bound = 11
+
+plt.stairs(ambe_unf[1]/np.trapz(ambe_unf[1][uncorrected_low_bound:], ambe_unf[0][uncorrected_low_bound:]), np.concatenate((ambe_unf[0], [11.0])), lw=2, label='Unfolded Measured\nSpectrum', color='red', ls='--')
+
+corrected_low_bound = 11
+
+plt.stairs(ambe_unf_corrected[corrected_low_bound:]/np.trapz(ambe_unf_corrected[corrected_low_bound:], ambe_unf[0][corrected_low_bound:]), np.concatenate((ambe_unf[0][corrected_low_bound:], [11.0])), lw=2, label='Unfolded Measured\nSpectrum Corrected', color='blue', ls='-.')
+
+plt.xlabel('Neutron Energy [MeV]')
+plt.ylabel('Intensity [a.u.]')
+
+plt.xlim(left=0)
+plt.ylim(bottom=0)
+
+plt.legend(frameon=False, loc='upper right')
+
+plt.show()
+```
+![[ambe_unfolded_comparison.png]]
 
 
 # Time-of-Flight Spectrum
 ```python
 plt.figure(figsize=(16,9), layout='constrained')
+matplotlib.rcParams.update({'font.size': 30})
 
 plt.step(hist[1], np.concatenate((hist[0], [hist[0][-1]])), where='post', lw=1.5, color='blue')
 
@@ -76,6 +104,7 @@ plt.show()
 cols_1 = plt.cm.rainbow(np.linspace(0,1,len(energy_bin_middles)))
 
 plt.figure(figsize=(16,9), layout='constrained')
+matplotlib.rcParams.update({'font.size': 30})
 
 for h, hist in enumerate(L_histograms):
 
@@ -97,4 +126,15 @@ plt.show()
 
 
 # Efficiency Curve
+```python
+plt.figure(figsize=(16,9), layout='constrained')
 
+plt.errorbar(energies, tot_counts_norm[:-1], label='', color='blue', marker='^', linestyle='', ms=8)
+
+plt.xlabel('Neutron energy [MeV]')
+plt.ylabel('Neutron detection efficiency')
+
+```
+
+
+![[0_5_MeVee_threshold.png]]

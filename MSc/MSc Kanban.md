@@ -32,6 +32,7 @@ kanban-plugin: board
 - [ ] [[Read up on Bonner sphere systems]]
 - [ ] What is "radiationless internal conversion" from pg 224/225 of Knoll. Doesn't that mean a kind of energy loss?
 - [ ] Should SAIP Proceedings only talk about 1-16 MeV, as we don't have response functions up to 20 MeV?
+- [ ] Unfolding efficiency correction and final neutron spectrum scaling needs a lot more thought. Shit looks too bad
 
 
 ## In Progress
