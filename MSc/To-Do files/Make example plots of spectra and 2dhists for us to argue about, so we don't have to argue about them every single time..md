@@ -126,8 +126,26 @@ plt.show()
 
 
 # Gamma flash
+```python
+plt.figure(figsize=(13,9), layout='constrained')
+matplotlib.rcParams.update({'font.size': 30})
 
+plt.stairs(hist_tof_gamma_peak[0], hist_tof_gamma_peak[1], lw=2, color='blue')
 
+plt.axvline(1519.665, color='red', ls='--', lw=3, label='1519.665 ns')
+
+plt.xlabel('Time difference [ns]')
+plt.ylabel('Counts')
+plt.ylim(bottom=0)
+
+plt.xlim(hist_tof_gamma_peak[1][0], hist_tof_gamma_peak[1][-1])
+
+plt.legend(loc='upper right', frameon=False)
+plt.ticklabel_format(axis='y', scilimits=[-3,3])
+
+plt.show()
+```
+![[MSc/To-Do files/attachments/ToF_Gamma_Peak.png]]
 
 
 # Response Functions
