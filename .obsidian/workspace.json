@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+                "file": "Daily Notes/2024-07-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+                "file": "Daily Notes/2024-07-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+                "file": "Daily Notes/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md"
+                "file": "Daily Notes/2024-07-29.md"
               }
             }
           },
@@ -254,12 +254,13 @@
   },
   "active": "d3ee0ed9016193f8",
   "lastOpenFiles": [
+    "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+    "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/attachments/AMANDE_14_1_L_fine.png",
     "MSc/To-Do files/attachments/AMANDE_14_1_L_coarse.png",
     "MSc/To-Do files/attachments/0_5_MeVee_threshold.png",
     "MSc/To-Do files/attachments/ambe_unfolded_comparison.png",
     "MSc/MSc Kanban.md",
-    "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/attachments/ToF_response_functions.png",
     "MSc/To-Do files/attachments/ToF_T.png",
     "MSc/To-Do files/attachments/ToF_event_trace.png",
@@ -271,7 +272,6 @@
     "VWS/Module 1.md",
     "VWS/attachments/Pasted image 20240723224650.png",
     "VWS/attachments/Pasted image 20240723224402.png",
-    "VWS/attachments/Pasted image 20240723222325.png",
     "VWS/Basic Wildfire Suppression Course.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Prototyping - Design.md",
