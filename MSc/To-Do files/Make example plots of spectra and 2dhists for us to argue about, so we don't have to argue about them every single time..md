@@ -46,11 +46,8 @@ plt.ticklabel_format(axis='y', scilimits=[-3,3])
 
 plt.show()
 ```
-
-
-![[AMANDE_14_1_L_coarse.png]]
-
-![[AMANDE_14_1_L_fine.png]]
+![[AMANDE_14_1_L_coarse 1.png]]
+![[AMANDE_14_1_L_fine 1.png]]
 
 
 # Neutron Energy Spectrum
@@ -105,9 +102,21 @@ plt.show()
 
 
 # PSD 2d-hist
+```python
+plt.figure(figsize=(13,9), layout='constrained')
+matplotlib.rcParams.update({'font.size': 30})
 
+plt.hist2d(L_calib, S, bins=[512,512], cmap='inferno', norm=colors.LogNorm(vmin=1), range=((0, 8), (0.2, 0.45)))
 
+plt.xlabel('Light Output Parameter L [$MeV_{ee}$]')
+plt.ylabel('Pulse Shape Parameter S [arb.]')
 
+plt.colorbar(label='Counts')
+
+plt.show()
+
+```
+![[AMA_SS25C_103_L_S 1.png]]
 
 
 # Other 2d-hists
