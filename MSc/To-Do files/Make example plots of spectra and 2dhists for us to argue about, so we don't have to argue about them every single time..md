@@ -27,8 +27,30 @@ plt.show()
 
 
 # Light Output Spectrum
+```python
+plt.figure(figsize=(16,9), layout='constrained')
+
+# using auto or sqrt, depending on need
+# cut at low L for a sharp threshold
+hist_L = np.histogram(L_calib[neutron_cut_mask], bins='auto', range=(0.15, 7), density=False)
+
+plt.stairs(hist_L[0], hist_L[1], lw=1.5, color='blue')
+
+plt.xlim(left=0)
+plt.ylim(bottom=0)
+
+plt.xlabel('Light Output Parameter L [$MeV_{ee}$]')
+plt.ylabel('Counts')
+
+plt.ticklabel_format(axis='y', scilimits=[-3,3])
+
+plt.show()
+```
 
 
+![[AMANDE_14_1_L_coarse.png]]
+
+![[AMANDE_14_1_L_fine.png]]
 
 
 # Neutron Energy Spectrum
