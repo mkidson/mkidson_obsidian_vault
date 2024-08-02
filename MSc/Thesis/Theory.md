@@ -33,3 +33,20 @@ Radiation-less internal conversion, along with other de-excitation modes that do
 
 
 ### Neutron Interactions in Plastic/Organics
+
+
+
+
+
+
+## Unfolding
+The primary interaction channel for neutrons in organic scintillators is (n,p) elastic scattering, where the energy of the recoiling proton depends on both the incident neutron energy and the scattering angle. Because of this, the energy of the neutron cannot be inferred from the amount of scintillation light produced in a neutron event. This restricts the methods available to be able to do neutron spectrometry with organic scintillator-based devices to practically one option: spectral unfolding.
+
+Spectral unfolding is an analysis technique that produces the energy spectrum associated with a given light output spectrum. It is not interested in the individual events and their light output, only the shape of the spectrum as a whole. This of course means that any input light output spectrum needs to have enough events for the method to have good enough statistics to work with. 
+
+The method works by assuming that the light output spectrum associated with an incident neutron field consisting of a number of different energies is simply the linear combination of light output spectra associated with monoenergetic neutron fields:
+
+$$
+z_{i} = \sum\limits_{j=1}^{m}R_{ij}\phi_{j}.
+$$
+Here the $z_i$ are the bin heights of the complicated light output spectrum, the $\phi_j$ are the numbers of incident neutrons of a given energy indexed by $j$, and the $R_{ij}$ are the bin heights (indexed by $i$) of the light output spectrum associated with the neutrons with energy indexed by $j$. 
