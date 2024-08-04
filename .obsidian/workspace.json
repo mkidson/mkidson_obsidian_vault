@@ -47,6 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "909f929d5f6c8a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VWS/Thoughts....md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -208,9 +221,14 @@
   },
   "active": "a29ffd325cc06ed2",
   "lastOpenFiles": [
+    "VWS/Thoughts....md",
+    "VWS/Module 2 - Wildfire Basic Skills.md",
+    "VWS/attachments/The 8 Pump Checks - downloadable.png",
+    "VWS/attachments/Part of a Pump 1a-14 download.png",
+    "VWS/attachments/Parts of a Pump 15-22 download.png",
+    "VWS/attachments/Pasted image 20240804192759.png",
     "VWS/attachments/Pasted image 20240804191340.png",
     "VWS/Module 1 - Fire Fundamentals.md",
-    "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "MSc/Thesis/Theory.md",
     "MSc/SAIP 2024 Proceedings.md",
@@ -226,11 +244,6 @@
     "MSc/To-Do files/attachments/AMANDE_14_1_L_fine 1.png",
     "MSc/To-Do files/attachments/AMANDE_14_1_L_coarse 1.png",
     "MSc/MSc Kanban.md",
-    "MSc/To-Do files/attachments/AMANDE_14_1_L_fine.png",
-    "MSc/To-Do files/attachments/AMANDE_14_1_L_coarse.png",
-    "MSc/To-Do files/attachments/0_5_MeVee_threshold.png",
-    "MSc/To-Do files/attachments/ambe_unfolded_comparison.png",
-    "MSc/To-Do files/attachments/ToF_response_functions.png",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
@@ -252,7 +265,6 @@
     "MSc/Thesis",
     "MSc/Detector name options.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "HTML import",

@@ -76,7 +76,7 @@ All water sources for firefighting are classified into two categories:
 **Remember**
 - Choose flat ground. 
 - Once placed, they cannot be moved.
-- Secure hose in a circular pattern at the bottom of the pool to avoid couplings from flying out due to pressure.
+- Secure hose in a circular pattern at the bottom of the pool when filling to avoid couplings from flying out due to pressure.
 - Always monitor the pool level.
 
 ### Hydrants
@@ -87,4 +87,119 @@ All water sources for firefighting are classified into two categories:
 - Pressure varies between suburbs.
 
 Hydrants typically have a valve and outlet with a screw-type male thread, onto which a standpipe is attached. Either underground or above. Specific equipment is needed:
-- **Hydrant Standpipe**: 65 mm diameter metal pipe ~ 1 m long to connect to un
+- **Hydrant Standpipe**: 65 mm diameter metal pipe ~ 1 m long to connect to underground hydrants. Has a threaded female coupling and a female instantaneous coupling on top. Screw in clockwise.
+- **Hydrant Key**: 1 m long rod with tapered square socket at the bottoms. Fits over the false spindle on the hydrant valve.
+- **Hydrant Spindle Cap/False Spindle**: Used to cover the hydrant spindle to protect from damage. Usually fitted to hydrants, but sometimes missing so need to be carried as they are essential for operation.
+- **Hydrant Bar (or T-bar)**: 500 mm rod with flat chisel blade to lifting hydrant cover. Slips into hole in hydrant key in order to turn the key.
+
+![[Pasted image 20240804192759.png]]
+
+- Hydrants are marked clearly with yellow and FH. Red or pink may be used in rural settings. 
+- Insert the hydrant bar into the key and turn clockwise slowly. 
+- Flush the hydrant briefly before attaching hoses to ensure good flow and remove debris.
+- Ensure the flat rubber washer is in place on the threaded female coupling.
+
+#### Types of Hydrants
+- **Underground Hydrants** are in pits below ground level. Standpipe is needed.
+- **Pillar Post Hydrants** are above ground so the hose can be quickly coupled. 
+
+
+# Working with Pumps 1: Parts and Checks
+
+## Types of Pumps
+
+### Centrifugal
+These are often preferred as they can handle slightly dirty water without damage (small stones can still be bad). The combination of pump and motor/engine are referred to as a Portable Pump.
+
+**Engine** is required for providing power.
+**Impeller** is positioned within the chamber housing section and looks like a propeller. It creates centrifugal force as it rotates on a central shaft. Has vanes or blades, like a fan. Propels water to the outside of the chamber.
+**Housing** surrounds the impeller and directs flow from the inlet (in the middle of the chamber) to the edge, where it goes to the delivery system. Housing contains a channel called a Volute, which reduces velocity and turbulence, allowing for smoother flow.
+
+#### Characteristics
+- **Simplicity:** Centrifugal pumps have only one moving part, reducing the likelihood of breakdown during use.
+- **Ease of Maintenance:** They are simple to maintain, making upkeep hassle-free.
+- **Quick Deployment:** Upon arrival at the incident, centrifugal pumps can be immediately primed and started, with the impeller turning, ready for immediate use without risk of damage.
+- **Versatile Drive:** They can be driven directly by either internal combustion engines or electric motors, providing flexibility in power source.
+- **Controlled Output:** Careful control of pump output (water delivery) is essential. Gradual adjustments to flow rate are crucial, as sudden changes can affect the jet reaction (force) at the branch or nozzle. Uneven or abrupt changes in flow rate can make handling the branch or nozzle difficult, particularly in challenging terrain, posing potential safety hazards.
+
+**For a given pump:**
+- **Closed Outlets:** Pressure is at a maximum and flow is at a minimum when all the outlets are closed.
+- **Open Outlets:** Pressure is at a minimum and flow is at a maximum when all the outlets are wide open.
+- **Opening Outlets:** As delivery outlets are opened, pressure gradually decreases.
+- **Pressure and Flow with Pump Speed:** Pressure and flow maintain a direct relationship with the pump speed, as long as the size and flow rate settings of the delivery branch or nozzle remain consistent.
+
+
+![[Part of a Pump 1a-14 download.png]]
+
+![[Parts of a Pump 15-22 download.png]]
+
+## Pump Checks
+- Correct Suction Hose/not faulty
+- O-rings/seals in each delivery outlet and no damage.
+- Lugs on delivery outlet. Move freely and release correctly.
+- Valve handles screwed on tight and working. 
+- Check pull-cord for fraying
+- Check spark plug (pump won't start)
+- Check oil level (pump won't start if oil too low)
+- Check if there's fuel (unleaded)
+
+![[The 8 Pump Checks - downloadable.png]]
+
+**Check when unpacking the pump, before moving it far away**
+
+## On-scene set-up
+**1. Secure Placement:** Ensure the pump is securely placed and as level as possible. The pump has an automated safety shut-off feature that activates if it's not level, as this compromises engine lubrication. Secure the pump to a stable object to prevent shifting or falling due to engine vibrations.
+
+**2. Proximity to Water Source:** Position the pump close to the water source, preferably below or at the same level. This reduces gravitational drag and pressure difference during water draw, facilitating priming. Placing the pump too high above the water source can make priming difficult or impossible. 
+
+**3. Suction Hose Attachment:** Attach the suction hose to the pump inlet before submerging the strainer end in the water. This ensures proper fitting and prevents the hose from getting lost. Keep the strainer end elevated above the bottom of the water source (dam, river lake, etc.) to avoid drawing in debris or sand, which can block the hose and reduce pump efficiency.
+
+**4. Avoiding Air Intake:** Avoid positioning the strainer and suction hose directly under a rapid or waterfall in a river, as air bubbles in the water can induce air into the pump. This can lead to difficulties in priming or loss of prime. If the water source is shallow, dig a hole to submerge the strainer and allow silt to settle. Consider covering the strainer with a non-porous material to prevent air intake but monitor for air entry into the suction.
+
+**5. Valve Closure:** Ensure all valves are closed before priming the pump. Open valves can disrupt the priming process and affect pump performance.
+
+## Troubleshooting Pump Operations
+
+**When the Pump doesn’t work:**
+This generally occurs when one of the pump checks was missed or one step in the start-up process was not carried out. Do not panic, check the following:
+
+- Check the ON/OFF switch is ON.
+- Check that the fuel switch is set to open (right).
+- Check that there is fuel in the tank.
+- Is the choke at the required setting? It should be open (ON) for a cold pump engine and closed (OFF) for a warm pump engine.
+- Ensure the spark plug cap is secure.
+- Ensure there is enough oil in the sump.
+- Is the pump on a slope? The pump will automatically cut off if on a slope as there is a gauge in the sump that cuts the engine if the oil is low.
+- Make sure that the throttle is set to half. 
+
+**If the pump chamber will not prime:**
+- Check that the suction hose is fully submerged and not sucking any air.
+- Check the suction hose for any breaks or leaks.
+- Check for mud or organic debris blocking the suction hose.
+- Make sure the suction hose is securely connected.
+- Make sure the drain valve is closed.
+
+**If the pump engine starts but no water is delivered:**
+- Check that the pump chamber is properly primed.
+- Check that the suction hose is fully submerged and not sucking any air.
+- Make sure the water source (if you cannot see it easily) has not run dry.
+- Check that all the correct valves are open. 
+
+**The pump engine starts but sounds as though it is struggling:**
+- Make sure that the choke is completely closed (OFF).
+- Make sure the throttle is set all the way to full.
+
+**The pump engine starts and the pump chamber primes but then cuts off after a minute or so:**
+- Check that the fuel (petrol) switch has been set fully opened.
+- Check that there is enough fuel in the fuel tank.
+
+ **If the water pressure delivered from the pump is too low:**
+- Check that there are no faults or issues with the suction hose.
+- Make sure the throttle is set to fully open.
+- Check for kinks in the hose line.
+- Check to see whether the suction head (the height difference between the pump and the water source) is not too great.
+- There may be too many lengths of hose attached for the pressure being delivered by the pump to push the water along the hose lengths.
+- Is the water delivery point (the branch or nozzle) being used at too great a height above the pump?
+- Check that the branch or nozzle operator is using the equipment correctly.
+
+# Hoses 1: Types and Using
