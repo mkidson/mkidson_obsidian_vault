@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30b21e98c4762019",
+        "id": "bcb67688b4921e22",
         "type": "tabs",
         "children": [
           {
-            "id": "d3989c2628b542cf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MSc/MSc Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe520b9627d0b461",
+            "id": "f11255f17b062092",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "VWS/Basic Wildfire Suppression Course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,12 +23,12 @@
             }
           },
           {
-            "id": "371fd3928573ad8d",
+            "id": "bdc12e2f426e5cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "VWS/Module 1 - Fire Fundamentals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,64 +36,12 @@
             }
           },
           {
-            "id": "6ae7859379518928",
+            "id": "a29ffd325cc06ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ee0ed9016193f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-07-29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c286d6aab7a42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12e75d435fe28707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Response functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42ad79c0f238229c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Theory.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Theory.md"
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md"
               }
             }
           },
@@ -278,12 +206,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42ad79c0f238229c",
+  "active": "a29ffd325cc06ed2",
   "lastOpenFiles": [
+    "VWS/attachments/Pasted image 20240804191340.png",
+    "VWS/Module 1 - Fire Fundamentals.md",
+    "VWS/Module 2 - Wildfire Basic Skills.md",
+    "VWS/Basic Wildfire Suppression Course.md",
+    "MSc/Thesis/Theory.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Unfolding.md",
-    "MSc/Thesis/Theory.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Response functions.md",
     "Daily Notes/2024-07-29.md",
@@ -302,8 +234,6 @@
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
-    "VWS/Module 1.md",
-    "VWS/Basic Wildfire Suppression Course.md",
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/To-Do files/Details on neutron energies in space.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
@@ -323,7 +253,6 @@
     "MSc/Detector name options.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Game Data.md",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Dragonlance- Shadow of the Dragon Queen.md",
-    "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions/Sessions.md",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
     "HTML import",
