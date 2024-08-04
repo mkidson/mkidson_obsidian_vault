@@ -144,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,10 +215,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a29ffd325cc06ed2",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
-    "VWS/Thoughts....md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
+    "VWS/Thoughts....md",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
