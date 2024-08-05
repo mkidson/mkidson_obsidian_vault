@@ -51,4 +51,8 @@ z_{i} = \sum\limits_{j=1}^{m}R_{ij}\phi_{j}.
 $$
 Here the $z_i$ are the bin heights of the complicated light output spectrum, the $\phi_j$ are the numbers of incident neutrons of a given energy indexed by $j$, and the $R_{ij}$ are the bin heights (indexed by $i$) of the light output spectrum associated with the neutrons with energy indexed by $j$. In the context of determining neutron energy, the unknown is of course $\phi_j$, which is non-trivial to determine from the two known quantities: the inversion of $R_{ij}$ cannot be done analytically ***check this*** so needs to be done by some other method.
 
-There are two methods 
+In order to do this inversion, then, a piece of software called UMG is used. UMG has two slightly different methods of unfolding available to it but both use an iterative approach where they compare the measured spectrum to a spectrum created by "refolding" the data using the equation above by determining a $\chi^2$ value.
+
+The first code is called GRAVEL, which does a gradient descent on the $\chi^2$ as a function of the parameters $\phi_j$. This approach is fairly robust to initial conditions and can generally find a solution. 
+
+The other is called MAXED, which uses a Monte Carlo metropolis method to search the $\phi_j$ parameter space. This is very sensitive to initial conditions and performs best with a first guess of the spectrum being the solution found using GRAVEL. In this way, the two codes work together to find a good solution.
