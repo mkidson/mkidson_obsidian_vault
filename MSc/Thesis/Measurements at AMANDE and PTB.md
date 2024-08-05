@@ -32,7 +32,7 @@ Calculating this uncalibrated time difference for each event produces the histog
 
 Below is a zoomed-in version of the gamma flash. To the right of the peak are events that arrive "early" and to the left are events that arrive "late". The reason for the slight asymmetry in the peak -- a gaussian is the expected shape here -- is the fact that a thick target is used for this experiment, meaning some of the protons are slowed down by scattering interactions before being captured ***citation needed on if that's the process that happens*** in the reaction that results in neutrons or gamma rays. Because of this, there can be a slight difference in timing between an event that happens without scatter and one that happens after one or more scattering events. 
 
-![[ToF_Gamma_Peak.png]]
+![[MSc/Thesis/attachments/ToF_Gamma_Peak.png]]
 
 
 The "early" events are expected to behave like a gaussian though, so the peak can be found by fitting to that side of the peak. This provides a point in time that can be calibrated to. The distance from target to detector was measured to be 12.0 m, so the time at which gamma rays are expected to arrive is 
@@ -43,7 +43,7 @@ $$
 
 The figure 2 above can then be calibrated by multiplying by $-1$ and shifting all events so the gamma flash peak aligns with $t_\gamma$, providing the figure below.
 
-![[ToF_T.png]]
+![[MSc/Thesis/attachments/ToF_T.png]]
 
 This is the calibrated time of flight for each event in the detector. Neutrons can be separated out using pulse shape discrimination and a velocity found for each event. Finally the neutron energy can be found, shown below.
 

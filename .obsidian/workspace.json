@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb67688b4921e22",
+        "id": "30b21e98c4762019",
         "type": "tabs",
         "children": [
           {
-            "id": "f11255f17b062092",
+            "id": "d3989c2628b542cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MSc/MSc Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe520b9627d0b461",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Basic Wildfire Suppression Course.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +43,12 @@
             }
           },
           {
-            "id": "bdc12e2f426e5cc1",
+            "id": "371fd3928573ad8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Module 1 - Fire Fundamentals.md",
+                "file": "MSc/Thesis/Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +56,12 @@
             }
           },
           {
-            "id": "a29ffd325cc06ed2",
+            "id": "62699f0626e499b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
+                "file": "MSc/Thesis/Unfolding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +69,12 @@
             }
           },
           {
-            "id": "909f929d5f6c8a06",
+            "id": "6ae7859379518928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Thoughts....md",
+                "file": "MSc/Thesis/Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MSc/Thesis/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MSc/Thesis/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MSc/Thesis/Theory.md"
+              }
             }
           },
           {
@@ -215,8 +239,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05adfc1bf9a71871",
+  "active": "6ae7859379518928",
   "lastOpenFiles": [
+    "MSc/Thesis/Simulation.md",
+    "MSc/Thesis/Response functions.md",
+    "MSc/Thesis/Prototyping - Design.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
+    "MSc/Thesis/Unfolding.md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Thoughts....md",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
@@ -229,9 +258,7 @@
     "MSc/Thesis/Theory.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Introduction.md",
-    "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Thesis.md",
-    "MSc/Thesis/Response functions.md",
     "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/attachments/ToF_Gamma_Peak.png",
@@ -242,11 +269,8 @@
     "MSc/MSc Kanban.md",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
-    "MSc/Thesis/Prototyping - Design.md",
     "MSc/To-Do files/Details on neutron energies in space.md",
     "MSc/Thesis/Light output as a function of neutron energy.md",
-    "MSc/Thesis/Simulation.md",
     "VWS/attachments",
     "Untitled",
     "MSc/Thesis/Introduction.pdf",
