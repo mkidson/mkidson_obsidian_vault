@@ -49,4 +49,6 @@ The method works by assuming that the light output spectrum associated with an i
 $$
 z_{i} = \sum\limits_{j=1}^{m}R_{ij}\phi_{j}.
 $$
-Here the $z_i$ are the bin heights of the complicated light output spectrum, the $\phi_j$ are the numbers of incident neutrons of a given energy indexed by $j$, and the $R_{ij}$ are the bin heights (indexed by $i$) of the light output spectrum associated with the neutrons with energy indexed by $j$. In the context of determining neutron energy, the unknown is of course $\phi_j$, which is non-trivial to determine from the two known quantities: the inversion of $R_{ij}$ cannot be done analytically ***check this*** so needs to be done 
+Here the $z_i$ are the bin heights of the complicated light output spectrum, the $\phi_j$ are the numbers of incident neutrons of a given energy indexed by $j$, and the $R_{ij}$ are the bin heights (indexed by $i$) of the light output spectrum associated with the neutrons with energy indexed by $j$. In the context of determining neutron energy, the unknown is of course $\phi_j$, which is non-trivial to determine from the two known quantities: the inversion of $R_{ij}$ cannot be done analytically ***check this*** so needs to be done by some other method.
+
+There are two methods 
