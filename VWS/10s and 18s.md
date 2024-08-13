@@ -48,28 +48,3 @@ Ensure that you always have a communication link with your fellow crew members, 
 Always identify where your escape routes are, do not allow yourself to be in a position of danger by having no escape plan.
 ### S – Safety Zones
 A safety zone is any area that is unlikely to burn - including ground already burnt over, a wetland or river, even a rock slide - where you can be certain the crew will be safe if fire conditions become hazardous. Have a safety zone in mind at all times, bearing in mind that it may change. A safety zone needs to be easily accessible via an escape route and known by all members of the crew.
-
-
-1. 1,5,9
-2. 2,6,10
-3. 3,7.8
-4. 4
-5. 3
-6. 1
-7. 4
-8. 2
-9. 1
-10. 4
-11. 4
-12. 2
-13. 4
-14. 2
-15. 3
-16. 4
-17. 1
-18. 3
-19. 4
-20. 2
-21. 1
-22. 4
-23. 
