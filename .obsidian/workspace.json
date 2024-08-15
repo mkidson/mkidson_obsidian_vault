@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb67688b4921e22",
+        "id": "30b21e98c4762019",
         "type": "tabs",
         "children": [
           {
-            "id": "f11255f17b062092",
+            "id": "d3989c2628b542cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MSc/MSc Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe520b9627d0b461",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Basic Wildfire Suppression Course.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +43,12 @@
             }
           },
           {
-            "id": "702ecb81cc6a8cb6",
+            "id": "371fd3928573ad8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/10s and 18s.md",
+                "file": "MSc/Thesis/Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,15 +56,59 @@
             }
           },
           {
-            "id": "bdc12e2f426e5cc1",
+            "id": "62699f0626e499b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Unfolding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae7859379518928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785dd4fc887b117a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a13d9dd786863639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/Thesis/Simulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VWS/10s and 18s.md",
+                "file": "MSc/Thesis/Simulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VWS/10s and 18s.md",
+                "file": "MSc/Thesis/Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/10s and 18s.md"
+                "file": "MSc/Thesis/Simulation.md"
               }
             }
           },
@@ -201,23 +265,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "702ecb81cc6a8cb6",
+  "active": "a13d9dd786863639",
   "lastOpenFiles": [
-    "VWS/Basic Wildfire Suppression Course.md",
+    "MSc/Thesis/Theory.md",
+    "MSc/Thesis/Simulation.md",
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Unfolding.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/10s and 18s.md",
+    "VWS/Basic Wildfire Suppression Course.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/MSc Kanban.md",
     "MSc/Plot examples.md",
-    "MSc/Thesis/Thesis.md",
     "VWS/Thoughts....md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
-    "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Response functions.md",
     "MSc/Thesis/Prototyping - Design.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
-    "MSc/Thesis/Unfolding.md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
@@ -226,7 +291,6 @@
     "VWS/attachments/Pasted image 20240804191340.png",
     "VWS/Module 1 - Fire Fundamentals.md",
     "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Thesis/Introduction.md",
     "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/attachments/ToF_Gamma_Peak.png",
     "MSc/To-Do files/attachments/AMA_SS25C_103_L_S 1.png",
