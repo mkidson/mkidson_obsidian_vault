@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Simulation.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Simulation.md",
+                "file": "MSc/Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Simulation.md"
+                "file": "MSc/Thesis/Thesis.md"
               }
             }
           },
@@ -265,12 +265,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a13d9dd786863639",
+  "active": "fe520b9627d0b461",
   "lastOpenFiles": [
-    "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Simulation.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Simulation.md",
+    "MSc/Thesis/Theory.md",
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/10s and 18s.md",
