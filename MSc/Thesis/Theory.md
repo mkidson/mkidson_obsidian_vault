@@ -11,7 +11,7 @@
 	- [ ] Methods
 	- [ ] Requirements
 	- [ ] Motivation for making the measurements and simulations
-- [ ] Time of flight maybe?
+- [ ] Time of flight
 
 
 # Theory

@@ -1,11 +1,13 @@
 # Overview
 - [ ] AMANDE
+	- [ ] Outline of the facility
 	- [ ] Motivation for monoenergetic
 	- [ ] Actual measurements
 - [ ] PTB
-	- [x] Motivation (ToF)
-	- [x] Measurements
-	- [x] How ToF works
+	- [ ] Outline of the facility
+	- [ ] Monoenergetic measurements
+	- [ ] ToF measurements
+
 
 # Measurements
 ## PTB PIAF

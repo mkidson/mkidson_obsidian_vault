@@ -27,8 +27,8 @@ This work will present the characterisation and calibration of a detector system
 ![[Measurements at AMANDE and PTB#Overview]]
 
 
-# [[Response functions]]
-![[Response functions#Overview]]
+# [[Response functions & L vs E]]
+![[Response functions & L vs E#Overview]]
 
 
 # [[Simulation]]
@@ -37,6 +37,9 @@ This work will present the characterisation and calibration of a detector system
 
 # [[Unfolding]]
 ![[Unfolding#Overview]]
+
+# [[Results]]
+![[Results#Outline]]
 
 # [[Light output as a function of neutron energy]]
 ![[Light output as a function of neutron energy#Overview]]

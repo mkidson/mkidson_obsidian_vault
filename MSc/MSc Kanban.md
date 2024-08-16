@@ -27,11 +27,9 @@ kanban-plugin: board
 - [ ] Look into FPGA programming
 - [ ] [[Quick investigation into SiPM temperature dependence]]
 - [ ] Check the fraction of escaping recoils in cylinder compared to sphere
-- [ ] Histograms should go to zero at the start
 - [ ] [[Details on neutron energies in space]]
 - [ ] [[Read up on Bonner sphere systems]]
 - [ ] What is "radiationless internal conversion" from pg 224/225 of Knoll. Doesn't that mean a kind of energy loss?
-- [ ] Should SAIP Proceedings only talk about 1-16 MeV, as we don't have response functions up to 20 MeV?
 - [ ] Unfolding efficiency correction and final neutron spectrum scaling needs a lot more thought. Shit looks too bad
 
 
@@ -59,6 +57,8 @@ kanban-plugin: board
 
 ## Archive
 
+- [x] Should SAIP Proceedings only talk about 1-16 MeV, as we don't have response functions up to 20 MeV?
+- [x] Histograms should go to zero at the start
 - [x] Test card
 - [x] [[Test card]]
 

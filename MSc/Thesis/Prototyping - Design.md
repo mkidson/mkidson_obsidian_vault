@@ -1,5 +1,9 @@
 # Overview
-- [ ] Development of the detector
+- [ ] EJ-276
+- [ ] SiPMs
+- [ ] CAEN Digitisers
+- [ ] Development of the detector @ n-lab
+	- [ ] n-lab as a facility
 	- [ ] Wrappings
 	- [ ] Shapes
 	- [ ] SiPM boards?

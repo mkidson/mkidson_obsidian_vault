@@ -1,6 +1,7 @@
 # Overview
 - [ ] Creation of response functions from ToF data
-- [ ] Possibly simulations as well
+- [ ] Extraction of L vs E from data
+
 
 
 
