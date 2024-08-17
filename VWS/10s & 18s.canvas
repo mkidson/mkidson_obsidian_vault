@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"7300798b52dccb5f","x":-640,"y":-400,"width":800,"height":1520,"type":"file","file":"VWS/10s and 18s.md"},
+		{"id":"65c212d88cd9ce9d","x":260,"y":151,"width":285,"height":105,"type":"text","text":"Be alert, keep calm, think clearly, and act decisively"},
+		{"id":"1d487d91ee414431","x":262,"y":292,"width":283,"height":137,"type":"text","text":"Maintain prompt communications with your forces, supervisor, and adjoining forces"},
+		{"id":"e49d8d1bb7d5cc15","x":260,"y":-291,"width":250,"height":70,"type":"text","text":"Know what the fire is doing at all times"},
+		{"id":"c0f079e9dc18d97a","x":262,"y":-391,"width":300,"height":100,"type":"text","text":"Keep informed on fire weather conditions and forecasts"},
+		{"id":"de4bd90b0a343c5e","x":260,"y":-91,"width":279,"height":137,"type":"text","text":"Identify escape routes and safety zones, and make them known"},
+		{"id":"035a92db0d6ef245","x":260,"y":46,"width":283,"height":105,"type":"text","text":"Post lookouts where there is possible danger"},
+		{"id":"2445f1ac1171ec0f","x":262,"y":429,"width":266,"height":109,"type":"text","text":"Give clear instructions and make sure they are understood"},
+		{"id":"3a3b366394462274","x":262,"y":538,"width":250,"height":100,"type":"text","text":"Maintain control of your forces at all times"},
+		{"id":"0e3321b5cd68e07d","x":260,"y":-221,"width":250,"height":108,"type":"text","text":"Base all actions on current and expected fire behaviour"},
+		{"id":"f47c6c18958fa89d","x":260,"y":669,"width":265,"height":124,"type":"text","text":"Fight fire aggressively, having provided for safety first"},
+		{"id":"69b441bf4b974b25","x":860,"y":-391,"width":250,"height":109,"type":"text","text":"Fire has not been scouted or sized up"}
+	],
+	"edges":[
+		{"id":"ab8faeef47bd3cdb","fromNode":"e49d8d1bb7d5cc15","fromSide":"right","toNode":"69b441bf4b974b25","toSide":"left"},
+		{"id":"7663432f943dfe1d","fromNode":"035a92db0d6ef245","fromSide":"right","toNode":"69b441bf4b974b25","toSide":"left"}
+	]
+}

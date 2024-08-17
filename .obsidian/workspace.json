@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30b21e98c4762019",
+        "id": "bcb67688b4921e22",
         "type": "tabs",
         "children": [
           {
-            "id": "d3989c2628b542cf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MSc/MSc Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe520b9627d0b461",
+            "id": "f11255f17b062092",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "VWS/Basic Wildfire Suppression Course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,16 +23,16 @@
             }
           },
           {
-            "id": "371fd3928573ad8d",
+            "id": "bdc12e2f426e5cc1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
+                "file": "VWS/10s & 18s.canvas",
                 "viewState": {
-                  "x": 3887.4804574067,
-                  "y": -197.85012637693097,
-                  "zoom": -1.430752409299215
+                  "x": 582.9206571830848,
+                  "y": 238.99747098643505,
+                  "zoom": -0.8
                 }
               }
             }
@@ -140,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "VWS/10s & 18s.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "VWS/10s & 18s.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Thesis.md"
+                "file": "VWS/10s & 18s.canvas"
               }
             }
           },
@@ -215,8 +195,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe520b9627d0b461",
+  "active": "bdc12e2f426e5cc1",
   "lastOpenFiles": [
+    "VWS/10s and 18s.md",
+    "VWS/10s & 18s.canvas",
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Results.md",
     "MSc/Thesis/Unfolding.md",
@@ -225,11 +208,9 @@
     "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Response functions & L vs E.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/MSc Kanban.md",
     "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Outline.md",
-    "VWS/10s and 18s.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/Plot examples.md",
