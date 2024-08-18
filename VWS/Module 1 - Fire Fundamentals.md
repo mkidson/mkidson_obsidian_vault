@@ -51,7 +51,7 @@ Be aware of situations where the opposite is true: two of the three pillars exis
 ### Wildfire
 - The focus is on suppressing fires in natural fuels: grass, shrubs, forest.
 - Spread over large areas
-- Require specialise tactics and equipment
+- Require specialised tactics and equipment
 - Firefighters pack lighter and wear less PPE to move quickly
 - Nomex is used for fire resistance
 - Contain and extinguish fires while minimising damage to natural resources
@@ -84,7 +84,7 @@ It's important to be familiar with the terminology used, for safety and communic
 - Leader and 2 to 4 members
 - Use water from skid units for suppression
 - Often assigned to initial and rapid suppression of less intense fires
-- Need a permanent source of water for continues operation
+- Need a permanent source of water for continuous operation
 ### Engine Crew
 - Operate from a water-carrying truck
 - Used by many organisations
@@ -198,12 +198,12 @@ Weather is the primary influence on wildfire behaviour. Its constant changing me
 - Named for where it comes from
 - Day and night affects wind (temperature)
 - Increases fire intensity, especially when fanning due to temperature-driven air movement
-- Fries fuel, supplies oxygen
+- Dries fuel, supplies oxygen
 - Embers can be thrown around, heating the ground and aiding in drying fuel
 
 ### Wind Types
-- **Prevailing Wind:** Wind generally seen in an are, seasonally etc. Not necessarily present
-- **General Wind:** The main wind reported in forecasts etc. Can add oxygen and influence genera direction of fire spread
+- **Prevailing Wind:** Wind generally seen in an area, seasonally etc. Not necessarily present
+- **General Wind:** The main wind reported in forecasts etc. Can add oxygen and influence general direction of fire spread
 - **Local Wind:** Results from natural features on a smaller scale. Can lead to valley and slope winds, which affect fire behaviour. Localised fire spread.
 - **Surface Wind:** Measured 6-10 m above the ground. Affect fire behaviour through ember spread etc. Can drive crown fires
 - **Mid-flame Wind:** Occur halfway up the flames and have the greatest impact on the immediate direction of fire spread
@@ -260,7 +260,7 @@ Fynbos and eucalypts have oils so while they appear green can burn even more agg
 ### Aerial Fuels
 - In the overhead canopy
 - > 2 metres above ground
-- Fires can spread through aerial fuels only
+- Fires can spread through aerial fuels alone
 - Very dangerous
 - Crown fires
 

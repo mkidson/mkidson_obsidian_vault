@@ -30,15 +30,28 @@
               "state": {
                 "file": "VWS/10s & 18s.canvas",
                 "viewState": {
-                  "x": 2331.682628732339,
-                  "y": -167.3735820660717,
-                  "zoom": -0.8
+                  "x": 2837.9715533765507,
+                  "y": -85.77515782632781,
+                  "zoom": -0.40000000000000013
                 }
+              }
+            }
+          },
+          {
+            "id": "eb32ab342487e018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VWS/Module 1 - Fire Fundamentals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VWS/10s & 18s.canvas",
+                "file": "VWS/Module 1 - Fire Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VWS/10s & 18s.canvas",
+                "file": "VWS/Module 1 - Fire Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/10s & 18s.canvas"
+                "file": "VWS/Module 1 - Fire Fundamentals.md"
               }
             }
           },
@@ -195,10 +208,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bdc12e2f426e5cc1",
+  "active": "eb32ab342487e018",
   "lastOpenFiles": [
-    "VWS/10s and 18s.md",
+    "VWS/Basic Wildfire Suppression Course.md",
     "VWS/10s & 18s.canvas",
+    "VWS/10s and 18s.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Results.md",
@@ -211,7 +225,6 @@
     "MSc/MSc Kanban.md",
     "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Outline.md",
-    "VWS/Basic Wildfire Suppression Course.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/Plot examples.md",
     "VWS/Thoughts....md",
