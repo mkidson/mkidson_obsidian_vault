@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VWS/Module 1 - Fire Fundamentals.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VWS/Module 1 - Fire Fundamentals.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VWS/Module 1 - Fire Fundamentals.md",
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/Module 1 - Fire Fundamentals.md"
+                "file": "VWS/Module 2 - Wildfire Basic Skills.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "eb32ab342487e018",
   "lastOpenFiles": [
+    "VWS/Module 1 - Fire Fundamentals.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "VWS/10s & 18s.canvas",
     "VWS/10s and 18s.md",
@@ -236,7 +237,6 @@
     "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/attachments/Pasted image 20240804192759.png",
     "VWS/attachments/Pasted image 20240804191340.png",
-    "VWS/Module 1 - Fire Fundamentals.md",
     "MSc/SAIP 2024 Proceedings.md",
     "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/attachments/ToF_Gamma_Peak.png",

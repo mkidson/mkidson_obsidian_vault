@@ -7,7 +7,7 @@ We want to remove one of the elements of the fire triangle. Water is a primary w
 - Portable Pools
 - Natural Sources
 
-Water should be applied efficiently; only enough to extinguish fire. Different patters, pressures, techniques are used in different situations e.g. mop-up and active fire. This is done in part using different branches to create different types of spray.
+Water should be applied efficiently; only enough to extinguish fire. Different patterns, pressures, techniques are used in different situations e.g. mop-up and active fire. This is done in part using different branches to create different types of spray.
 
 ### Jet
 - Unbroken stream of water from the branch or nozzle. 
