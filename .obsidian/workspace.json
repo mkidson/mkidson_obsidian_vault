@@ -200,12 +200,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Open Importer": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "eb32ab342487e018",
