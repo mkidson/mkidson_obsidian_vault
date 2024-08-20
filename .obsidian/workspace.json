@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
+                "file": "VWS/Basic Wildfire Suppression Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md",
+                "file": "VWS/Basic Wildfire Suppression Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/Module 2 - Wildfire Basic Skills.md"
+                "file": "VWS/Basic Wildfire Suppression Course.md"
               }
             }
           },
@@ -208,8 +207,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "eb32ab342487e018",
+  "active": "f11255f17b062092",
   "lastOpenFiles": [
+    "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Module 1 - Fire Fundamentals.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "VWS/10s & 18s.canvas",
@@ -231,7 +231,6 @@
     "VWS/Thoughts....md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
-    "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
