@@ -48,3 +48,65 @@ Ensure that you always have a communication link with your fellow crew members, 
 Always identify where your escape routes are, do not allow yourself to be in a position of danger by having no escape plan.
 ### S – Safety Zones
 A safety zone is any area that is unlikely to burn - including ground already burnt over, a wetland or river, even a rock slide - where you can be certain the crew will be safe if fire conditions become hazardous. Have a safety zone in mind at all times, bearing in mind that it may change. A safety zone needs to be easily accessible via an escape route and known by all members of the crew.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DUCCS
+Dangerous positioning
+1. Attempting a frontal assault on the fire
+2. Unburned fuel between you and the fire
+3. Constructing a fireline without a safe anchor
+4. Building a fireline downhill with fire below
+5. On a hillside where rolling material can ignite fuel below
+6. Sleeping on or near the fire
+Uncertain or bad terrain
+7. In country not seen in daylight
+8. Unaware of local factors and weather influencing fire behaviour
+9. Escape routes and safety zones not identified
+10. Terrain makes escape to safety zones difficult
+Comms
+11. No communication link to crew members, supervisor, and adjoining forces
+12. Instructions or assignment unclear
+13. Uninformed on strategy, tactics, or hazards associated with the fire
+Current fire behaviour
+14. Fire not scouted or sized up
+15. Can't see the fire and not in contact with someone who can
+Signs of worsening
+16. Weather getting hotter and drier
+17. Wind speed increasing and direction changing
+18. Frequent spot fires over the line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
