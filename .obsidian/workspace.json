@@ -80,9 +80,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b861e9af0de7ec1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MSc/Thesis/Thesis.canvas",
+                "viewState": {
+                  "x": 3754.086658704822,
+                  "y": -2197.7256378371285,
+                  "zoom": -0.9794109906752595
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Measurements at AMANDE and PTB.md"
+                "file": "MSc/Thesis/Thesis.canvas"
               }
             }
           },
@@ -239,18 +254,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ae7859379518928",
+  "active": "3b861e9af0de7ec1",
   "lastOpenFiles": [
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/10s and 18s.md",
     "VWS/10s & 18s.canvas",
     "VWS/Basic Wildfire Suppression Course.md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Module 1 - Fire Fundamentals.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Results.md",
     "MSc/Thesis/Unfolding.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Prototyping - Design.md",
