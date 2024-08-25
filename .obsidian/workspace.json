@@ -108,9 +108,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9612471936a33165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/SAIP 2024 Proceedings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Introduction.md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Introduction.md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -267,10 +280,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "371fd3928573ad8d",
+  "active": "9612471936a33165",
   "lastOpenFiles": [
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "VWS/10s and 18s.md",
@@ -284,7 +298,6 @@
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Response functions & L vs E.md",
     "MSc/MSc Kanban.md",
-    "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Outline.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/Plot examples.md",
