@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/Thesis/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/Thesis/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "MSc/Thesis/Theory.md"
               }
             }
           },
@@ -280,8 +280,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9612471936a33165",
+  "active": "6f57072c9d24e361",
   "lastOpenFiles": [
+    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Introduction.md",
@@ -309,7 +310,6 @@
     "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/attachments/Pasted image 20240804192759.png",
     "VWS/attachments/Pasted image 20240804191340.png",
-    "MSc/SAIP 2024 Proceedings.md",
     "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/attachments/ToF_Gamma_Peak.png",
     "MSc/To-Do files/attachments/AMA_SS25C_103_L_S 1.png",
