@@ -1,30 +1,35 @@
-
+# Always make sure the axes start and end with a tick, unless there is a good reason not to. 
 # Event Trace
 ```python
-plt.figure(figsize=(13,9), layout='constrained')
+fig = plt.figure(layout='constrained', figsize=(13,9))
+ax = fig.add_subplot(111)
 matplotlib.rcParams.update({'font.size': 30})
 
-plt.plot(trace_x, trace_0, label='', lw=2, color='blue')
+plt.plot(trace_x, trace_0, label='', lw=3, color='blue')
 
-plt.plot(trace_x, trace_1, label='', lw=2, color='red', ls='-.')
+plt.plot(trace_x, trace_1, label='', lw=3, color='red', ls='-.')
 
-plt.plot(trace_x, trace_2, label='', lw=2, color='green', ls='--')
+plt.plot(trace_x, trace_2, label='', lw=3, color='green', ls='--')
 
 
 plt.xlabel('Time [ns]')
 plt.ylabel('Voltage above baseline [a.u.]')
 plt.ticklabel_format(axis='y', scilimits=[-3,3])
 
+for axis in ['top','bottom','left','right']:
+	ax.spines[axis].set_linewidth(2.5)
+
+ax.tick_params(axis='both', which='major', width=2.5, length=10)
+
 # legend to be in best place to not cover trace
 plt.legend(frameon=False)
 
 # floating y-lims because baseline goes below 0
-plt.xlim(left=trace_x[0], right=trace_x[-1])
+plt.xlim(left=trace_x[0], right=2000)
 
 plt.show()
 ```
-![[MSc/To-Do files/attachments/ToF_event_trace.png]]
-
+![[Pasted image 20240829140852.png]]
 
 # Light Output Spectrum
 ```python
@@ -46,8 +51,8 @@ plt.ticklabel_format(axis='y', scilimits=[-3,3])
 
 plt.show()
 ```
-![[AMANDE_14_1_L_coarse 1.png]]
-![[AMANDE_14_1_L_fine 1.png]]
+![[./attachments/AMANDE_14_1_L_coarse.png]]
+![[AMANDE_14_1_L_fine.png]]
 
 
 # Neutron Energy Spectrum

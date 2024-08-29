@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md"
               }
             }
           },
@@ -282,8 +282,10 @@
   },
   "active": "6f57072c9d24e361",
   "lastOpenFiles": [
-    "MSc/Thesis/Theory.md",
+    "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
+    "MSc/MSc Kanban.md",
     "MSc/SAIP 2024 Proceedings.md",
+    "MSc/Thesis/Theory.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Introduction.md",
     "MSc/Thesis/Thesis.canvas",
@@ -298,7 +300,6 @@
     "MSc/Thesis/Simulation.md",
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Response functions & L vs E.md",
-    "MSc/MSc Kanban.md",
     "MSc/Thesis/Outline.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/Plot examples.md",
