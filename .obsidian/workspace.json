@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
+                "file": "MSc/SAIP 2024 Proceedings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md"
+                "file": "MSc/SAIP 2024 Proceedings.md"
               }
             }
           },
@@ -280,8 +280,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6f57072c9d24e361",
+  "active": "9612471936a33165",
   "lastOpenFiles": [
+    "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "MSc/MSc Kanban.md",
     "MSc/SAIP 2024 Proceedings.md",
@@ -301,7 +302,6 @@
     "MSc/Thesis/Prototyping - Design.md",
     "MSc/Thesis/Response functions & L vs E.md",
     "MSc/Thesis/Outline.md",
-    "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/Plot examples.md",
     "VWS/Thoughts....md",
     "VWS/attachments/Pasted image 20240806192007.png",
@@ -314,7 +314,6 @@
     "Daily Notes/2024-07-29.md",
     "MSc/To-Do files/attachments/ToF_Gamma_Peak.png",
     "MSc/To-Do files/attachments/AMA_SS25C_103_L_S 1.png",
-    "MSc/To-Do files/attachments/AMA_SS25C_103_L_S.png",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "MSc/To-Do files/Details on neutron energies in space.md",
