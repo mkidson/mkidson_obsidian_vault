@@ -89,8 +89,8 @@
               "state": {
                 "file": "MSc/Thesis/Thesis.canvas",
                 "viewState": {
-                  "x": 3376.109504694698,
-                  "y": -2136.118550242429,
+                  "x": 3696.1619269142493,
+                  "y": -1669.7564191320284,
                   "zoom": -0.5833333333333338
                 }
               }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/SAIP 2024 Proceedings.md"
+                "file": "MSc/Thesis/Thesis.canvas"
               }
             }
           },
@@ -280,12 +280,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9612471936a33165",
+  "active": "3b861e9af0de7ec1",
   "lastOpenFiles": [
+    "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "MSc/MSc Kanban.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Introduction.md",
