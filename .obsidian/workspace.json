@@ -85,12 +85,14 @@
             "id": "3b861e9af0de7ec1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "MSc/Thesis/Thesis.canvas",
+                "viewState": {
+                  "x": 4131.549753291292,
+                  "y": -2297.464650182782,
+                  "zoom": -0.495762770461181
+                }
               }
             }
           },
@@ -203,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
+                "file": "MSc/Thesis/Thesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-02.md"
+                "file": "MSc/Thesis/Thesis.canvas"
               }
             }
           },
@@ -280,8 +282,8 @@
   },
   "active": "3b861e9af0de7ec1",
   "lastOpenFiles": [
-    "MSc/Thesis/Thesis.canvas",
     "Daily Notes/2024-09-02.md",
+    "MSc/Thesis/Thesis.canvas",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
