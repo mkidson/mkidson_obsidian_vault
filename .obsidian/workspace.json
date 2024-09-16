@@ -76,8 +76,8 @@
               "state": {
                 "file": "MSc/Thesis/Thesis.canvas",
                 "viewState": {
-                  "x": 4060.0659667087994,
-                  "y": -484.7913487294885,
+                  "x": 3745.5805894106957,
+                  "y": -1998.7808545973699,
                   "zoom": -0.8186988772184179
                 }
               }
@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Thesis.canvas"
+                "file": "MSc/MSc Kanban.md"
               }
             }
           },
@@ -267,11 +266,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ae7859379518928",
+  "active": "d3989c2628b542cf",
   "lastOpenFiles": [
+    "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "Daily Notes/2024-09-13.md",
-    "MSc/Thesis/Thesis.canvas",
     "Daily Notes/2024-09-02.md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
