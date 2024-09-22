@@ -1,0 +1,3 @@
+Neutrons as secondary radiation are present in a number of environments where their interaction with biological matter as well as electronics can lead to adverse health and technological effects. These environments include on-board aircraft at typical cruising altitudes (10-20 km above sea level), in spacecraft, in proton therapy centres, and in nuclear research or power facilities.
+
+The energy spectrum of neutrons in aircraft has been shown to range from the thermal region to upwards of GeV, but peaks at both 1 MeV and 100 MeV (Goldhagen et al., 2004). A similar distribution was shown to be present in proton therapy centres (De Saint-Hubert et al., 2016). The energy spectrum present in low earth orbit is not well-documented
