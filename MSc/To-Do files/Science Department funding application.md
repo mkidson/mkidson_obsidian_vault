@@ -4,7 +4,9 @@ The energy spectrum of neutrons in aircraft has been shown to range from the the
 
 Standard choices such as EJ-301 liquid scintillator present problems for applications such as those of interest due to the hazardous nature of the material as well as the fragility of the glass container it must be kept in for operation. The typically used photomultiplier tubes also present challenges as they are fragile and their required high voltage could be dangerous in extreme conditions. As such, this work aims to continue the development of new detector systems made from plastic scintillator (Eljen Technologies J-276) and silicon photomultipliers (onsemi MICROFC-60035), both of which are much less fragile and will result in a detector system that is much safer to use.
 
-There have been a number of prototypes developed in the n-lab in the UCT Physics Department, all of which have been tested in the lab and shown neutron spectroscopy capabilities up to 20 MeV, but none have been tested in the environments that they are expected to work in. We aim to continue developing prototypes capable of measurements up to 120 MeV and test them on flights, weather balloons, and satellites. 
+There have been a number of prototypes developed in the n-lab in the UCT Physics Department (Hutton & Buffler, 2024). Initial work was done on systems that are sensitive to incident neutron direction (Buffler et al., 2023)
+
+, all of which have been tested in the lab and shown neutron spectroscopy capabilities up to 20 MeV, but none have been tested in the environments that they are expected to work in. We aim to continue developing prototypes capable of measurements up to 120 MeV and test them on flights, weather balloons, and satellites. 
 
 
 # Planned Research Activities/Methods
