@@ -32,3 +32,4 @@ A number of prototypes have been developed in the n-lab in the UCT Physics Depar
 Characterisation of the detector systems and measurement of spectral response functions is the first step to performing neutron spectroscopy. Beam time at iThembaLABS has been secured and allocated to this project, providing 140 MeV quasimonoenergetic neutrons with time-of-flight. 
 
 Once response functions have been created, the detectors will be tested at the n-lab, unfolding neutron energy spectra from known sources such as americium-beryllium (AmBe). Provided they show spectroscopy capabilities in the lab, the detector will be tested on-board aircraft, weather balloons, and satellites. We have working relationships with the Institut de Radioprotection et de Sûreté Nucléaire (IRSN) from France, who themselves are able to fly detectors on AirFrance flights. We are also in talks with local companies who produce satellite components about how to get a detector in space.
+
