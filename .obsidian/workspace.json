@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/Science Department funding application.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/To-Do files/Science Department funding application.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/To-Do files/Science Department funding application.md",
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Science Department funding application.md"
+                "file": "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md"
               }
             }
           },
@@ -283,8 +283,8 @@
   "active": "376ac0c04f0b9d1f",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
-    "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/Science Department funding application.md",
+    "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "Daily Notes/2024-09-13.md",
