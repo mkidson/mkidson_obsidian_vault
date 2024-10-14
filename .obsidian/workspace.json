@@ -76,8 +76,8 @@
               "state": {
                 "file": "MSc/Thesis/Thesis.canvas",
                 "viewState": {
-                  "x": 3617.9410558463246,
-                  "y": -1547.0445584058505,
+                  "x": 3448.076847261781,
+                  "y": -1904.3209298800684,
                   "zoom": -0.8186988772184179
                 }
               }
@@ -122,8 +122,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Thesis.md"
+                "file": "MSc/MSc Kanban.md"
               }
             }
           },
@@ -280,9 +279,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe520b9627d0b461",
+  "active": "d3989c2628b542cf",
   "lastOpenFiles": [
     "MSc/Thesis/Thesis.canvas",
+    "MSc/Thesis/Thesis.md",
     "MSc/MSc Kanban.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/To-Do files/Science Department funding application.md",
@@ -292,7 +292,6 @@
     "Daily Notes/2024-09-02.md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Introduction.md",
     "VWS/10s and 18s.md",
     "VWS/10s & 18s.canvas",
