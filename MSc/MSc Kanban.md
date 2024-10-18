@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] [[MSc/SANSA Bursary application|SANSA Bursary application]]
 - [ ] [[Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.]]
 - [ ] [[Science Department funding application]]
+- [ ] [[IRSN Funding]]
 
 
 ## Complete
