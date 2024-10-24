@@ -18,7 +18,7 @@ kanban-plugin: board
 - [ ] Unfolding efficiency correction and final neutron spectrum scaling needs a lot more thought. Shit looks too bad
 - [ ] Compare 25 mm cylinder on 1 vs 4 SiPMs, with no backing material
 - [ ] Make a design section that details the steps taken to finalise the design re: wrapping etc
-- [ ] Introduce facilities, then separate by technique. Broad beam up to energy spectrum. Monos from IRSN and PTB pointing towards simulation
+- [ ] Neutron measurements are the next chapter, with IRSN and PTB facilities, then detailing measurements
 
 
 ## In Progress
@@ -35,6 +35,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Introduce facilities, then separate by technique. Broad beam up to energy spectrum. Monos from IRSN and PTB pointing towards simulation
 
 
 ***

@@ -93,8 +93,7 @@
               "title": "Thesis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thesis"
+              "title": "Backlinks for MSc Kanban"
             }
           },
           {
@@ -203,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/Thesis/Thesis.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thesis"
+              "title": "Outgoing links from MSc Kanban"
             }
           },
           {
@@ -230,10 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/Thesis/Thesis.md"
+                "file": "MSc/MSc Kanban.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thesis"
+              "title": "Outline of MSc Kanban"
             }
           },
           {
@@ -269,14 +268,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe520b9627d0b461",
+  "active": "d3989c2628b542cf",
   "lastOpenFiles": [
+    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/IRSN Funding.md",
     "MSc/MSc Kanban.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/To-Do files/Science Department funding application.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "Daily Notes/2024-09-13.md",
