@@ -24,7 +24,9 @@
                   ]
                 }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "MSc Kanban"
             }
           },
           {
@@ -39,7 +41,9 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Thesis"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           },
           {
@@ -65,7 +71,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Unfolding"
             }
           },
           {
@@ -80,7 +88,9 @@
                   "y": -1904.3209298800684,
                   "zoom": -0.8186988772184179
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thesis"
             }
           },
           {
@@ -93,7 +103,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time."
             }
           },
           {
@@ -106,7 +118,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SAIP 2024 Proceedings"
             }
           },
           {
@@ -119,7 +133,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time."
             }
           },
           {
@@ -132,11 +148,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "IRSN Funding"
+            }
+          },
+          {
+            "id": "4a453698d7b7d2c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -157,7 +187,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -172,7 +204,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -180,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -195,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -218,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSc/To-Do files/IRSN Funding.md",
+                "file": "MSc/MSc Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +264,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MSc Kanban"
             }
           },
           {
@@ -235,10 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSc/To-Do files/IRSN Funding.md",
+                "file": "MSc/MSc Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MSc Kanban"
             }
           },
           {
@@ -249,7 +291,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -258,8 +302,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/IRSN Funding.md"
-              }
+                "file": "MSc/MSc Kanban.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MSc Kanban"
             }
           },
           {
@@ -267,7 +313,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -293,7 +341,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "96ccf39c2f61eb52",
+  "active": "4a453698d7b7d2c8",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
     "MSc/To-Do files/IRSN Funding.md",
