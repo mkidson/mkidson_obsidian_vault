@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] Compare 25 mm cylinder on 1 vs 4 SiPMs, with no backing material
 - [ ] Make a design section that details the steps taken to finalise the design re: wrapping etc
 - [ ] Neutron measurements are the next chapter, with IRSN and PTB facilities, then detailing measurements
+- [ ] Include the cylinder on PMT measurements at AMANDE to compare to the system
 
 
 ## In Progress
