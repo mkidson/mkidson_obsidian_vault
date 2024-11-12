@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "079f02e0c3df3983",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "fe520b9627d0b461",
             "type": "leaf",
             "pinned": true,
@@ -93,7 +105,8 @@
               "title": "Thesis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,7 +281,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3989c2628b542cf",
+  "active": "079f02e0c3df3983",
   "lastOpenFiles": [
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
