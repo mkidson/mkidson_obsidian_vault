@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "079f02e0c3df3983",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
             "id": "fe520b9627d0b461",
             "type": "leaf",
             "pinned": true,
@@ -104,9 +92,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Thesis"
             }
+          },
+          {
+            "id": "b6a1528aef3a90e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "VWS/10s & 18s.canvas",
+                "viewState": {
+                  "x": 15.672917305561937,
+                  "y": 739.9333532750248,
+                  "zoom": 0.019825349130714612
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "10s & 18s"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,10 +247,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/MSc Kanban.md"
+                "file": "VWS/10s & 18s.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of MSc Kanban"
+              "title": "Outline of 10s & 18s"
             }
           },
           {
@@ -281,14 +286,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "079f02e0c3df3983",
+  "active": "b6a1528aef3a90e6",
   "lastOpenFiles": [
+    "MSc/MSc Kanban.md",
     "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/IRSN Funding.md",
-    "MSc/MSc Kanban.md",
     "MSc/To-Do files/Science Department funding application.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "Daily Notes/2024-09-13.md",
