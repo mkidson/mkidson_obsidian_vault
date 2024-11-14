@@ -94,36 +94,22 @@
             }
           },
           {
-            "id": "b6a1528aef3a90e6",
+            "id": "13431324d7d14c0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "VWS/10s & 18s.canvas",
-                "viewState": {
-                  "x": 15.672917305561937,
-                  "y": 739.9333532750248,
-                  "zoom": 0.019825349130714612
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "10s & 18s"
-            }
-          },
-          {
-            "id": "63a0657b7e542edb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
+                "file": "MSc/To-Do files/Unfolding Process.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Unfolding Process"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,10 +245,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/10s & 18s.canvas"
+                "file": "MSc/To-Do files/Unfolding Process.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10s & 18s"
+              "title": "Outline of Unfolding Process"
             }
           },
           {
@@ -298,11 +284,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63a0657b7e542edb",
+  "active": "13431324d7d14c0f",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
-    "MSc/Thesis/Thesis.md",
     "MSc/Thesis/Thesis.canvas",
+    "MSc/To-Do files/Unfolding Process.md",
+    "MSc/Thesis/Thesis.md",
+    "VWS/10s & 18s.canvas",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/To-Do files/IRSN Funding.md",
@@ -314,7 +302,6 @@
     "MSc/Thesis/Theory.md",
     "MSc/Thesis/Introduction.md",
     "VWS/10s and 18s.md",
-    "VWS/10s & 18s.canvas",
     "VWS/Basic Wildfire Suppression Course.md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Module 1 - Fire Fundamentals.md",
@@ -338,7 +325,6 @@
     "MSc/To-Do files/attachments/AMA_SS25C_103_L_S 1.png",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
-    "MSc/To-Do files/Details on neutron energies in space.md",
     "VWS/attachments",
     "Untitled",
     "MSc/Thesis/Introduction.pdf",
