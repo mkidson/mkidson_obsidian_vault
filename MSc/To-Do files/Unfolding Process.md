@@ -10,6 +10,7 @@ Trying to unfold the AmBe spectrum that I measured in Oct 2024 using response fu
 
 Using the old response functions (`cut_0_5_threshold_modified`), I still get shit unfolding results. 
 I think it might have to do with the cut I made on the AmBe ph spectrum.
+The new response functions are good as long as I use the AmBe measurement from before
 
 
 
