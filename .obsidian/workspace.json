@@ -109,9 +109,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "10s & 18s"
             }
+          },
+          {
+            "id": "63a0657b7e542edb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b6a1528aef3a90e6",
+  "active": "63a0657b7e542edb",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
     "MSc/Thesis/Thesis.md",
