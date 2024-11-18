@@ -32,6 +32,7 @@ kanban-plugin: board
 - [ ] [[Science Department funding application]]
 - [ ] [[IRSN Funding]]
 - [ ] [[Unfolding Process]]
+- [ ] [[Chapter 3 (and more) notes]]
 
 
 ## Complete
