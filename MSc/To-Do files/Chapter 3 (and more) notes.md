@@ -1,17 +1,11 @@
 - Small details that don't help the story
 - Don't worry too much about copying e.g. the n-lab paper
 - Be consistent with referring to elements
-- Take new n-lab picture
 - Don't start sentences with symbols or acronyms
 - Don't be nitpicky about your own work
-- Redo the EJ-276 output spectrum and say "adapted from [ref]"
-- Remake the quenching cycle
-- More detail on reflectivity of surfaces and boundary interactions e.g. Snell's law
 - Save future work issues for that section
 - Floating figures not referenced in the text
 - Footnotes for negative comments maybe
-- Digitiser/acquisition process after design
-- Change Pulse Integral axes to be mV ns units
 - Check the Cs measurements upstairs and downstairs and if they're in the same position, use the nice one for all of them
 - "we consider it acceptable when there isn't another option" for the 1 point calibration
 - figure of CFD
@@ -23,4 +17,4 @@
 - Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
 - Maybe use the n-lab paper's PSD pulse plot in the background section
 - Scale for the constructed detector system
-- 
+- ylabel for the calibration plot should be Compton edge energy
