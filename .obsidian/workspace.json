@@ -265,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/MSc Kanban.md"
+                "file": "MSc/To-Do files/Chapter 3 (and more) notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MSc Kanban"
+              "title": "Outline of Chapter 3 (and more) notes"
             }
           },
           {
@@ -304,10 +304,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3989c2628b542cf",
+  "active": "bd6a8527682b5b22",
   "lastOpenFiles": [
-    "MSc/To-Do files/Chapter 3 (and more) notes.md",
     "MSc/MSc Kanban.md",
+    "MSc/To-Do files/Chapter 3 (and more) notes.md",
     "Daily Notes/2024-11-18.md",
     "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/attachments/ambe_unfolded_comparison 1.png",

@@ -22,3 +22,5 @@
 - Defining the Digital Light Output Parameter - Buffler Hutton
 - Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
 - Maybe use the n-lab paper's PSD pulse plot in the background section
+- Scale for the constructed detector system
+- 
