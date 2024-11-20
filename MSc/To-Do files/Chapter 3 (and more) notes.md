@@ -18,3 +18,4 @@
 - Maybe use the n-lab paper's PSD pulse plot in the background section
 - Scale for the constructed detector system
 - ylabel for the calibration plot should be Compton edge energy
+- errorbars on whatever needs them (everything)
