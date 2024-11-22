@@ -19,3 +19,5 @@
 - Scale for the constructed detector system
 - ylabel for the calibration plot should be Compton edge energy
 - errorbars on whatever needs them (everything)
+- **Wtf is the uncertainty for the FoM???????**
+- 
