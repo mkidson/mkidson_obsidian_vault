@@ -120,13 +120,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/Unfolding Process.md",
+                "file": "MSc/To-Do files/Chapter 3 (and more) notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unfolding Process"
+              "title": "Chapter 3 (and more) notes"
             }
           }
         ]
@@ -265,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Unfolding Process.md"
+                "file": "MSc/To-Do files/Chapter 3 (and more) notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Unfolding Process"
+              "title": "Outline of Chapter 3 (and more) notes"
             }
           },
           {
@@ -306,10 +306,11 @@
   },
   "active": "bd6a8527682b5b22",
   "lastOpenFiles": [
+    "MSc/To-Do files/attachments/Pasted image 20241125123032.png",
+    "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/Chapter 3 (and more) notes.md",
     "MSc/MSc Kanban.md",
     "Daily Notes/2024-11-18.md",
-    "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/attachments/ambe_unfolded_comparison 1.png",
     "MSc/Thesis/Thesis.canvas",
     "MSc/Thesis/Thesis.md",
@@ -335,7 +336,6 @@
     "MSc/Thesis/Response functions & L vs E.md",
     "MSc/Thesis/Outline.md",
     "MSc/Plot examples.md",
-    "VWS/Thoughts....md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
