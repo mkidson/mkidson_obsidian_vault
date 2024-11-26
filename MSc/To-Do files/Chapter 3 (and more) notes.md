@@ -1,3 +1,5 @@
+# Redo all plots with the new long integral length
+
 - Small details that don't help the story
 - Don't worry too much about copying e.g. the n-lab paper
 - Be consistent with referring to elements
