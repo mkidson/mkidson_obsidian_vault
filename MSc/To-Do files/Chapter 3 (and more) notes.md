@@ -26,21 +26,11 @@
 - 
 
 # Chapter 4
-- Do facility then measurement for each.
-- End each section with a light output spectrum (or multiple if necessary)
 - High level comment leading into analysis in Ch 5
-- PTB mono at start of PTB section, after AMANDE section, then ToF
-- "broad spectrum" or "white source" not "broad beam"
-- ![[Pasted image 20241125123032.png]]
-- Tandetron photo like AMANDE for PTB
-- Labels on the photos
 - Rethink the geometry images (Tanya has issues)
 - Label the in-between ToF plots
-- Make the cuts look like two lines, not the box and the line
 - They're not response functions, just lineshapes
 - n-lab now has the angular stuff so no need at AMANDE
-- Chloe's thesis for uncertainties on neutron energy
-- 
 
 # Chapter 5
 - This then becomes the last chapter, including the unfolding
