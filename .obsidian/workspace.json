@@ -264,11 +264,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSc/To-Do files/Chapter 3 (and more) notes.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3 (and more) notes"
+              "title": "Outline"
             }
           },
           {
@@ -304,10 +302,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd6a8527682b5b22",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
-    "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/Chapter 3 (and more) notes.md",
+    "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/attachments/Pasted image 20241125123032.png",
     "MSc/MSc Kanban.md",
     "Daily Notes/2024-11-18.md",
