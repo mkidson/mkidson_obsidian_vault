@@ -15,6 +15,7 @@
 
 # Chapter 5
 - Comparison to cylinder
+	- Compare FoM at a given L value
 - Checking ToF calibration
 - L vs E
 - Simulation
