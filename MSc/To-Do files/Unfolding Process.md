@@ -5,7 +5,7 @@ Trying to unfold the AmBe spectrum that I measured in Oct 2024 using response fu
 - 250 bins per response function
 - All responses start at 0.5 MeVee and go up from there.
 - Once the first bin on the high end reaches 0 counts, the rest are 0 above that.
-- Energy slices are labelled by their centre, the first of which is at 0.625 MeV and the last of which is at 16.375 MeV
+- Energy slices are labelled by their centre, the first of which is at 1.625 MeV and the last of which is at 16.375 MeV
 - Filename is `0_5_thresh_0_25_bin.rsp`
 - The CFD procedure used was taking 4 points around the index before the zero cross. We take the index before the zero cross index up to two after the zero cross, so it's "symmetric" about the crossing.
 
