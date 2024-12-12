@@ -14,19 +14,26 @@
 # Chapter 4
 
 # Chapter 5
-- Comparison to cylinder
-	- Compare FoM at a given L value
 - Checking ToF calibration
-- L vs E
+- Unfolded mono
+	- Motivates using efficiency
 - Simulation
-- Unfolding monoenergetics
-- Unfolding AmBe
+	- Needs L vs E
+	- show spectra (justify threshold)
+	- efficiency
+- Unfolding high energy mono
+- Unfold AmBe
+	- Focus on comparison to uncorrected
+
+
 - This then becomes the last chapter, including the unfolding
 - Unfold monoenergetics
 - Defining the Digital Light Output Parameter - Buffler Hutton
 - Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
 
-
+# Chapter 6
+- cylinder comparison
+	- Compare FoM at a given L value
 # One last measurement
 - Many angles, showing light output edge, count rate, some other parameters
 - Motivate that around the detector axis doesn't need to be measured because of the symmetry of the casing
