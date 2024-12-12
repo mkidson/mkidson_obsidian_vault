@@ -24,16 +24,17 @@
 - Unfolding high energy mono
 - Unfold AmBe
 	- Focus on comparison to uncorrected
+	- Talk about why you chose the parameters in the unfolding
+	- Chi sq as a function of iterations. Choose the chi sq where it doesn't deviate more than 1%
+	- 
 
 
-- This then becomes the last chapter, including the unfolding
-- Unfold monoenergetics
-- Defining the Digital Light Output Parameter - Buffler Hutton
-- Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
 
 # Chapter 6
 - cylinder comparison
 	- Compare FoM at a given L value
+- Defining the Digital Light Output Parameter - Buffler Hutton
+- Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
 # One last measurement
 - Many angles, showing light output edge, count rate, some other parameters
 - Motivate that around the detector axis doesn't need to be measured because of the symmetry of the casing
