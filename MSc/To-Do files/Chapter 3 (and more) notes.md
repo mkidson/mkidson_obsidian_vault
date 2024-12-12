@@ -21,7 +21,6 @@
 	- Needs L vs E
 	- show spectra (justify threshold)
 	- efficiency
-- Unfolding high energy mono
 - Unfold AmBe
 	- Focus on comparison to uncorrected
 	- Talk about why you chose the parameters in the unfolding
