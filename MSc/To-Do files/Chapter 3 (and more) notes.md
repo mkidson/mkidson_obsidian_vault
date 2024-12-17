@@ -34,8 +34,3 @@
 	- Compare FoM at a given L value
 - Defining the Digital Light Output Parameter - Buffler Hutton
 - Difference in L is not the SiPM thing necessarily, it's because of the long gate abruptly cutting off the pulse
-# One last measurement
-- Many angles, showing light output edge, count rate, some other parameters
-- Motivate that around the detector axis doesn't need to be measured because of the symmetry of the casing
-- 0 to 180, 30 degree gaps
-- 
