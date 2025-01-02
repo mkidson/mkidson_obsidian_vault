@@ -7,9 +7,9 @@
 - [ ] Light output spectrum components image. Need a better version
 
 # Development of the Detector System
-- [ ] Increase font size in CFD pulse plot
-- [ ] Font size in example PSD plots for bad integral length choices
-- [ ] Font size in integral length optimisation plots
+- [x] Increase font size in CFD pulse plot
+- [x] Font size in example PSD plots for bad integral length choices
+- [x] Font size in integral length optimisation plots
 - [x] Angular tests figure: make beam wider than detector
 - [ ] Reference for the angular response requirement of the detector from Gael's document
 
@@ -21,7 +21,7 @@
 # Characterisation of the detector system
 - [ ] Verification of the tof calibration section needs thought on how to round it out and conclude with something.
 - [ ] L vs E plot needs some work
-- [ ] L vs E plot might need more words but I'm not sure
+- [ ] L vs E section might need more words but I'm not sure
 - [ ] Unfolded AmBe plots increase font size
 - [ ] What are the units on the vertical for the unfolded neutron energy spectrum?
 
