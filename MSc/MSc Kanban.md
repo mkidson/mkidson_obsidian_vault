@@ -33,6 +33,7 @@ kanban-plugin: board
 - [ ] [[IRSN Funding]]
 - [ ] [[Unfolding Process]]
 - [ ] [[Chapter 3 (and more) notes]]
+- [ ] [[Getting it over the finish line]]
 
 
 ## Complete
