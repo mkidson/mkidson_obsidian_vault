@@ -19,11 +19,11 @@
 - [ ] Is energy resolution the right term when we get to unfolding?
 
 # Characterisation of the detector system
-- [ ] Verification of the tof calibration section needs thought on how to round it out and conclude with something.
+- [x] Verification of the tof calibration section needs thought on how to round it out and conclude with something.
 - [ ] L vs E plot needs some work
-- [ ] L vs E section might need more words but I'm not sure
-- [ ] Unfolded AmBe plots increase font size
-- [ ] What are the units on the vertical for the unfolded neutron energy spectrum?
+- [x] L vs E section might need more words but I'm not sure
+- [x] Unfolded AmBe plots increase font size
+- [x] What are the units on the vertical for the unfolded neutron energy spectrum?
 
 # Comparison to a traditional detector system
 - [ ] Need to properly think about the story in this section
