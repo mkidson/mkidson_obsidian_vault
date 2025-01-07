@@ -1,10 +1,13 @@
+# Abstract
+- [ ] Have another go
+
 # Introduction
 - [x] References in the first section
 - [x] Round off the previous work and objectives of the current work (refer to jarvie)
 
 # Neutron Spectroscopy Techniques
 - [x] Reference for comparison of energy resolution: liquid to plastic scintillator
-- [ ] Light output spectrum components image. Need a better version
+- [x] Light output spectrum components image. Need a better version
 
 # Development of the Detector System
 - [x] Increase font size in CFD pulse plot
