@@ -23,7 +23,7 @@
 
 # Characterisation of the detector system
 - [x] Verification of the tof calibration section needs thought on how to round it out and conclude with something.
-- [ ] L vs E plot needs some work
+- [x] L vs E plot needs some work
 - [x] L vs E section might need more words but I'm not sure
 - [x] Unfolded AmBe plots increase font size
 - [x] What are the units on the vertical for the unfolded neutron energy spectrum?
