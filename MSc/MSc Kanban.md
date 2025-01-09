@@ -34,6 +34,7 @@ kanban-plugin: board
 - [ ] [[Unfolding Process]]
 - [ ] [[Chapter 3 (and more) notes]]
 - [ ] [[Getting it over the finish line]]
+- [ ] [[Tanya Meeting 10-01-25]]
 
 
 ## Complete
