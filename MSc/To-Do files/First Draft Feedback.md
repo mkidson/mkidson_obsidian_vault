@@ -1,6 +1,6 @@
 # Chapter 1
 - [ ] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
-- [ ] Go through Tanya's comments
+- [ ] Go through Tanya's comments after rearranging
 - [ ] Introduction is about the "why" of the research
 - [ ] Need to talk about accelerator and reactor facilities' neutron fields
 - [ ] "This is where we get neutrons"
@@ -21,7 +21,30 @@
 	- [ ] Remove the cosmic on air bit and put it in the conclusion and future work
 
 # Chapter 2
-- [ ] 
+- [ ] Go through Tanya's notes after rearranging
+- [ ] Organic scintillators 
+	- [ ] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
+		- [ ] Show cross-sections
+		- [ ] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
+	- [ ] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
+	- [ ] Compare liquid to plastic scintillator
+- [ ] Photomultipliers
+	- [ ] Don't start general, just go straight in with the PMTs
+	- [ ] SiPMs
+		- [ ] Maybe put a circuit diagram in there
+		- [ ] Get more physics-y. This is a physics master's after all
+		- [ ] Get rid of the quench cycle plot. Just explain it better in words
+		- [ ] Why do we operate at an overvoltage rather than just over the breakdown? (because of gain)
+		- [ ] Show an example pulse from a SiPM
+- [ ] Light output units and PSD gets combined into "pulse processing" where we can show a gamma and neutron lineshape
+- [ ] The components of L plot (neutrons) goes here with explanation
+- [ ] Then a PSD explanation
+	- [ ] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
+- [ ] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
+	- [ ] Need a reference and figure for the scattering probability distribution (not in knoll)
+	- [ ] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
+	- [ ] Which can be used in unfolding analyses
+	- [ ] More detail in the ToF procedure. Tanya wants that fuckin weird figure in that I don't understand
 
 
 
@@ -30,7 +53,7 @@
 - [ ] Photo of sphere wrapped
 - [ ] Photo of deconstructed and constructed
 - [ ] Angular Tests
-	- [ ] Collimator width
+	- [x] Collimator width
 	- [ ] Change title to talk about 14.1 MeV with the STNG
 	- [ ] Start with PSD plots at 3 angles
 	- [ ] Then the resulting light output spectra (one plot)
@@ -94,4 +117,9 @@
 	- [ ] We're unfolding as low energy as possible
 	- [ ] The response functions we use must be normalised to unit area, then scaled by the efficiency
 	- [ ] Compare to ISO and to the n-lab AmBe measurement made with EJ-301
-	- [ ] 
+
+
+# Chapter 6
+- [ ] Convince yourself that there is a linear growth in the deficit as pulse size increases
+- [ ] Look at the difference in L for low to high energy neutrons between PMT and SiPM
+- [ ] 
