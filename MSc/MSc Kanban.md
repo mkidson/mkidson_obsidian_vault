@@ -32,15 +32,16 @@ kanban-plugin: board
 - [ ] [[Science Department funding application]]
 - [ ] [[IRSN Funding]]
 - [ ] [[Unfolding Process]]
-- [ ] [[Chapter 3 (and more) notes]]
-- [ ] [[Getting it over the finish line]]
-- [ ] [[Tanya Meeting 10-01-25]]
+- [ ] [[First Draft Feedback]]
 
 
 ## Complete
 
 **Complete**
 - [x] Introduce facilities, then separate by technique. Broad beam up to energy spectrum. Monos from IRSN and PTB pointing towards simulation
+- [x] [[Getting it over the finish line]]
+- [x] [[Chapter 3 (and more) notes]]
+- [x] [[Tanya Meeting 10-01-25]]
 
 
 ***
