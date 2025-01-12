@@ -73,8 +73,9 @@
 - [ ] PTB
 	- [x] Move mono after broad
 	- [ ] Mono
-		- [ ] Fix the hall picture to have white words
-		- [ ] Add the detector picture
+		- [x] Fix the hall picture to have white words
+		- [x] Add the detector picture
+		- [ ] Target thicknesses 
 		- [ ] PSD plots (just the two)
 		- [ ] L spectra (just two)
 		- [ ] Show the ToF energy spectrum for 19 MeV
