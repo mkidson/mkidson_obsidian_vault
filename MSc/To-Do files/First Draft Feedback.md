@@ -82,7 +82,7 @@
 		- [ ] Rename to include using ToF
 		- [ ] Target thickness
 		- [ ] Sphere in position instead of the diagram
-		- [ ] Remove the ToF heading :(
+		- [x] Remove the ToF heading :(
 		- [ ] Detector event pulse in legend for tof pulse plot
 		- [ ] Possibly move "Figure 4.12 shows the T spectrum after the PSD and L threshold cuts were applied" closer to the plot it's referencing
 		- [ ] ToF PSD plot with gamma and neutron labels
