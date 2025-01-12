@@ -1,3 +1,6 @@
+# Overall stuff
+- [ ] Double check that all PSD plots and all L plots have consistent wording
+
 # Chapter 1
 - [ ] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
 - [ ] Go through Tanya's comments after rearranging
@@ -62,13 +65,13 @@
 
 # Chapter 4
 - [ ] In general, stop referring to monoenergetic neutron fields. Refer to them as neutron fields with peak energy etc.
-- [ ] AMANDE
-	- [ ] Sphere in position at AMANDE
-	- [ ] PSD plots at AMANDE
-	- [ ] L plots at AMANDE (check they're ok)
-	- [ ] Consider removing the paragraph that begins "The neutron light output spectra measured at IRSN AMANDE"
+- [x] AMANDE
+	- [x] Sphere in position at AMANDE
+	- [x] PSD plots at AMANDE
+	- [x] L plots at AMANDE (check they're ok)
+	- [x] Consider removing the paragraph that begins "The neutron light output spectra measured at IRSN AMANDE"
 - [ ] PTB
-	- [ ] Move mono after broad
+	- [x] Move mono after broad
 	- [ ] Mono
 		- [ ] Fix the hall picture to have white words
 		- [ ] Add the detector picture
@@ -79,13 +82,13 @@
 		- [ ] Table formatted like AMANDE
 			- [ ] Remove the contamination
 	- [ ] Broad
-		- [ ] Rename to include using ToF
-		- [ ] Target thickness
-		- [ ] Sphere in position instead of the diagram
+		- [x] Rename to include using ToF
+		- [x] Target thickness
+		- [x] Sphere in position instead of the diagram
 		- [x] Remove the ToF heading :(
-		- [ ] Detector event pulse in legend for tof pulse plot
+		- [x] Detector event pulse in legend for tof pulse plot
 		- [ ] Possibly move "Figure 4.12 shows the T spectrum after the PSD and L threshold cuts were applied" closer to the plot it's referencing
-		- [ ] ToF PSD plot with gamma and neutron labels
+		- [x] ToF PSD plot with gamma and neutron labels
 		- [ ] More care for the "Monoenergetic neutron lineshapes were created" paragraph. See notes on page
 		- [ ] "Cut" in the L-E plot instead of "Slice"
 		- [ ] Andy wants that BIG page plot of the lineshapes. Make it and then decide if you need to include the smaller subset one
