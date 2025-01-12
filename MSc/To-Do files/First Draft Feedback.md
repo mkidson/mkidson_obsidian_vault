@@ -87,10 +87,10 @@
 		- [x] Sphere in position instead of the diagram
 		- [x] Remove the ToF heading :(
 		- [x] Detector event pulse in legend for tof pulse plot
-		- [ ] Possibly move "Figure 4.12 shows the T spectrum after the PSD and L threshold cuts were applied" closer to the plot it's referencing
+		- [x] Possibly move "Figure 4.12 shows the T spectrum after the PSD and L threshold cuts were applied" closer to the plot it's referencing
 		- [x] ToF PSD plot with gamma and neutron labels
 		- [ ] More care for the "Monoenergetic neutron lineshapes were created" paragraph. See notes on page
-		- [ ] "Cut" in the L-E plot instead of "Slice"
+		- [x] "Cut" in the L-E plot instead of "Slice"
 		- [ ] Andy wants that BIG page plot of the lineshapes. Make it and then decide if you need to include the smaller subset one
 			- [ ] Big plot needs like 30 lineshapes and they need to be offset from each other on a linear scale. 
 			- [ ] Portrait mode
