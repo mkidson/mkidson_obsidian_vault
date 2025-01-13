@@ -73,16 +73,17 @@
 - [ ] PTB
 	- [x] Move mono after broad
 	- [ ] Mono
+		- [ ] This section kinda flops a bit
 		- [ ] Change the title to something about peak energy idk
 		- [x] Fix the hall picture to have white words
 		- [x] Add the detector picture
-		- [ ] Target thicknesses 
+		- [x] Target thicknesses 
 		- [x] PSD plots (just the two)
 		- [x] L spectra (just two)
-		- [ ] Show the ToF energy spectrum for 19 MeV
-		- [ ] Then show L for 19 MeV only
-		- [ ] Table formatted like AMANDE
-			- [ ] Remove the contamination
+		- [x] Show the ToF energy spectrum for 19 MeV
+		- [x] Then show L for 19 MeV only
+		- [x] Table formatted like AMANDE
+			- [x] Remove the contamination
 	- [ ] Broad
 		- [x] Rename to include using ToF
 		- [x] Target thickness
