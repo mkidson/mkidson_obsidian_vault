@@ -98,6 +98,7 @@
 			- [ ] Big plot needs like 30 lineshapes and they need to be offset from each other on a linear scale. 
 			- [ ] Portrait mode
 		- [ ] The ToF verification using AMANDE and n-lab needs to go here
+			- [ ] Title change?
 			- [ ] Play with the gamma calib for AMANDE to see if it's plausible to make it fit better with the other two.
 				- [ ] Test if moving up or down by the standard deviation fixes it. If that overshoots, then just pick the right number within the range to make it work
 			- [ ] Then no need to mention anything, just say how nicely they agree.
