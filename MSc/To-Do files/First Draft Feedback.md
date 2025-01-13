@@ -97,8 +97,8 @@
 		- [ ] Andy wants that BIG page plot of the lineshapes. Make it and then decide if you need to include the smaller subset one
 			- [ ] Big plot needs like 30 lineshapes and they need to be offset from each other on a linear scale. 
 			- [ ] Portrait mode
-		- [ ] The ToF verification using AMANDE and n-lab needs to go here
-			- [ ] Title change?
+		- [x] The ToF verification using AMANDE and n-lab needs to go here
+			- [x] Title change?
 			- [x] Play with the gamma calib for AMANDE to see if it's plausible to make it fit better with the other two.
 				- [x] Test if moving up or down by the standard deviation fixes it. If that overshoots, then just pick the right number within the range to make it work
 				- [x] Up by two bin widths was perfect
@@ -107,7 +107,7 @@
 
 
 # Chapter 5
-- [ ] Title needs to include "Spectrometry" in some way. Possibly "Tests of spectrometry". Possibly even about unfolding as that's all that happens in this chapter
+- [x] Title needs to include "Spectrometry" in some way. Possibly "Tests of spectrometry". Possibly even about unfolding as that's all that happens in this chapter
 - [ ] Some introductory words and then straight into unfolding
 - [ ] First section is UMG and how to work it
 	- [ ] Tanya needs to read this bit to confirm it all
