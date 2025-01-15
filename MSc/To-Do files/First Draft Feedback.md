@@ -27,7 +27,7 @@
 - [ ] Go through Tanya's notes after rearranging
 - [ ] Organic scintillators 
 	- [ ] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
-		- [ ] Show cross-sections
+		- [x] Show cross-sections
 		- [ ] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
 	- [ ] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
 	- [ ] Compare liquid to plastic scintillator
