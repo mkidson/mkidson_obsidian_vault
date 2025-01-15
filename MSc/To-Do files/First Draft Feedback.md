@@ -7,6 +7,7 @@
 - [ ] Introduction is about the "why" of the research
 - [ ] Need to talk about accelerator and reactor facilities' neutron fields
 - [ ] "This is where we get neutrons"
+	- [ ] Also gamma rays at the same time
 - [ ] "This is what they do to the body and electronics"
 	- [ ] DNA etc
 	- [ ] SEU or long-term degredation
@@ -29,7 +30,7 @@
 	- [ ] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
 		- [x] Show cross-sections
 		- [ ] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
-	- [ ] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
+	- [x] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
 	- [ ] Compare liquid to plastic scintillator
 - [ ] Photomultipliers
 	- [ ] Don't start general, just go straight in with the PMTs
