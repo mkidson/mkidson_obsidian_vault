@@ -30,6 +30,21 @@
             }
           },
           {
+            "id": "ee29739909248164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/To-Do files/The weird unfolding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The weird unfolding"
+            }
+          },
+          {
             "id": "951abb95d501b01f",
             "type": "leaf",
             "state": {
@@ -325,10 +340,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/First Draft Feedback.md"
+                "file": "MSc/To-Do files/The weird unfolding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of First Draft Feedback"
+              "title": "Outline of The weird unfolding"
             }
           },
           {
@@ -364,11 +379,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "951abb95d501b01f",
+  "active": "ee29739909248164",
   "lastOpenFiles": [
-    "Daily Notes/2025-01-10.md",
-    "MSc/To-Do files/First Draft Feedback.md",
     "MSc/MSc Kanban.md",
+    "MSc/To-Do files/The weird unfolding.md",
+    "MSc/To-Do files/First Draft Feedback.md",
+    "Daily Notes/2025-01-10.md",
     "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/Getting it over the finish line.md",
     "MSc/To-Do files/Tanya Meeting 10-01-25.md",
@@ -396,7 +412,6 @@
     "MSc/Thesis/Results.md",
     "MSc/Thesis/Unfolding.md",
     "MSc/Thesis/Simulation.md",
-    "MSc/Thesis/Prototyping - Design.md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
