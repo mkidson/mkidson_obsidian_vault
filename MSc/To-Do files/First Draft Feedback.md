@@ -27,11 +27,11 @@
 # Chapter 2
 - [ ] Go through Tanya's notes after rearranging
 - [ ] Organic scintillators 
-	- [ ] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
+	- [x] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
 		- [x] Show cross-sections
-		- [ ] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
+		- [x] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
 	- [x] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
-	- [ ] Compare liquid to plastic scintillator
+	- [x] Compare liquid to plastic scintillator
 - [ ] Photomultipliers
 	- [ ] Don't start general, just go straight in with the PMTs
 	- [ ] SiPMs
