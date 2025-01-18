@@ -33,17 +33,17 @@
 	- [x] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
 	- [x] Compare liquid to plastic scintillator
 - [ ] Photomultipliers
-	- [ ] Don't start general, just go straight in with the PMTs
+	- [x] Don't start general, just go straight in with the PMTs
 	- [ ] SiPMs
-		- [ ] Maybe put a circuit diagram in there
-		- [ ] Get more physics-y. This is a physics master's after all
-		- [ ] Get rid of the quench cycle plot. Just explain it better in words
-		- [ ] Why do we operate at an overvoltage rather than just over the breakdown? (because of gain)
+		- [x] Maybe put a circuit diagram in there
+		- [x] Get more physics-y. This is a physics master's after all
+		- [x] Get rid of the quench cycle plot. Just explain it better in words
+		- [x] Why do we operate at an overvoltage rather than just over the breakdown? (because of gain)
 		- [ ] Show an example pulse from a SiPM
 - [ ] Light output units and PSD gets combined into "pulse processing" where we can show a gamma and neutron lineshape
-- [ ] The components of L plot (neutrons) goes here with explanation
-- [ ] Then a PSD explanation
-	- [ ] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
+	- [ ] The components of L plot (neutrons) goes here with explanation
+	- [ ] Then a PSD explanation
+		- [ ] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
 - [ ] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
 	- [ ] Need a reference and figure for the scattering probability distribution (not in knoll)
 	- [ ] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
