@@ -3,6 +3,7 @@
 
 # Chapter 1
 - [ ] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
+- [ ] Get some better references for the intro
 - [ ] Go through Tanya's comments after rearranging
 - [ ] Introduction is about the "why" of the research
 - [ ] Need to talk about accelerator and reactor facilities' neutron fields
@@ -47,7 +48,7 @@
 - [ ] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
 	- [ ] Need a reference and figure for the scattering probability distribution (not in knoll)
 	- [ ] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
-	- [ ] Which can be used in unfolding analyses
+	- [ ] Which can be used in unfolding analyses, which are more appropriate for in-field measurements
 	- [ ] More detail in the ToF procedure. Tanya wants that fuckin weird figure in that I don't understand
 
 
