@@ -3,15 +3,15 @@
 
 # Chapter 1
 - [ ] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
-- [ ] Get some better references for the intro
+- [x] Get some better references for the intro
 - [ ] Go through Tanya's comments after rearranging
 - [ ] Introduction is about the "why" of the research
 - [ ] Need to talk about accelerator and reactor facilities' neutron fields
 - [x] "This is where we get neutrons"
-	- [ ] Also gamma rays at the same time
-- [x] "This is what they do to the body and electronics"
-	- [x] DNA etc
-	- [x] SEU or long-term degredation
+	- [x] Also gamma rays at the same time
+- [ ] "This is what they do to the body and electronics"
+	- [ ] DNA etc
+	- [ ] SEU or long-term degredation
 - [ ] "This is why we need spectrometers and why in-situ is better than simulation, plus the challenges of measuring in these environments"
 - [x] ToF is the gold standard for neutron metrology, but obvi that's not possible in these environments
 - [ ] Bonner spheres use unfolding, but they're bulky and complicated
