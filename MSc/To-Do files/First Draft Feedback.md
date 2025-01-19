@@ -2,28 +2,28 @@
 - [ ] Double check that all PSD plots and all L plots have consistent wording
 
 # Chapter 1
-- [ ] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
+- [x] Overall needs a change away from aviation to more general workplace environments, of which aviation is one
 - [x] Get some better references for the intro
-- [ ] Go through Tanya's comments after rearranging
-- [ ] Introduction is about the "why" of the research
-- [ ] Need to talk about accelerator and reactor facilities' neutron fields
+- [x] Go through Tanya's comments after rearranging
+- [x] Introduction is about the "why" of the research
+- [x] Need to talk about accelerator and reactor facilities' neutron fields
 - [x] "This is where we get neutrons"
 	- [x] Also gamma rays at the same time
-- [ ] "This is what they do to the body and electronics"
-	- [ ] DNA etc
-	- [ ] SEU or long-term degredation
-- [ ] "This is why we need spectrometers and why in-situ is better than simulation, plus the challenges of measuring in these environments"
+- [x] "This is what they do to the body and electronics"
+	- [x] DNA etc
+	- [x] SEU or long-term degredation
+- [x] "This is why we need spectrometers and why in-situ is better than simulation, plus the challenges of measuring in these environments"
 - [x] ToF is the gold standard for neutron metrology, but obvi that's not possible in these environments
-- [ ] Bonner spheres use unfolding, but they're bulky and complicated
-- [ ] Activation is an option, but mention its drawbacks
-- [ ] Solid state detectors (also unfolding, don't know much about them so might leave them out)
-- [ ] Previous work
-	- [ ] What happened previously that we build on? 
-	- [ ] Can ignore some specifics 
-- [ ] Objectives
-	- [ ] We chose the size of scintillator because it's similar to cylinders that are used for 20 MeV stuff, and it was easily machinable from the stock cylinder. Could be in 
-	- [ ] Basically run through the major sections
-	- [ ] Remove the cosmic on air bit and put it in the conclusion and future work
+- [x] Bonner spheres use unfolding, but they're bulky and complicated
+- [x] Activation is an option, but mention its drawbacks
+- [x] Solid state detectors (also unfolding, don't know much about them so might leave them out)
+- [x] Previous work
+	- [x] What happened previously that we build on? 
+	- [x] Can ignore some specifics 
+- [x] Objectives
+	- [x] We chose the size of scintillator because it's similar to cylinders that are used for 20 MeV stuff, and it was easily machinable from the stock cylinder. Could be in 
+	- [x] Basically run through the major sections
+	- [x] Remove the cosmic on air bit and put it in the conclusion and future work
 
 # Chapter 2
 - [ ] Go through Tanya's notes after rearranging
