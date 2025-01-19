@@ -7,13 +7,13 @@
 - [ ] Go through Tanya's comments after rearranging
 - [ ] Introduction is about the "why" of the research
 - [ ] Need to talk about accelerator and reactor facilities' neutron fields
-- [ ] "This is where we get neutrons"
+- [x] "This is where we get neutrons"
 	- [ ] Also gamma rays at the same time
-- [ ] "This is what they do to the body and electronics"
-	- [ ] DNA etc
-	- [ ] SEU or long-term degredation
+- [x] "This is what they do to the body and electronics"
+	- [x] DNA etc
+	- [x] SEU or long-term degredation
 - [ ] "This is why we need spectrometers and why in-situ is better than simulation, plus the challenges of measuring in these environments"
-- [ ] ToF is the gold standard for neutron metrology, but obvi that's not possible in these environments
+- [x] ToF is the gold standard for neutron metrology, but obvi that's not possible in these environments
 - [ ] Bonner spheres use unfolding, but they're bulky and complicated
 - [ ] Activation is an option, but mention its drawbacks
 - [ ] Solid state detectors (also unfolding, don't know much about them so might leave them out)
