@@ -27,27 +27,27 @@
 
 # Chapter 2
 - [ ] Go through Tanya's notes after rearranging
-- [ ] Organic scintillators 
+- [x] Organic scintillators 
 	- [x] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
 		- [x] Show cross-sections
 		- [x] The components of L plot doesn't go there, but rather after talking about light output units, before PSD
 	- [x] Anthracene response becomes one figure, with an inset for the low energy electrons. Put the dots into the x values
 	- [x] Compare liquid to plastic scintillator
-- [ ] Photomultipliers
+- [x] Photomultipliers
 	- [x] Don't start general, just go straight in with the PMTs
-	- [ ] SiPMs
+	- [x] SiPMs
 		- [x] Maybe put a circuit diagram in there
 		- [x] Get more physics-y. This is a physics master's after all
 		- [x] Get rid of the quench cycle plot. Just explain it better in words
 		- [x] Why do we operate at an overvoltage rather than just over the breakdown? (because of gain)
-		- [ ] Show an example pulse from a SiPM
-- [ ] Light output units and PSD gets combined into "pulse processing" where we can show a gamma and neutron lineshape
-	- [ ] The components of L plot (neutrons) goes here with explanation
-	- [ ] Then a PSD explanation
-		- [ ] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
+		- [x] Show an example pulse from a SiPM
+- [x] Light output units and PSD gets combined into "pulse processing" where we can show a gamma and neutron lineshape
+	- [x] The components of L plot (neutrons) goes here with explanation
+	- [x] Then a PSD explanation
+		- [x] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
 - [ ] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
 	- [ ] Need a reference and figure for the scattering probability distribution (not in knoll)
-	- [ ] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
+	- [x] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
 	- [ ] Which can be used in unfolding analyses, which are more appropriate for in-field measurements
 	- [ ] More detail in the ToF procedure. Tanya wants that fuckin weird figure in that I don't understand
 
@@ -57,6 +57,7 @@
 - [ ] Photo of n-lab
 - [ ] Photo of sphere wrapped
 - [ ] Photo of deconstructed and constructed
+- [ ] Check the labels of t_long and t_short etc to fit those used in chapter 2
 - [ ] Angular Tests
 	- [x] Collimator width
 	- [ ] Change title to talk about 14.1 MeV with the STNG
