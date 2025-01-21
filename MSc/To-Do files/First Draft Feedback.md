@@ -67,17 +67,17 @@
 	- [x] Emphasise use of STNG
 
 # Chapter 4
-- [ ] In general, stop referring to monoenergetic neutron fields. Refer to them as neutron fields with peak energy etc.
+- [x] In general, stop referring to monoenergetic neutron fields. Refer to them as neutron fields with peak energy etc.
 - [x] AMANDE
 	- [x] Sphere in position at AMANDE
 	- [x] PSD plots at AMANDE
 	- [x] L plots at AMANDE (check they're ok)
 	- [x] Consider removing the paragraph that begins "The neutron light output spectra measured at IRSN AMANDE"
-- [ ] PTB
+- [x] PTB
 	- [x] Move mono after broad
-	- [ ] Mono
+	- [x] Mono
 		- [x] This section kinda flops a bit
-		- [ ] Change the title to something about peak energy idk
+		- [x] Change the title to something about peak energy idk
 		- [x] Fix the hall picture to have white words
 		- [x] Add the detector picture
 		- [x] Target thicknesses 
@@ -87,7 +87,7 @@
 		- [x] Then show L for 19 MeV only
 		- [x] Table formatted like AMANDE
 			- [x] Remove the contamination
-	- [ ] Broad
+	- [x] Broad
 		- [x] Rename to include using ToF
 		- [x] Target thickness
 		- [x] Sphere in position instead of the diagram
