@@ -76,7 +76,7 @@
 - [ ] PTB
 	- [x] Move mono after broad
 	- [ ] Mono
-		- [ ] This section kinda flops a bit
+		- [x] This section kinda flops a bit
 		- [ ] Change the title to something about peak energy idk
 		- [x] Fix the hall picture to have white words
 		- [x] Add the detector picture
@@ -95,11 +95,11 @@
 		- [x] Detector event pulse in legend for tof pulse plot
 		- [x] Possibly move "Figure 4.12 shows the T spectrum after the PSD and L threshold cuts were applied" closer to the plot it's referencing
 		- [x] ToF PSD plot with gamma and neutron labels
-		- [ ] More care for the "Monoenergetic neutron lineshapes were created" paragraph. See notes on page
+		- [x] More care for the "Monoenergetic neutron lineshapes were created" paragraph. See notes on page
 		- [x] "Cut" in the L-E plot instead of "Slice"
-		- [ ] Andy wants that BIG page plot of the lineshapes. Make it and then decide if you need to include the smaller subset one
-			- [ ] Big plot needs like 30 lineshapes and they need to be offset from each other on a linear scale. 
-			- [ ] Portrait mode
+		- [x] Andy wants that BIG page plot of the lineshapes. Make it and then decide if you need to include the smaller subset one
+			- [x] Big plot needs like 30 lineshapes and they need to be offset from each other on a linear scale. 
+			- [x] Portrait mode
 		- [x] The ToF verification using AMANDE and n-lab needs to go here
 			- [x] Title change?
 			- [x] Play with the gamma calib for AMANDE to see if it's plausible to make it fit better with the other two.
