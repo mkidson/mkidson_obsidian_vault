@@ -26,7 +26,7 @@
 	- [x] Remove the cosmic on air bit and put it in the conclusion and future work
 
 # Chapter 2
-- [ ] Go through Tanya's notes after rearranging
+- [x] Go through Tanya's notes after rearranging
 - [x] Organic scintillators 
 	- [x] gets the neutron (and gamma) interaction physics as part of it, maybe before the anthracene response pictures
 		- [x] Show cross-sections
@@ -54,17 +54,17 @@
 
 
 # Chapter 3
-- [ ] Photo of n-lab
+- [x] Photo of n-lab
 - [x] Photo of sphere wrapped
 - [x] Photo of deconstructed and constructed
 - [x] Check the labels of t_long and t_short etc to fit those used in chapter 2
-- [ ] Angular Tests
+- [x] Angular Tests
 	- [x] Collimator width
 	- [x] Change title to talk about 14.1 MeV with the STNG
-	- [ ] Start with PSD plots at 3 angles
-	- [ ] Then the resulting light output spectra (one plot)
-	- [ ] Then the actual analysis
-	- [ ] Emphasise use of STNG
+	- [x] Start with PSD plots at 3 angles
+	- [x] Then the resulting light output spectra (one plot)
+	- [x] Then the actual analysis
+	- [x] Emphasise use of STNG
 
 # Chapter 4
 - [ ] In general, stop referring to monoenergetic neutron fields. Refer to them as neutron fields with peak energy etc.
