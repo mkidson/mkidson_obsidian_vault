@@ -45,22 +45,22 @@
 	- [x] The components of L plot (neutrons) goes here with explanation
 	- [x] Then a PSD explanation
 		- [x] PSD pulse image could be one of the Comrie ones that includes the cumulative integral
-- [ ] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
-	- [ ] Need a reference and figure for the scattering probability distribution (not in knoll)
+- [x] Unfolding and ToF combine into one, with ToF first, called Neutron spectroscopy
+	- [x] Need a reference and figure for the scattering probability distribution (not in knoll)
 	- [x] ToF is the gold standard for neutron spectrometry. It can be used to produce response functions
-	- [ ] Which can be used in unfolding analyses, which are more appropriate for in-field measurements
-	- [ ] More detail in the ToF procedure. Tanya wants that fuckin weird figure in that I don't understand
+	- [x] Which can be used in unfolding analyses, which are more appropriate for in-field measurements
+	- [x] More detail in the ToF procedure. Tanya wants that fuckin weird figure in that I don't understand
 
 
 
 # Chapter 3
 - [ ] Photo of n-lab
-- [ ] Photo of sphere wrapped
-- [ ] Photo of deconstructed and constructed
-- [ ] Check the labels of t_long and t_short etc to fit those used in chapter 2
+- [x] Photo of sphere wrapped
+- [x] Photo of deconstructed and constructed
+- [x] Check the labels of t_long and t_short etc to fit those used in chapter 2
 - [ ] Angular Tests
 	- [x] Collimator width
-	- [ ] Change title to talk about 14.1 MeV with the STNG
+	- [x] Change title to talk about 14.1 MeV with the STNG
 	- [ ] Start with PSD plots at 3 angles
 	- [ ] Then the resulting light output spectra (one plot)
 	- [ ] Then the actual analysis
