@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -340,10 +340,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/First Draft Feedback.md"
+                "file": "MSc/To-Do files/The weird unfolding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of First Draft Feedback"
+              "title": "Outline of The weird unfolding"
             }
           },
           {
@@ -379,10 +379,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "951abb95d501b01f",
+  "active": "ee29739909248164",
   "lastOpenFiles": [
-    "MSc/To-Do files/The weird unfolding.md",
     "MSc/To-Do files/First Draft Feedback.md",
+    "MSc/To-Do files/The weird unfolding.md",
     "MSc/MSc Kanban.md",
     "Daily Notes/2025-01-10.md",
     "MSc/To-Do files/Unfolding Process.md",
