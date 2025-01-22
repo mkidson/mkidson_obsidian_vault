@@ -115,10 +115,10 @@
 - [ ] First section is UMG and how to work it
 	- [ ] Tanya needs to read this bit to confirm it all
 - [ ] Simulation with Geant4
-	- [ ] Reference for Geant4
+	- [x] Reference for Geant4
 	- [ ] L vs E rename x-axis to be recoil proton energy
 	- [ ] More about the deviation at high L (idk man)
-	- [ ] Just "Light output spectra" as a section title
+	- [x] Just "Light output spectra" as a section title
 	- [ ] Produce an efficiency curve
 - [ ] Now, we use the NRESP response functions to scale the efficiency curve to something in fluence units, and extend it down to like 1 MeV hopefully
 - [ ] Remove the lone light output spectrum
