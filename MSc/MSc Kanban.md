@@ -6,31 +6,14 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Try reassign events in S histograms by fitting
 - [ ] [[PSD cut automations Something to do with the standard deviation etc.]]
-- [ ] Example pulse of equal energy from all different detector shapes and PMs. Would be cool to show at some point.
 - [ ] SiPMs in radiation environments. Look at research
 - [ ] Redo the CFD optimisation that Angus does in his thesis. pg 36.
-- [ ] Ask about fluence for ToF data
 - [ ] [[Quick investigation into SiPM temperature dependence]]
-- [ ] [[Details on neutron energies in space]]
-- [ ] [[Read up on Bonner sphere systems]]
-- [ ] Unfolding efficiency correction and final neutron spectrum scaling needs a lot more thought. Shit looks too bad
-- [ ] Compare 25 mm cylinder on 1 vs 4 SiPMs, with no backing material
-- [ ] Make a design section that details the steps taken to finalise the design re: wrapping etc
-- [ ] Neutron measurements are the next chapter, with IRSN and PTB facilities, then detailing measurements
-- [ ] Include the cylinder on PMT measurements at AMANDE to compare to the system
 
 
 ## In Progress
 
-- [ ] [[Towards a usable workflow of data to results]]
-- [ ] Uncertainty can be sigma/x where we compare it to the width of the edge of the L spectrum
-- [ ] [[0.1 MeVee structure in proton simulation only for sphere]]
-- [ ] [[MSc/SANSA Bursary application|SANSA Bursary application]]
-- [ ] [[Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.]]
-- [ ] [[Science Department funding application]]
-- [ ] [[IRSN Funding]]
 - [ ] [[Unfolding Process]]
 - [ ] [[First Draft Feedback]]
 - [ ] [[The weird unfolding]]
@@ -39,16 +22,33 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] Introduce facilities, then separate by technique. Broad beam up to energy spectrum. Monos from IRSN and PTB pointing towards simulation
-- [x] [[Getting it over the finish line]]
-- [x] [[Chapter 3 (and more) notes]]
-- [x] [[Tanya Meeting 10-01-25]]
 
 
 ***
 
 ## Archive
 
+- [x] [[Towards a usable workflow of data to results]]
+- [x] [[Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time.]]
+- [x] Try reassign events in S histograms by fitting
+- [x] [[Read up on Bonner sphere systems]]
+- [x] Ask about fluence for ToF data
+- [x] Neutron measurements are the next chapter, with IRSN and PTB facilities, then detailing measurements
+- [x] Include the cylinder on PMT measurements at AMANDE to compare to the system
+- [x] Unfolding efficiency correction and final neutron spectrum scaling needs a lot more thought. Shit looks too bad
+- [x] Make a design section that details the steps taken to finalise the design re: wrapping etc
+- [x] Compare 25 mm cylinder on 1 vs 4 SiPMs, with no backing material
+- [x] Example pulse of equal energy from all different detector shapes and PMs. Would be cool to show at some point.
+- [x] [[Details on neutron energies in space]]
+- [x] Introduce facilities, then separate by technique. Broad beam up to energy spectrum. Monos from IRSN and PTB pointing towards simulation
+- [x] [[IRSN Funding]]
+- [x] Uncertainty can be sigma/x where we compare it to the width of the edge of the L spectrum
+- [x] [[0.1 MeVee structure in proton simulation only for sphere]]
+- [x] [[Getting it over the finish line]]
+- [x] [[Chapter 3 (and more) notes]]
+- [x] [[MSc/SANSA Bursary application|SANSA Bursary application]]
+- [x] [[Tanya Meeting 10-01-25]]
+- [x] [[Science Department funding application]]
 - [x] [[SAIP 2024 Proceedings]] ^8fs028
 - [x] Compare to 0.3 MeVee threshold as alphas aren't in that region
 - [x] Unfolding
