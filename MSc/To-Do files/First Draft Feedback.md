@@ -116,12 +116,12 @@
 	- [ ] Tanya needs to read this bit to confirm it all
 - [ ] Simulation with Geant4
 	- [x] Reference for Geant4
-	- [ ] L vs E rename x-axis to be recoil proton energy
+	- [x] L vs E rename x-axis to be recoil proton energy
 	- [ ] More about the deviation at high L (idk man)
 	- [x] Just "Light output spectra" as a section title
 	- [ ] Produce an efficiency curve
-- [ ] Now, we use the NRESP response functions to scale the efficiency curve to something in fluence units, and extend it down to like 1 MeV hopefully
-- [ ] Remove the lone light output spectrum
+- [x] Now, we use the NRESP response functions to scale the efficiency curve to something in fluence units, and extend it down to like 1 MeV hopefully
+- [x] Remove the lone light output spectrum
 - [ ] Then we get the unfolded monoenergetic guys, with sensible vertical axes
 - [ ] Then the AmBe unfolding
 	- [ ] Send unfolding things to Tanya so she can check I'm doing it right
