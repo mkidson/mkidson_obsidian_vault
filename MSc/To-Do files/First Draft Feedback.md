@@ -122,12 +122,12 @@
 	- [ ] Produce an efficiency curve
 - [x] Now, we use the NRESP response functions to scale the efficiency curve to something in fluence units, and extend it down to like 1 MeV hopefully
 - [x] Remove the lone light output spectrum
-- [ ] Then we get the unfolded monoenergetic guys, with sensible vertical axes
+- [x] Then we get the unfolded monoenergetic guys, with sensible vertical axes
 - [ ] Then the AmBe unfolding
-	- [ ] Send unfolding things to Tanya so she can check I'm doing it right
-	- [ ] We're unfolding as low energy as possible
-	- [ ] The response functions we use must be normalised to unit area, then scaled by the efficiency
-	- [ ] Compare to ISO and to the n-lab AmBe measurement made with EJ-301
+	- [x] Send unfolding things to Tanya so she can check I'm doing it right
+	- [x] We're unfolding as low energy as possible
+	- [x] The response functions we use must be normalised to unit area, then scaled by the efficiency
+	- [x] Compare to ISO and to the n-lab AmBe measurement made with EJ-301
 
 
 # Chapter 6
