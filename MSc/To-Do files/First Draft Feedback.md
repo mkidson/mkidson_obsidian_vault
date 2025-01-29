@@ -131,6 +131,6 @@
 
 
 # Chapter 6
-- [ ] Convince yourself that there is a linear growth in the deficit as pulse size increases
-- [ ] Look at the difference in L for low to high energy neutrons between PMT and SiPM
-- [ ] Rework the figures in this section
+- [x] Convince yourself that there is a linear growth in the deficit as pulse size increases
+- [x] Look at the difference in L for low to high energy neutrons between PMT and SiPM
+- [x] Rework the figures in this section
