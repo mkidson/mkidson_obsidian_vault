@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [[First Draft Feedback]]
 - [ ] [[The weird unfolding]]
 - [ ] Ask tanya to check the UMG package bit, and the unfolding results. Also the paragraph at the end of the broad spectrum bit
+- [ ] [[Questions for Tanya re ch2]]
 
 
 ## Complete

@@ -242,9 +242,24 @@
               "icon": "lucide-file",
               "title": "First Draft Feedback"
             }
+          },
+          {
+            "id": "cca6a56c6399674f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/To-Do files/Questions for Tanya re ch2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions for Tanya re ch2"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -385,10 +400,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/First Draft Feedback.md"
+                "file": "MSc/To-Do files/Questions for Tanya re ch2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of First Draft Feedback"
+              "title": "Outline of Questions for Tanya re ch2"
             }
           },
           {
@@ -424,9 +439,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a57007c441db8158",
+  "active": "cca6a56c6399674f",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
+    "MSc/To-Do files/Questions for Tanya re ch2.md",
+    "MSc/To-Do files/First Draft Feedback.md",
     "MSc/To-Do files/Chapter 3 (and more) notes.md",
     "MSc/To-Do files/The weird unfolding.md",
     "MSc/To-Do files/Getting it over the finish line.md",
@@ -435,7 +452,6 @@
     "MSc/To-Do files/Science Department funding application.md",
     "Daily Notes/2025-01-10.md",
     "MSc/To-Do files/Tanya Meeting 10-01-25.md",
-    "MSc/To-Do files/First Draft Feedback.md",
     "MSc/To-Do files/Unfolding Process.md",
     "VWS/10s & 18s.canvas",
     "MSc/Thesis/Thesis.canvas",
@@ -456,7 +472,6 @@
     "VWS/Module 2 - Wildfire Basic Skills.md",
     "VWS/Module 1 - Fire Fundamentals.md",
     "MSc/Thesis/Results.md",
-    "MSc/Thesis/Unfolding.md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
