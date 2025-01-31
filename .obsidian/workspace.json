@@ -251,15 +251,27 @@
               "state": {
                 "file": "MSc/To-Do files/Questions for Tanya.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Questions for Tanya"
             }
+          },
+          {
+            "id": "25bc025699520bfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -279,7 +291,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -327,8 +340,8 @@
               "state": {
                 "file": "MSc/To-Do files/Unfolding Process.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Unfolding Process"
@@ -400,7 +413,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Questions for Tanya.md"
+                "file": "MSc/To-Do files/Questions for Tanya.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Questions for Tanya"
@@ -439,7 +455,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cca6a56c6399674f",
+  "active": "25bc025699520bfb",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
     "MSc/To-Do files/Questions for Tanya.md",

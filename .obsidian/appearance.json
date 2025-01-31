@@ -8,5 +8,6 @@
   "baseFontSizeAction": true,
   "textFontFamily": "Helvetica,Times New Roman",
   "interfaceFontFamily": "Helvetica",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": false
 }
