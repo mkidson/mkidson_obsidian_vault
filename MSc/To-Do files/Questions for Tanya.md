@@ -1,4 +1,3 @@
-- I don't want to change t_start. I use t_0 later for something else
 - Do I really need to include pair production? It doesn't feature.
 - What is the "recent mention of a lithium doped plastic scintillator"?
 - Check my final sentence.
