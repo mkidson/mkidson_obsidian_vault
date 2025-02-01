@@ -4,274 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "30b21e98c4762019",
+        "id": "cbaf3ddf2e58d872",
         "type": "tabs",
         "children": [
           {
-            "id": "d3989c2628b542cf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MSc/MSc Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "MSc Kanban"
-            }
-          },
-          {
-            "id": "ee29739909248164",
+            "id": "3ff77e6f60971bfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/The weird unfolding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The weird unfolding"
-            }
-          },
-          {
-            "id": "951abb95d501b01f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/First Draft Feedback.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Draft Feedback"
-            }
-          },
-          {
-            "id": "8a8b84725eb31f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2025-01-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-10"
-            }
-          },
-          {
-            "id": "a555edf922196ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Chapter 3 (and more) notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3 (and more) notes"
-            }
-          },
-          {
-            "id": "fe520b9627d0b461",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Thesis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Thesis"
-            }
-          },
-          {
-            "id": "371fd3928573ad8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "62699f0626e499b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/Thesis/Unfolding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unfolding"
-            }
-          },
-          {
-            "id": "6ae7859379518928",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MSc/Thesis/Thesis.canvas",
-                "viewState": {
-                  "x": 3448.076847261781,
-                  "y": -1904.3209298800684,
-                  "zoom": -0.8186988772184179
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Thesis"
-            }
-          },
-          {
-            "id": "13431324d7d14c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-11-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-18"
-            }
-          },
-          {
-            "id": "28a38c639c1c5307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Unfolding Process.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unfolding Process"
-            }
-          },
-          {
-            "id": "b837acab71c7ef29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Tanya Meeting 10-01-25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tanya Meeting 10-01-25"
-            }
-          },
-          {
-            "id": "877d597d4531a97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Getting it over the finish line.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getting it over the finish line"
-            }
-          },
-          {
-            "id": "00672a8098dd556f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/The weird unfolding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The weird unfolding"
-            }
-          },
-          {
-            "id": "a57007c441db8158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/First Draft Feedback.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Draft Feedback"
-            }
-          },
-          {
-            "id": "cca6a56c6399674f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Questions for Tanya.md",
+                "file": "MSc/To-Do files/Actually getting it over the line.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Questions for Tanya"
-            }
-          },
-          {
-            "id": "25bc025699520bfb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Actually getting it over the line"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -413,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Questions for Tanya.md",
+                "file": "MSc/To-Do files/Actually getting it over the line.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questions for Tanya"
+              "title": "Outline of Actually getting it over the line"
             }
           },
           {
@@ -455,26 +206,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "25bc025699520bfb",
+  "active": "3ff77e6f60971bfd",
   "lastOpenFiles": [
     "MSc/MSc Kanban.md",
-    "MSc/To-Do files/Questions for Tanya.md",
-    "MSc/To-Do files/First Draft Feedback.md",
-    "MSc/To-Do files/Chapter 3 (and more) notes.md",
+    "MSc/To-Do files/Actually getting it over the line.md",
     "MSc/To-Do files/The weird unfolding.md",
+    "MSc/To-Do files/First Draft Feedback.md",
+    "Daily Notes/2025-01-10.md",
+    "MSc/To-Do files/Chapter 3 (and more) notes.md",
+    "MSc/Thesis/Thesis.md",
+    "MSc/Thesis/Introduction.md",
+    "MSc/Thesis/Unfolding.md",
+    "MSc/Thesis/Thesis.canvas",
+    "Daily Notes/2024-11-18.md",
+    "MSc/To-Do files/Unfolding Process.md",
+    "MSc/To-Do files/Tanya Meeting 10-01-25.md",
     "MSc/To-Do files/Getting it over the finish line.md",
+    "MSc/To-Do files/Questions for Tanya.md",
     "MSc/To-Do files/Details on neutron energies in space.md",
     "MSc/To-Do files/IRSN Funding.md",
     "MSc/To-Do files/Science Department funding application.md",
-    "Daily Notes/2025-01-10.md",
-    "MSc/To-Do files/Tanya Meeting 10-01-25.md",
-    "MSc/To-Do files/Unfolding Process.md",
     "VWS/10s & 18s.canvas",
-    "MSc/Thesis/Thesis.canvas",
     "MSc/To-Do files/attachments/Pasted image 20241125123032.png",
-    "Daily Notes/2024-11-18.md",
     "MSc/To-Do files/attachments/ambe_unfolded_comparison 1.png",
-    "MSc/Thesis/Thesis.md",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
@@ -482,12 +236,9 @@
     "Daily Notes/2024-09-02.md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "MSc/Thesis/Theory.md",
-    "MSc/Thesis/Introduction.md",
     "VWS/10s and 18s.md",
     "VWS/Basic Wildfire Suppression Course.md",
     "VWS/Module 2 - Wildfire Basic Skills.md",
-    "VWS/Module 1 - Fire Fundamentals.md",
-    "MSc/Thesis/Results.md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",

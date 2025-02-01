@@ -17,13 +17,14 @@ kanban-plugin: board
 - [ ] [[Unfolding Process]]
 - [ ] [[First Draft Feedback]]
 - [ ] [[The weird unfolding]]
-- [ ] Ask tanya to check the UMG package bit, and the unfolding results. Also the paragraph at the end of the broad spectrum bit
-- [ ] [[Questions for Tanya]]
+- [ ] [[Actually getting it over the line]]
 
 
 ## Complete
 
 **Complete**
+- [x] Ask tanya to check the UMG package bit, and the unfolding results. Also the paragraph at the end of the broad spectrum bit
+- [x] [[Questions for Tanya]]
 
 
 ***

@@ -1,0 +1,11 @@
+- [ ] Chapter 5
+	- [ ] Rework the order of the simulation section so the flow is better
+	- [ ] More intermediate figures
+	- [ ] Energy deposited by protons, carbons, alphas
+	- [ ] light output vs E
+	- [ ] Then L spectrum simulated before and after broadening
+	- [ ] Describe the broadening procedure and maybe a figure there?
+		- [ ] sigma as a function of E
+	- [ ] Include the fit parameters for the L vs E
+	- [ ] Try fix L vs E fit so that it doesn't go negative. Include lower energy responses (manual fitting?)
+	- [ ] 
