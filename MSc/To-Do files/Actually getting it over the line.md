@@ -1,12 +1,14 @@
 - [ ] Chapter 5
-	- [ ] Rework the order of the simulation section so the flow is better
-	- [ ] More intermediate figures
-	- [ ] Energy deposited by protons, carbons, alphas
-	- [ ] light output vs E
-	- [ ] Then L spectrum simulated before and after broadening
-	- [ ] Describe the broadening procedure and maybe a figure there?
-		- [ ] sigma as a function of E
-	- [ ] Include the fit parameters for the L vs E
-	- [ ] Try fix L vs E fit so that it doesn't go negative. Include lower energy responses (manual fitting?)
+	- [x] Rework the order of the simulation section so the flow is better
+	- [x] More intermediate figures
+	- [x] Energy deposited by protons, carbons, alphas
+	- [x] light output vs E
+	- [x] Then L spectrum simulated before and after broadening
+	- [x] Describe the broadening procedure and maybe a figure there?
+		- [x] sigma as a function of E
+	- [x] Include the fit parameters for the L vs E
+	- [x] Try fix L vs E fit so that it doesn't go negative. Include lower energy responses (manual fitting?)
 	- [ ] Labels on the L spectra comparison simulation plot
 	- [ ] Andy and I agreed on using "best fit" because it was really done by eye but we don't want to say that
+	- [ ] PTB PIAF or just PIAF? PIAF is right but idk man
+	- [ ] Andy doesn't want "monoenergetic" neutron energy fields. 
