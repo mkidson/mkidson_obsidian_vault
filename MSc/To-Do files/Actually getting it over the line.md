@@ -8,4 +8,5 @@
 		- [ ] sigma as a function of E
 	- [ ] Include the fit parameters for the L vs E
 	- [ ] Try fix L vs E fit so that it doesn't go negative. Include lower energy responses (manual fitting?)
-	- [ ] 
+	- [ ] Labels on the L spectra comparison simulation plot
+	- [ ] Andy and I agreed on using "best fit" because it was really done by eye but we don't want to say that
