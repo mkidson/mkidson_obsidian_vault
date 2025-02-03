@@ -9,8 +9,8 @@
 	- [x] Include the fit parameters for the L vs E
 	- [x] Try fix L vs E fit so that it doesn't go negative. Include lower energy responses (manual fitting?)
 	- [x] Labels on the L spectra comparison simulation plot
-	- [ ] Andy and I agreed on using "best fit" because it was really done by eye but we don't want to say that
-	- [ ] PTB PIAF or just PIAF? PIAF is right but idk man
-	- [ ] Andy doesn't want "monoenergetic" neutron energy fields. 
-	- [ ] Ask tanya how the scaling factor works
+	- [x] Andy and I agreed on using "best fit" because it was really done by eye but we don't want to say that
+	- [x] PTB PIAF or just PIAF? PIAF is right but idk man
+	- [x] Andy doesn't want "monoenergetic" neutron energy fields. 
+	- [x] Ask tanya how the scaling factor works
 	- [ ] 
