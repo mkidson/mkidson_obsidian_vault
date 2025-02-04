@@ -13,4 +13,9 @@
 	- [x] PTB PIAF or just PIAF? PIAF is right but idk man
 	- [x] Andy doesn't want "monoenergetic" neutron energy fields. 
 	- [x] Ask tanya how the scaling factor works
-	- [ ] 
+	- [ ] fix capitalisation in all figures
+	- [ ] remove references to the markers in captions, only in text
+	- [ ] check uncertainties on PTB (and IRSN)
+	- [ ] Check for linebreaks
+	- [ ] Fix units on the vertical for all plots
+	- [ ] Make brackets larger (latex it)
