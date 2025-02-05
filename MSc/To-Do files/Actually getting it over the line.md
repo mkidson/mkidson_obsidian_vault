@@ -16,7 +16,7 @@
 	- [x] fix capitalisation in all figures
 	- [x] remove references to the markers in captions, only in text
 	- [ ] check uncertainties on PTB (and IRSN)
-	- [ ] Check for linebreaks
+	- [x] Check for linebreaks
 	- [x] Fix units on the vertical for all plots
 	- [ ] Make brackets larger (latex it)
 	- [x] neutron fields with monoenergetic peak energies
