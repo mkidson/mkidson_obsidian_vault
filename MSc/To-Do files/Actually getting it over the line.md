@@ -20,5 +20,5 @@
 	- [x] Fix units on the vertical for all plots
 	- [ ] Make brackets larger (latex it)
 	- [x] neutron fields with monoenergetic peak energies
-	- [ ] last spell check
-	- [ ] finish acknowledgements
+	- [x] last spell check
+	- [x] finish acknowledgements
