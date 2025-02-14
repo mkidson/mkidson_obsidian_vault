@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [[First Draft Feedback]]
 - [ ] [[The weird unfolding]]
 - [ ] [[Actually getting it over the line]]
+- [ ] [[FPGA idea]]
 
 
 ## Complete

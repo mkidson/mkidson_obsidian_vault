@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-02-10.md",
+                "file": "MSc/To-Do files/FPGA idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-10"
+              "title": "FPGA idea"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-02-10.md",
+                "file": "MSc/To-Do files/FPGA idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-10"
+              "title": "Outline of FPGA idea"
             }
           },
           {
@@ -208,9 +208,10 @@
   },
   "active": "3ff77e6f60971bfd",
   "lastOpenFiles": [
-    "MSc/To-Do files/Actually getting it over the line.md",
-    "Daily Notes/2025-02-10.md",
     "MSc/MSc Kanban.md",
+    "MSc/To-Do files/FPGA idea.md",
+    "Daily Notes/2025-02-10.md",
+    "MSc/To-Do files/Actually getting it over the line.md",
     "MSc/To-Do files/The weird unfolding.md",
     "MSc/To-Do files/First Draft Feedback.md",
     "Daily Notes/2025-01-10.md",
@@ -238,7 +239,6 @@
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "MSc/Thesis/Theory.md",
     "VWS/10s and 18s.md",
-    "VWS/Basic Wildfire Suppression Course.md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
