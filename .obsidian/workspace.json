@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "2025-02-10"
             }
+          },
+          {
+            "id": "b046fc8be404292c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05adfc1bf9a71871",
+  "active": "b046fc8be404292c",
   "lastOpenFiles": [
     "MSc/To-Do files/Unfolding Process.md",
     "Daily Notes/2025-02-10.md",
