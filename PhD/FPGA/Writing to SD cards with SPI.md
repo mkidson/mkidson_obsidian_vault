@@ -67,13 +67,14 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 # Pins we can use on the DE0-nano 2x13 header (JP3)
 
-| Pin name | FPGA pin no | MicroSD Pin | Header pin no |
-| -------- | ----------- | ----------- | ------------- |
-| VCC3P3   | n/a         | VCC         | 1             |
-| GND      | n/a         | GND         | 26            |
-| GPIO_20  | PIN_A14     | CS          | 5             |
-| GPIO_21  | PIN_B16     | MOSI        | 6             |
-| GPIO_22  | PIN_C14     | MISO        | 7             |
-| GPIO_23  | PIN_C16     | SCLK        | 8             |
+| Pin name | FPGA pin no | MicroSD Pin | Header pin no | Wire colour |
+| -------- | ----------- | ----------- | ------------- | ----------- |
+| VCC3P3   | n/a         | VCC         | 1             | red         |
+| GND      | n/a         | GND         | 26            | black       |
+| GPIO_20  | PIN_A14     | CS          | 5             | white       |
+| GPIO_21  | PIN_B16     | MOSI        | 6             | orange      |
+| GPIO_22  | PIN_C14     | MISO        | 7             | yellow      |
+| GPIO_23  | PIN_C16     | SCLK        | 8             | green       |
+
 
 
