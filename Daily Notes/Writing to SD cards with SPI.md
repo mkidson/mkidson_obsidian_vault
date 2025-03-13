@@ -15,6 +15,24 @@
 	- A stop bit: 1
 - 
 
+| Command  <br>Index                                                                                                                                                        | Argument                    | Response | Data | Abbreviation             | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------- | ---- | ------------------------ | ------------------------------------------------------------------------------------------------ |
+| CMD0                                                                                                                                                                      | None(0)                     | R1       | No   | GO_IDLE_STATE            | Software reset.                                                                                  |
+| CMD1                                                                                                                                                                      | None(0)                     | R1       | No   | SEND_OP_COND             | Initiate initialization process.                                                                 |
+| ACMD41(*1)                                                                                                                                                                | *2                          | R1       | No   | APP_SEND_OP_COND         | For only SDC. Initiate initialization process.                                                   |
+| CMD8                                                                                                                                                                      | *3                          | R7       | No   | SEND_IF_COND             | For only SDC V2. Check voltage range.                                                            |
+| CMD9                                                                                                                                                                      | None(0)                     | R1       | Yes  | SEND_CSD                 | Read CSD register.                                                                               |
+| CMD10                                                                                                                                                                     | None(0)                     | R1       | Yes  | SEND_CID                 | Read CID register.                                                                               |
+| CMD12                                                                                                                                                                     | None(0)                     | R1b      | No   | STOP_TRANSMISSION        | Stop to read data.                                                                               |
+| CMD16                                                                                                                                                                     | Block  <br>length[31:0]     | R1       | No   | SET_BLOCKLEN             | Change R/W block size.                                                                           |
+| CMD17                                                                                                                                                                     | Address[31:0]               | R1       | Yes  | READ_SINGLE_BLOCK        | Read a block.                                                                                    |
+| CMD18                                                                                                                                                                     | Address[31:0]               | R1       | Yes  | READ_MULTIPLE_BLOCK      | Read multiple blocks.                                                                            |
+| CMD23                                                                                                                                                                     | Number of  <br>blocks[15:0] | R1       | No   | SET_BLOCK_COUNT          | For only MMC. Define number of blocks to transfer  <br>with next multi-block read/write command. |
+| ACMD23(*1)                                                                                                                                                                | Number of  <br>blocks[22:0] | R1       | No   | SET_WR_BLOCK_ERASE_COUNT | For only SDC. Define number of blocks to pre-erase  <br>with next multi-block write command.     |
+| CMD24                                                                                                                                                                     | Address[31:0]               | R1       | Yes  | WRITE_BLOCK              | Write a block.                                                                                   |
+| CMD25                                                                                                                                                                     | Address[31:0]               | R1       | Yes  | WRITE_MULTIPLE_BLOCK     | Write multiple blocks.                                                                           |
+| CMD55(*1)                                                                                                                                                                 | None(0)                     | R1       | No   | APP_CMD                  | Leading command of ACMD<n> command.                                                              |
+| CMD58                                                                                                                                                                     | None(0)                     | R3       | No   | READ_OCR                 | Read OCR.                                                                                        |
 
 
 
@@ -24,4 +42,37 @@
 
 
 ![[Pasted image 20250312152401.png]]
-- 
+
+
+
+
+# Pins on the Pmod MicroSD
+The VCC pins are connected in series (?) I think best to just supply through the one.
+
+| Pin no. | Name      | SPI name | Description             |
+| ------- | --------- | -------- | ----------------------- |
+| 1       | ~CS       | CS       | Chip select (inverted?) |
+| 2       | MOSI      | MOSI/DI  | MOSI                    |
+| 3       | MISO/DAT0 | MISO/DO  | MISO                    |
+| 4       | SCK       | SCLK     | Clock                   |
+| 5       | GND1      | GND      | Ground                  |
+| 6       | VCC1      | VCC      | Power                   |
+| 7       | DAT1      | RSV      |                         |
+| 8       | DAT2      | RSV      |                         |
+| 9       | CD        | n/a      |                         |
+| 10      | (NC)      | n/a      |                         |
+| 11      | GND2      | GND      |                         |
+| 12      | VCC2      | VCC      |                         |
+
+# Pins we can use on the DE0-nano 2x13 header (JP3)
+
+| Pin name | FPGA pin no | MicroSD Pin | Header pin no |
+| -------- | ----------- | ----------- | ------------- |
+| VCC3P3   | n/a         | VCC         | 1             |
+| GND      | n/a         | GND         | 26            |
+| GPIO_20  | PIN_A14     | CS          | 5             |
+| GPIO_21  | PIN_B16     | MOSI        | 6             |
+| GPIO_22  | PIN_C14     | MISO        | 7             |
+| GPIO_23  | PIN_C16     | SCLK        | 8             |
+
+
