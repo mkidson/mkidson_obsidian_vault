@@ -34,4 +34,5 @@
 | clock_out | 0             |
 | data_out  | 000000000000  |
 | data_temp | 000000000000  |
-- Some trigger sets CS to 0 and on the negedge of the clk
+- Some trigger sets CS to 0 and the SCLK goes from high to low, starting its first cycle of 16 (after about 5 ns, at most 30 ns)
+- On the posedge of the 3rd cycle, we start sending ADD[2:0] to the MOSI line, one bit at a time
