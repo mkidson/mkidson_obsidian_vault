@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "2025-02-26"
             }
+          },
+          {
+            "id": "23f089e371f38e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Writing to SD cards with SPI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing to SD cards with SPI"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-02-26.md",
+                "file": "Daily Notes/Writing to SD cards with SPI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-26"
+              "title": "Outline of Writing to SD cards with SPI"
             }
           },
           {
@@ -201,9 +217,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8efe6d77dd60a951",
+  "active": "23f089e371f38e20",
   "lastOpenFiles": [
+    "Daily Notes/attachments/Pasted image 20250312152401.png",
+    "Daily Notes/attachments",
     "Daily Notes/2025-02-26.md",
+    "Daily Notes/Writing to SD cards with SPI.md",
+    "PhD/FPGA",
     "Daily Notes/2025-02-10.md",
     "MSc/To-Do files/Unfolding Process.md",
     "MSc/To-Do files/FPGA idea.md",
@@ -231,9 +251,7 @@
     "MSc/SAIP 2024 Proceedings.md",
     "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "Daily Notes/2024-09-13.md",
-    "Daily Notes/2024-09-02.md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
-    "MSc/Thesis/Theory.md",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
@@ -244,14 +262,12 @@
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "VWS/attachments",
-    "Untitled",
     "MSc/Thesis/Introduction.pdf",
     "VWS",
     "MSc/Thesis/attachments",
     "MSc/Thesis",
     "D&D/Spells",
     "D&D/Dragonlance- Shadow of the Dragon Queen/Game Data/Sessions",
-    "HTML import",
     "MSc/Thesis_Canvas.canvas"
   ]
 }
