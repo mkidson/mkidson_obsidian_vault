@@ -1,3 +1,4 @@
+For use with [[ADC on the DE0-nano]]
 # Important to note
 - SD seems to use SPI mode 0, but apparently mode 3 works too. The important thing is that you index on the rising edge. I think I'll go for defaulting to low and then sending CS high when we start.
 - There is a maximum clock speed. For SDC (high volume) it's 25 MHz, and for MMC it's 20 MHz. I think 20 should be fine.
