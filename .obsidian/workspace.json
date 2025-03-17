@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "8b939dfd06471cd3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "6f80a3169399f02b",
             "type": "leaf",
             "state": {
@@ -202,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/FPGA/Writing to SD cards with SPI.md",
+                "file": "PhD/FPGA/ADC on the DE0-nano.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing to SD cards with SPI"
+              "title": "Outline of ADC on the DE0-nano"
             }
           },
           {
@@ -244,10 +232,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b939dfd06471cd3",
+  "active": "6f80a3169399f02b",
   "lastOpenFiles": [
-    "PhD/FPGA/ADC on the DE0-nano.md",
     "PhD/FPGA/Writing to SD cards with SPI.md",
+    "PhD/FPGA/ADC on the DE0-nano.md",
     "Daily Notes/attachments/Pasted image 20250312152401.png",
     "Daily Notes/attachments",
     "Daily Notes/2025-02-26.md",
