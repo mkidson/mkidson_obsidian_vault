@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "8b939dfd06471cd3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "6f80a3169399f02b",
             "type": "leaf",
             "state": {
@@ -53,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23f089e371f38e20",
+  "active": "8b939dfd06471cd3",
   "lastOpenFiles": [
     "PhD/FPGA/ADC on the DE0-nano.md",
     "PhD/FPGA/Writing to SD cards with SPI.md",
