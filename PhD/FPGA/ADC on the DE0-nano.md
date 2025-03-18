@@ -34,5 +34,25 @@
 | clock_out | 0             |
 | data_out  | 000000000000  |
 | data_temp | 000000000000  |
-- Some trigger sets CS to 0 and the SCLK goes from high to low, starting its first cycle of 16 (after about 5 ns, at most 30 ns)
-- On the posedge of the 3rd cycle, we start sending ADD[2:0] to the MOSI line, one bit at a time
+
+| Counter | Action on edges of SCLK.<br>Note that if the counter changes on a posedge, the value when evaluating counter at that posedge is still the previous value |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0       | State is idle, then when CS goes low, MISO goes low immediately.<br>On the next CLK posedge, SCLK goes from high to low.                                 |
+| 0       | negedge: Nothing<br>posedge: Counter increases to 1 (same every cycle)                                                                                   |
+| 1       | negedge: Nothing<br>posedge: Nothing                                                                                                                     |
+| 2       | negedge: Start sending ADD on MOSI, starting with ADD2<br>posedge: ADC reads ADD2                                                                        |
+| 3       | negedge: Send ADD1<br>posedge: ADC reads ADD1                                                                                                            |
+| 4       | negedge: ADC sends data, MSB first<br>posedge: Read MISO line                                                                                            |
+| 5       | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 6       | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 7       | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 8       | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 9       | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 10      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 11      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 12      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 13      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 14      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 15      | negedge: Nothing<br>posedge: Read MISO line                                                                                                              |
+| 0       | negedge: ADC sends first of 4 zeroes on MISO<br>posedge: Nothing                                                                                         |
+| 1       | Repeat as before                                                                                                                                         |
