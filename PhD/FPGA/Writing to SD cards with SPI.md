@@ -80,9 +80,11 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 # Initialisation
 - Power on and wait at least 1 millisecond
+- Set SCLK to between 100 and 400 kHz?
 - Set CS and MOSI to high and toggle SCLK for at least 74 cycles
 - Set CS to low and send CMD0
 - SD card will send an 8-bit response on MISO which should be 00000001. You can wait for this response as MISO should be high on idle and the response will always start with a 0
 - Can then send CMD8, keeping CS low. This will fail on older cards
 - The response to CMD8 (or CMD58 if 8 fails) will be the 8-bit response followed by 32 bits of information.
-- Send CMD1 (or ACMD41 for SDC cards) to initialise, which may take 100s of milliseconds. It needs to be sent continuously until it stops recei
+- Send CMD1 (or ACMD41 for SDC cards) to initialise, which may take 100s of milliseconds. It needs to be sent continuously until it stops receiving R1 and instead receives R0 (0x01 to 0x00)
+- Now SCLK can go up to 20 MHz
