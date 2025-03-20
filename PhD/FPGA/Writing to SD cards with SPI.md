@@ -85,4 +85,4 @@ The VCC pins are connected in series (?) I think best to just supply through the
 - SD card will send an 8-bit response on MISO which should be 00000001. You can wait for this response as MISO should be high on idle and the response will always start with a 0
 - Can then send CMD8, keeping CS low. This will fail on older cards
 - The response to CMD8 (or CMD58 if 8 fails) will be the 8-bit response followed by 32 bits of information.
-- 
+- Send CMD1 (or ACMD41 for SDC cards) to initialise, which may take 100s of milliseconds. It needs to be sent continuously until it stops recei
