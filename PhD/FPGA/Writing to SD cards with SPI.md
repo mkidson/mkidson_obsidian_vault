@@ -69,7 +69,7 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 | Pin name | FPGA pin no | MicroSD Pin | Header pin no | Wire colour |
 | -------- | ----------- | ----------- | ------------- | ----------- |
-| GPIO_24  | n/a         | VCC         | 9             | red         |
+| VCC3P3   | n/a         | VCC         | 1             | red         |
 | GND      | n/a         | GND         | 26            | black       |
 | GPIO_20  | PIN_A14     | CS          | 5             | white       |
 | GPIO_21  | PIN_B16     | MOSI        | 6             | orange      |
