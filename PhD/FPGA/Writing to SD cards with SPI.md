@@ -88,3 +88,16 @@ The VCC pins are connected in series (?) I think best to just supply through the
 - The response to CMD8 (or CMD58 if 8 fails) will be the 8-bit response followed by 32 bits of information.
 - Send CMD1 (or ACMD41 for SDC cards) to initialise, which may take 100s of milliseconds. It needs to be sent continuously until it stops receiving R1 and instead receives R0 (0x01 to 0x00)
 - Now SCLK can go up to 20 MHz
+
+
+
+
+
+
+
+
+
+
+
+
+# CRC error
