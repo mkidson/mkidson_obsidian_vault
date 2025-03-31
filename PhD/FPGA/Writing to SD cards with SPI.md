@@ -100,4 +100,4 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 
 
-# CRC error
+# OCR read
