@@ -100,4 +100,4 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 
 
-# OCR read
+# ACMD41 needs to be sent continuously until 00000000 is received on R1. Check if it's doing that with CS trigger
