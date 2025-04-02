@@ -100,4 +100,4 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 
 
-# ACMD41 needs to be sent continuously until 00000000 is received on R1. Check if it's doing that with CS trigger
+# Intermittent failure at CMD0 and what to do after response from CMD24
