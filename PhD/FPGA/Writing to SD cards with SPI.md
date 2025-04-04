@@ -100,4 +100,4 @@ The VCC pins are connected in series (?) I think best to just supply through the
 
 
 
-# Intermittent failure at CMD0 and what to do after response from CMD24
+# Want to try out CMD58 again after INIT is done. Also need to work on the controller to start writing to the card (!!!!!)
