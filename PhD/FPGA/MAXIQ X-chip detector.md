@@ -1,0 +1,16 @@
+- Light sensor
+	- onsemi SiPM?
+	- Hamamatsu SiPM?
+	- Other type of photodiode? 
+	- Price of the SiPM greatly affects MAXIQ prices
+- Power supply
+	- MAXIQ boards run at 3.3 V
+	- Needs to be stepped up to 28.5 (depends on SiPM used)
+- Scintillator
+	- PSD not necessary
+	- EJ-200
+	- EJ-299 so it's sensitive to neutrons
+	- 6mm x 6mm or a different shape/size
+- Pulse processing
+	- Threshold trigger for a logic pulse
+	- 
