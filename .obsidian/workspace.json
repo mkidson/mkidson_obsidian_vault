@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/FPGA/Writing to SD cards with SPI.md",
+                "file": "PhD/FPGA/MAXIQ X-chip detector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing to SD cards with SPI"
+              "title": "Outline of MAXIQ X-chip detector"
             }
           },
           {
@@ -247,10 +247,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23f089e371f38e20",
+  "active": "7bc3ab058b4c5f6e",
   "lastOpenFiles": [
-    "PhD/FPGA/MAXIQ X-chip detector.md",
     "PhD/FPGA/Writing to SD cards with SPI.md",
+    "PhD/FPGA/MAXIQ X-chip detector.md",
     "PhD/FPGA/ADC on the DE0-nano.md",
     "Daily Notes/attachments/Pasted image 20250312152401.png",
     "Daily Notes/attachments",

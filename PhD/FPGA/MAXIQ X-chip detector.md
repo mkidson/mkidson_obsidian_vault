@@ -11,6 +11,9 @@
 	- EJ-200
 	- EJ-299 so it's sensitive to neutrons
 	- 6mm x 6mm or a different shape/size
+	- Wrapping?
+		- Probably only encase the scint and sensitive area of the SiPM
+		- With some kind of silicone?
 - Pulse processing
 	- Threshold trigger for a logic pulse
 	- 
