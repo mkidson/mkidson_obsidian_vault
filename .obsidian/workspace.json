@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/FPGA/MAXIQ X-chip detector.md",
+                "file": "Daily Notes/2025-04-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MAXIQ X-chip detector"
+              "title": "2025-04-15"
             }
           },
           {
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/FPGA/MAXIQ X-chip detector.md",
+                "file": "Daily Notes/2025-04-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MAXIQ X-chip detector"
+              "title": "Outline of 2025-04-15"
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "7bc3ab058b4c5f6e",
   "lastOpenFiles": [
-    "PhD/FPGA/Writing to SD cards with SPI.md",
     "PhD/FPGA/MAXIQ X-chip detector.md",
+    "Daily Notes/2025-04-15.md",
+    "PhD/FPGA/Writing to SD cards with SPI.md",
     "PhD/FPGA/ADC on the DE0-nano.md",
     "Daily Notes/attachments/Pasted image 20250312152401.png",
     "Daily Notes/attachments",
@@ -281,7 +282,6 @@
     "MSc/To-Do files/attachments/ambe_unfolded_comparison 1.png",
     "MSc/To-Do files/Make example plots of spectra and 2dhists for us to argue about, so we don't have to argue about them every single time..md",
     "MSc/SAIP 2024 Proceedings.md",
-    "MSc/Thesis/Measurements at AMANDE and PTB.md",
     "MSc/To-Do files/attachments/Pasted image 20240829140852.png",
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
