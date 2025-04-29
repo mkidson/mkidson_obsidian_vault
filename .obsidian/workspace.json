@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "cf797d5b726db266",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "7294f4c76c3838cf",
             "type": "leaf",
             "state": {
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7bc3ab058b4c5f6e",
+  "active": "cf797d5b726db266",
   "lastOpenFiles": [
     "Daily Notes/2025-04-15.md",
     "Daily Notes/2025-04-17.md",
