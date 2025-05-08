@@ -145,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/DAQ Systems.md",
+                "file": "PhD/May 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAQ Systems"
+              "title": "Outline of May 2025"
             }
           },
           {
@@ -324,10 +324,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba0e03a7c957a7ce",
+  "active": "dda2474ae044d9f1",
   "lastOpenFiles": [
-    "PhD/May 2025.md",
     "PhD/DAQ Systems.md",
+    "PhD/May 2025.md",
     "PhD/General process for testing SiPMs.md",
     "Daily Notes/2025-04-30.md",
     "Daily Notes/2025-04-17.md",
