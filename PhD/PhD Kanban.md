@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Test red detector with glue after flight
+- [ ] Research off-the-shelf DAQ systems with stats that we need
 
 
 ## In Progress
