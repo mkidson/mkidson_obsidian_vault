@@ -11,6 +11,8 @@ kanban-plugin: board
 - [ ] Test red detector with glue after flight
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Implement interrupts on the MAXIQ board
+- [ ] Check if the attenuation makes sense given the thickness of the lead hat and the energies of the gamma rays
+- [ ] Continue the downsampling tests, check with Tanya what might be going wrong
 
 
 ## In Progress
@@ -22,7 +24,7 @@ kanban-plugin: board
 
 ## Complete
 
-- [ ] Test red detector with glue now
+- [ ] Test red detector with glue before flight
 
 
 
