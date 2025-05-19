@@ -10,6 +10,8 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Test red detector with glue after flight
 - [ ] Research off-the-shelf DAQ systems with stats that we need
+- [ ] Implement interrupts on the MAXIQ board
+- [ ] Write something to an SD card and read it on the laptop
 
 
 ## In Progress
