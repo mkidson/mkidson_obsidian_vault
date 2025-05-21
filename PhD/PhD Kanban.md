@@ -12,7 +12,7 @@ kanban-plugin: board
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Implement interrupts on the MAXIQ board
 - [ ] Check if the attenuation makes sense given the thickness of the lead hat and the energies of the gamma rays
-- [ ] Continue the downsampling tests, check with Tanya what might be going wrong
+- [ ] Downsampling: Make it just choose every 4 samples or whatever. But make sure it randomly chooses which sample to start on
 
 
 ## In Progress
@@ -25,6 +25,7 @@ kanban-plugin: board
 ## Complete
 
 - [ ] Test red detector with glue before flight
+- [ ] Continue the downsampling tests, check with Tanya what might be going wrong
 
 
 
