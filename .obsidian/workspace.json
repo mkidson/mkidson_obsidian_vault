@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -319,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "PhD/DAQ Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of DAQ Systems"
             }
           },
           {
@@ -361,13 +361,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "ce8bfaf2d9676e5b",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "PhD/DAQ Systems.md",
     "Daily Notes/2025-05-19.md",
     "PhD/General process for testing SiPMs.md",
     "Daily Notes/2025-05-13.md",
-    "PhD/PhD Kanban.md",
     "Daily Notes/attachments/Pasted image 20250519144150.png",
     "PhD/SANSA Bursary Application.md",
     "PhD/Untitled Kanban.md",
