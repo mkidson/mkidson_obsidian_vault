@@ -19,13 +19,13 @@ kanban-plugin: board
 
 - [ ] Play with MAXIQ board to learn about flashing, and get something working for the acquisition of the balloon detector(s)
 - [ ] Add a lead cap to a detector and check how that affects the x-ray (<100 keV) distribution changes. Use Cs if possible, on probs the sphere for low threshold.
-- [ ] Write something to an SD card and read it on the laptop
 
 
 ## Complete
 
 - [ ] Test red detector with glue before flight
 - [ ] Continue the downsampling tests, check with Tanya what might be going wrong
+- [ ] Write something to an SD card and read it on the laptop
 
 
 
