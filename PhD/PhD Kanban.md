@@ -11,7 +11,9 @@ kanban-plugin: board
 - [ ] Test red detector with glue after flight
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Downsampling: Make it just choose every 4 samples or whatever. But make sure it randomly chooses which sample to start on
-- [ ] Efficiency measurements using coincidence
+- [ ] Efficiency measurements using coincidence. NaI first
+- [ ] Patent application last 3 pages (the claim)
+- [ ] Ask jill for PHYLAB3 access
 
 
 ## In Progress
