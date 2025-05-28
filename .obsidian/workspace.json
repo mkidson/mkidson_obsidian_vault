@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -334,13 +334,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-05-27.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-27"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -376,10 +376,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff7c55391fe110cc",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/DAQ Systems.md",
     "Daily Notes/2025-05-27.md",
+    "PhD/DAQ Systems.md",
     "PhD/PhD Kanban.md",
     "Daily Notes/2025-05-19.md",
     "PhD/General process for testing SiPMs.md",
