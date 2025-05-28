@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Downsampling: Make it just choose every 4 samples or whatever. But make sure it randomly chooses which sample to start on
@@ -18,6 +17,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Test red detector with glue after flight
+- [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 
 
 ## Complete
