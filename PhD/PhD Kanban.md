@@ -17,13 +17,14 @@ kanban-plugin: board
 
 - [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 - [ ] Email travel agent mark about the flights
-- [ ] Geant4 Scintillation package wrapping work
+- [ ] Include the SiPM nonlinearity into the simulation/post processing
 
 
 ## Complete
 
 - [ ] Test red detector with glue before flight
 - [ ] Play with MAXIQ board to learn about flashing, and get something working for the acquisition of the balloon detector(s)
+- [ ] Geant4 Scintillation package wrapping work
 - [ ] Continue the downsampling tests, check with Tanya what might be going wrong
 - [ ] Implement interrupts on the MAXIQ board
 - [ ] Test red detector with glue after flight
