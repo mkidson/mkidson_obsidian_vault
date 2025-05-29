@@ -15,9 +15,9 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Test red detector with glue after flight
 - [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 - [ ] Email travel agent mark about the flights
+- [ ] Geant4 Scintillation package wrapping work
 
 
 ## Complete
@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] Play with MAXIQ board to learn about flashing, and get something working for the acquisition of the balloon detector(s)
 - [ ] Continue the downsampling tests, check with Tanya what might be going wrong
 - [ ] Implement interrupts on the MAXIQ board
+- [ ] Test red detector with glue after flight
 - [ ] Add a lead cap to a detector and check how that affects the x-ray (<100 keV) distribution changes. Use Cs if possible, on probs the sphere for low threshold.
 - [ ] Check if the attenuation makes sense given the thickness of the lead hat and the energies of the gamma rays
 - [ ] Write something to an SD card and read it on the laptop
