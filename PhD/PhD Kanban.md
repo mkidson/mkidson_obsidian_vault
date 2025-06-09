@@ -24,6 +24,12 @@ kanban-plugin: board
 
 ## Complete
 
+
+
+***
+
+## Archive
+
 - [ ] Test red detector with glue before flight
 - [ ] Play with MAXIQ board to learn about flashing, and get something working for the acquisition of the balloon detector(s)
 - [ ] Geant4 Scintillation package wrapping work
@@ -34,9 +40,6 @@ kanban-plugin: board
 - [ ] Check if the attenuation makes sense given the thickness of the lead hat and the energies of the gamma rays
 - [ ] Write something to an SD card and read it on the laptop
 - [ ] Ask jill for PHYLAB3 access
-
-
-
 
 %% kanban:settings
 ```
