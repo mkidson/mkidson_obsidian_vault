@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Downsampling: Make it just choose every 4 samples or whatever. But make sure it randomly chooses which sample to start on
 - [ ] Efficiency measurements using coincidence. NaI first
 - [ ] Patent application last 3 pages (the claim)
-- [ ] Ask clint to make up next board with PSU and pulse processing on, we'll put on the rest
 
 
 ## In Progress
@@ -19,12 +18,13 @@ kanban-plugin: board
 - [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
 - [ ] Email travel agent mark about the flights
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
-- [ ] Learn to use CARI-7
 - [ ] Analyse Andy's GRU data
 
 
 ## Complete
 
+- [ ] Ask clint to make up next board with PSU and pulse processing on, we'll put on the rest
+- [ ] Learn to use CARI-7
 
 
 ***
