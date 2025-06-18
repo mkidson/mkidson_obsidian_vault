@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Efficiency measurements using coincidence. NaI first
 - [ ] Patent application last 3 pages (the claim)
 - [ ] Test rate limits with sources for each detector, for each code
-- [ ] Check if the geiger was working properly with my code
 
 
 ## In Progress
@@ -21,6 +20,7 @@ kanban-plugin: board
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
 - [ ] Analyse Andy's GRU data
 - [ ] Test rate limits with function generator for both codes, going above 1 kHz if possible
+- [ ] Check if the geiger was working properly with my code
 
 
 ## Complete
