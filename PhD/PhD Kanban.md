@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Efficiency measurements using coincidence. NaI first
 - [ ] Patent application last 3 pages (the claim)
 - [ ] Test rate limits with sources for each detector, for each code
+- [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 
 
 ## In Progress
