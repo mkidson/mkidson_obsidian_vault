@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Efficiency measurements using coincidence. NaI first
-- [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 
 
@@ -17,9 +16,14 @@ kanban-plugin: board
 
 - [ ] Email travel agent mark about the flights
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
+- [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 
 
-## Complete
+## Completed
+
+***
+
+## Archive
 
 - [ ] Ask clint to make up next board with PSU and pulse processing on, we'll put on the rest
 - [ ] Learn to use CARI-7
@@ -30,12 +34,6 @@ kanban-plugin: board
 - [ ] Test rate limits with function generator for both codes, going above 1 kHz if possible
 - [ ] Check if the geiger was working properly with my code
 - [ ] Downsampling: Make it just choose every 4 samples or whatever. But make sure it randomly chooses which sample to start on
-
-
-***
-
-## Archive
-
 - [ ] Test red detector with glue before flight
 - [ ] Play with MAXIQ board to learn about flashing, and get something working for the acquisition of the balloon detector(s)
 - [ ] Geant4 Scintillation package wrapping work
@@ -49,6 +47,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%
