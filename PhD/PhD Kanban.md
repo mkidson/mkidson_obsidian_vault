@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Efficiency measurements using coincidence. NaI first
+- [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 
 
 ## In Progress
