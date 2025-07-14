@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Efficiency measurements using coincidence. NaI first
-- [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 
 
 ## In Progress
@@ -17,9 +16,12 @@ kanban-plugin: board
 - [ ] Email travel agent mark about the flights
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
 - [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
+- [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 
 
 ## Completed
+
+
 
 ***
 
