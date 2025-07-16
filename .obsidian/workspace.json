@@ -169,19 +169,15 @@
             "id": "e667d305fea62ca3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "PhD/PhD Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "PhD Kanban"
+              "icon": "lucide-file",
+              "title": "Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response."
             }
           }
         ],
@@ -322,13 +318,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response."
             }
           },
           {
@@ -366,8 +362,12 @@
   },
   "active": "e667d305fea62ca3",
   "lastOpenFiles": [
-    "Daily Notes/2025-05-19.md",
+    "MSc/To-Do files/attachments/Pasted image 20250716145726.png",
+    "MSc/To-Do files/attachments/Pasted image 20250716145639.png",
+    "MSc/To-Do files/attachments/angular_test_diagram.svg",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
+    "Daily Notes/2025-05-19.md",
     "Daily Notes/2025-05-27.md",
     "PhD/DAQ Systems.md",
     "PhD/General process for testing SiPMs.md",
@@ -394,8 +394,6 @@
     "Daily Notes/attachments",
     "PhD/FPGA",
     "MSc/To-Do files/Unfolding Process.md",
-    "MSc/To-Do files/FPGA idea.md",
-    "MSc/To-Do files/Actually getting it over the line.md",
     "MSc/Thesis/Thesis.canvas",
     "VWS/10s & 18s.canvas",
     "MSc/To-Do files/attachments/Pasted image 20241125123032.png",
@@ -404,8 +402,6 @@
     "VWS/attachments/Pasted image 20240806192007.png",
     "VWS/attachments/Pasted image 20240806184208.png",
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
-    "VWS/attachments/Part of a Pump 1a-14 download.png",
-    "VWS/attachments/Parts of a Pump 15-22 download.png",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "VWS/attachments",
