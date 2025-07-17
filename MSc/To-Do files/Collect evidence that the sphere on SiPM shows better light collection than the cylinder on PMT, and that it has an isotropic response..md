@@ -23,6 +23,16 @@ The count rates for each angle were also recorded, shown below, and were found t
 
 # Improved light output resolution compared to traditional detector (cylinder on PMT)
 
+Below is the Cs spectrum for each detector. Differentiating and fitting a Gaussian shows the edge resolution of the sphere to be slightly better than the cylinder:
+
+Sphere sigma: 0.027 
+Cylinder sigma: 0.035
+
+That turns into (with $\frac{\sigma}{\mu}$)
+
+Sphere Cs edge resolution: 5.46 % 
+Cylinder Cs edge resolution: 7.42 %
+
 ![[Pasted image 20250716150502.png]]
 
 Doesn't show much but you can kind of squint and see a better resolution.

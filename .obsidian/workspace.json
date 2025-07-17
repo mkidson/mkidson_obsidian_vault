@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -318,13 +318,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response."
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -360,21 +360,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e667d305fea62ca3",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "MSc/To-Do files/attachments/Pasted image 20250716151133.png",
     "MSc/To-Do files/attachments/Pasted image 20250716151102.png",
     "MSc/To-Do files/attachments/Pasted image 20250716151008.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150947.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150858.png",
     "PhD/PhD Kanban.md",
-    "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "MSc/To-Do files/attachments/Pasted image 20250716150548.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150502.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150354.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150248.png",
     "MSc/To-Do files/attachments/Pasted image 20250716150017.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716145726.png",
     "Daily Notes/2025-05-19.md",
     "Daily Notes/2025-05-27.md",
     "PhD/DAQ Systems.md",
