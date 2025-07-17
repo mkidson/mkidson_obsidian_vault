@@ -10,6 +10,9 @@ kanban-plugin: board
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
+- [ ] PSI RedPitaya code is coming in soon as a good starting point
+- [ ] Bug Tom to get his PSD circuit and play with it
+- [ ] Look at opensource code on safecast github for the M5 stack thing
 
 
 ## In Progress
