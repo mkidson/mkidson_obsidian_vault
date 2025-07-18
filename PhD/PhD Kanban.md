@@ -9,10 +9,10 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
-- [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] PSI RedPitaya code is coming in soon as a good starting point
 - [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Look at opensource code on safecast github for the M5 stack thing
+- [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
 
 
 ## In Progress
@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 - [ ] Efficiency measurements using coincidence. NaI first
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
+- [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 
 
