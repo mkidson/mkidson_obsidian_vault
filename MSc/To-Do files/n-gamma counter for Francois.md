@@ -1,0 +1,13 @@
+- [ ] Bother Tom about the PSD circuit
+	- [ ] Measure with CAEN box and tune the parameters
+- [ ] Have a look at the M5 stack from Safecast to understand how to use it
+- [ ] Also talk to Tom about the ADC chips he's used and if we can integrate them
+- [ ] We want to save Q_s, Q_l, and time
+- [ ] Also display count rate for n and gamma on the screen if possible
+- [ ] Need a component hit list for this
+	- [ ] PSU
+	- [ ] SiPM board
+	- [ ] PSD circuit board
+	- [ ] ADC
+	- [ ] Input to M5 stack
+	- [ ] 

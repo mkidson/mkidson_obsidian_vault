@@ -13,6 +13,14 @@ kanban-plugin: board
 - [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Look at opensource code on safecast github for the M5 stack thing
 - [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
+- [ ] Email Ayesha about registration
+- [ ] iThemba LABS September Campaign
+- [ ] [[n-gamma counter for Francois]]
+- [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like
+- [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
+- [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
+- [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
+- [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 
 
 ## In Progress
