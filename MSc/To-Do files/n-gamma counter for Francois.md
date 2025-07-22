@@ -10,10 +10,13 @@
 		- [ ] Need to produce at least 2 more
 	- [ ] SiPM board
 		- [ ] Clint's board also works great, just need to check if it works for the larger sphere (25 mm)
+		- [ ] If it works, at least 2 needed pls
 	- [ ] PSD circuit board
 		- [ ] Ask Tom to show me the circuit and I can start fiddlin
 	- [ ] ADC
 		- [ ] Also ask Tom for some SPI or I2C (pls SPI) devices that I can try out
 	- [ ] Input to M5 stack
 		- [ ] The Safecast code is complex as all shit. Idk if I want to delve into that, but we'll see.
+		- [ ] There is also a micropython option. I'll have a look at that
+		- [ ] Need to grab an M5 stack from Andy, unless Tanya has one for me
 	- [ ] 
