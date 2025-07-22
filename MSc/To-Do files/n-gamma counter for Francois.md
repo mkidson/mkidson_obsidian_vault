@@ -6,8 +6,14 @@
 - [ ] Also display count rate for n and gamma on the screen if possible
 - [ ] Need a component hit list for this
 	- [ ] PSU
+		- [ ] Clint's board works great
+		- [ ] Need to produce at least 2 more
 	- [ ] SiPM board
+		- [ ] Clint's board also works great, just need to check if it works for the larger sphere (25 mm)
 	- [ ] PSD circuit board
+		- [ ] Ask Tom to show me the circuit and I can start fiddlin
 	- [ ] ADC
+		- [ ] Also ask Tom for some SPI or I2C (pls SPI) devices that I can try out
 	- [ ] Input to M5 stack
+		- [ ] The Safecast code is complex as all shit. Idk if I want to delve into that, but we'll see.
 	- [ ] 
