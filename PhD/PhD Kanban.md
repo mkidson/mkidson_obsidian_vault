@@ -29,13 +29,13 @@ kanban-plugin: board
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
-- [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 
 
 ## Completed
 
 - [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
+- [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 
 
