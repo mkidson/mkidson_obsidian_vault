@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Timeline for the n-gamma counter
 - [ ] Simulate the 6 mm sipm and diff flat spots
+- [ ] Try with the MAXIQ board to see if there's any info I can gain from pulse length etc
 
 
 ## In Progress
