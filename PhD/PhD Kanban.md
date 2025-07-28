@@ -17,6 +17,8 @@ kanban-plugin: board
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
+- [ ] Timeline for the n-gamma counter
+- [ ] Simulate the 6 mm sipm and diff flat spots
 
 
 ## In Progress
