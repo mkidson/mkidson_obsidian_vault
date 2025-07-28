@@ -17,8 +17,6 @@ kanban-plugin: board
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
-- [ ] Timeline for the n-gamma counter
-- [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Try with the MAXIQ board to see if there's any info I can gain from pulse length etc
 
 
@@ -26,16 +24,18 @@ kanban-plugin: board
 
 - [ ] Email travel agent mark about the flights
 - [ ] Efficiency measurements using coincidence. NaI first
-- [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
+- [ ] Simulate the 6 mm sipm and diff flat spots
+- [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
 
 
 ## Completed
 
 - [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
+- [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured

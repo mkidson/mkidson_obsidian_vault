@@ -6,8 +6,10 @@
 - [ ] Also display count rate for n and gamma on the screen if possible
 - [ ] Need a component hit list for this
 	- [ ] PSU
-		- [ ] Clint's board works great
-		- [ ] Need to produce at least 2 more
+		- [ ] We're using the temperature compensating circuit
+		- [ ] Clint needs to make them
+		- [ ] Then we need to adjust (as a first attempt we'll use the data from the docs)
+			- [ ] 21.5 mV/C
 	- [ ] SiPM board
 		- [ ] Clint's board also works great, just need to check if it works for the larger sphere (25 mm)
 		- [ ] If it works, at least 2 needed pls
@@ -19,4 +21,9 @@
 		- [ ] The Safecast code is complex as all shit. Idk if I want to delve into that, but we'll see.
 		- [ ] There is also a micropython option. I'll have a look at that
 		- [ ] Need to grab an M5 stack from Andy, unless Tanya has one for me
-	- [ ] 
+
+## [[Timeline for the n-gamma counter]]
+- Main deadline is to take the detector to Paris mid October for Francois
+- Before that, we'd like to maybe measure with it in September at iThemba (10-14 Sep)
+- So by 5 Sep we should really have things ready.
+- To get there
