@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Email Ayesha about registration
 - [ ] iThemba LABS September Campaign
 - [ ] [[n-gamma counter for Francois]]
-- [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
+- [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 
 
 ## Completed
