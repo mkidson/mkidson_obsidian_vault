@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
+- [ ] Make the wrapping a volume around the sphere, excluding the sipm bit
 
 
 ## Completed
