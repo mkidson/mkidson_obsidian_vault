@@ -18,7 +18,6 @@ kanban-plugin: board
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Try with the MAXIQ board to see if there's any info I can gain from pulse length etc
-- [ ] Build up light output spectrum with the MAXIQ SiPM board by changing the threshold
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 
 
@@ -33,6 +32,7 @@ kanban-plugin: board
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
 - [ ] Make the wrapping a volume around the sphere, excluding the sipm bit
+- [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 
 
 ## Completed
