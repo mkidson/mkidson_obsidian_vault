@@ -197,27 +197,6 @@
           }
         ],
         "currentTab": 9
-      },
-      {
-        "id": "2b07f9316fb37de9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a1990f1e6d0e3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Build up light output spectrum with the MAXIQ SiPM board by changing the threshold.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Build up light output spectrum with the MAXIQ SiPM board by changing the threshold"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -354,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Build up light output spectrum with the MAXIQ SiPM board by changing the threshold.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Build up light output spectrum with the MAXIQ SiPM board by changing the threshold"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -396,10 +375,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4a1990f1e6d0e3f6",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Build up light output spectrum with the MAXIQ SiPM board by changing the threshold.md",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Timeline for the n-gamma counter.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
