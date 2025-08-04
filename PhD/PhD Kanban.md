@@ -9,14 +9,12 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
-- [ ] PSI RedPitaya code is coming in soon as a good starting point
 - [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
 - [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Look at opensource code on safecast github for the M5 stack thing
 - [ ] iThemba LABS September Campaign
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
-- [ ] Check the timing of events in simulation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
 
 
@@ -31,6 +29,7 @@ kanban-plugin: board
 - [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
+- [ ] Check the timing of events in simulation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 
 
@@ -41,6 +40,7 @@ kanban-plugin: board
 - [ ] Include the SiPM nonlinearity into the simulation/post processing
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
+- [ ] PSI RedPitaya code is coming in soon as a good starting point
 - [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
 - [ ] Make the wrapping a volume around the sphere, excluding the sipm bit
 - [ ] Email Ayesha about registration
