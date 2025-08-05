@@ -29,6 +29,8 @@ kanban-plugin: board
 - [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
+	- Old: 1.457 FoM
+	- New: 1.423 FoM
 - [ ] Check the timing of events in simulation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 
