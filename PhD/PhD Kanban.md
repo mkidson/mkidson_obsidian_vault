@@ -26,9 +26,6 @@ kanban-plugin: board
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
-- [ ] Test the new medium sphere after glued and painted. Compare to old data
-	- Old: 1.457 FoM
-	- New: 1.423 FoM
 - [ ] Check the timing of events in simulation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 
@@ -36,18 +33,13 @@ kanban-plugin: board
 ## Completed
 
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
-- [ ] Efficiency measurements using coincidence. NaI first
-- [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
-- [ ] Include the SiPM nonlinearity into the simulation/post processing
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
+- [ ] Test the new medium sphere after glued and painted. Compare to old data
+	- Old: 1.457 FoM
+	- New: 1.423 FoM
 - [ ] PSI RedPitaya code is coming in soon as a good starting point
-- [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
-- [ ] Make the wrapping a volume around the sphere, excluding the sipm bit
-- [ ] Email Ayesha about registration
-- [ ] Optimise integral lengths new SS25
-- [ ] Try with the MAXIQ board to see if there's any info I can gain from pulse length etc
 
 
 ***
@@ -73,6 +65,14 @@ kanban-plugin: board
 - [ ] Check if the attenuation makes sense given the thickness of the lead hat and the energies of the gamma rays
 - [ ] Write something to an SD card and read it on the laptop
 - [ ] Ask jill for PHYLAB3 access
+- [ ] Make the wrapping a volume around the sphere, excluding the sipm bit
+- [ ] Put just protons into the detector in simulation, to see if you can match the edge position from sim to measured
+- [ ] Optimise integral lengths new SS25
+- [ ] Try with the MAXIQ board to see if there's any info I can gain from pulse length etc
+- [ ] Email Ayesha about registration
+- [ ] Include the SiPM nonlinearity into the simulation/post processing
+- [ ] Think of how best to loop through the scintillator size, notch size, and collection area size.. Do we need all three?
+- [ ] Efficiency measurements using coincidence. NaI first
 
 %% kanban:settings
 ```
