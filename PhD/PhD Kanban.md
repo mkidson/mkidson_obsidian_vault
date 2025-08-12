@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
+- [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
 
 
 ## In Progress
@@ -28,7 +29,6 @@ kanban-plugin: board
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Check the timing of events in simulation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
-- [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
 
 
 ## Completed
@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
+- [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 	- Old: 1.457 FoM
 	- New: 1.423 FoM
