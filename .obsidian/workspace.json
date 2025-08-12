@@ -58,8 +58,7 @@
               "title": "2025-08-11"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-08-11.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-11"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -238,10 +237,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ece493d4449cdef0",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "Daily Notes/2025-08-11.md",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "Daily Notes/2025-02-26.md",

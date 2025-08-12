@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Check the timing of events in simulation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
+- [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
 
 
 ## Completed
