@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 - [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
 - [ ] Look at opensource code on safecast github for the M5 stack thing
-- [ ] iThemba LABS September Campaign
+- [ ] [[iThemba LABS September Campaign]]
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.

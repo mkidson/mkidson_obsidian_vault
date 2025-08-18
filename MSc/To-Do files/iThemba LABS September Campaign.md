@@ -1,0 +1,22 @@
+# Detectors
+- [ ] 1" cylinder on SiPM
+	- [ ] We have a board for this
+	- [ ] Don't have casings as far as I know
+	- [ ] Needs to be glued
+	- [ ] And painted
+- [ ] 2" cylinder on 2x2 SiPM
+	- [ ] Same as above
+- [ ] 1" sphere on SiPM
+	- [ ] All done
+- [ ] 2" sphere on 2x2 SiPM
+	- [ ] Has been glued and painted
+	- [ ] Needs a case of some kind
+	- [ ] Lead plate for neutron multiplication?
+- [ ] MAXIQ detector?
+- [ ] n-gamma counter
+	- [ ] Clint is making some new SiPM boards
+	- [ ] And I hope new power boards
+	- [ ] Tom and I are on the PSD shit
+	- [ ] 
+- [ ] SiPM power
+	- [ ] 
