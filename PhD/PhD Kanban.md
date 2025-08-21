@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[iThemba LABS September Campaign]]
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
+- [ ] Check different SPI modes and frequencies on the scope
 
 
 ## Completed
