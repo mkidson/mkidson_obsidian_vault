@@ -73,8 +73,7 @@
               "title": "iThemba LABS September Campaign"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crossword/crossword.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of crossword"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -253,12 +252,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ef86e625dcfc59d",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/n-gamma counter for Francois.md",
+    "Crossword/crossword.md",
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
     "Daily Notes/2025-08-11.md",
-    "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "Daily Notes/2025-02-26.md",
     "PhD/FPGA/Writing to SD cards with SPI.md",
@@ -290,7 +290,6 @@
     "PhD/Untitled Kanban.md",
     "Daily Notes/2025-04-17.md",
     "Daily Notes/2025-02-10.md",
-    "Daily Notes/2025-01-10.md",
     "Daily Notes/attachments",
     "PhD/FPGA",
     "MSc/Thesis/Thesis.canvas",

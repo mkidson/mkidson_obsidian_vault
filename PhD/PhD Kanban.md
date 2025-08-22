@@ -28,7 +28,6 @@ kanban-plugin: board
 - [ ] [[iThemba LABS September Campaign]]
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
-- [ ] Check different SPI modes and frequencies on the scope
 
 
 ## Completed
@@ -39,6 +38,7 @@ kanban-plugin: board
 - [ ] Look at opensource code on safecast github for the M5 stack thing
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
+- [ ] Check different SPI modes and frequencies on the scope
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 	- Old: 1.457 FoM
 	- New: 1.423 FoM
