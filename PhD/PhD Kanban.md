@@ -13,10 +13,13 @@ kanban-plugin: board
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
-- [ ] How can we power the stack
 - [ ] Make a timeline for Andy, and mostly ask Clint how quick he can make things
 - [ ] Normalise timing_photon code by det volume
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
+- [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
+- [ ] Check if the battery charges from 5V in.. Shouldn't but might be nice
+- [ ] Test what happens to files when power is removed, when stack is turned off, etc
+- [ ] Restart new file every 30 mins or so
 
 
 ## In Progress
@@ -46,6 +49,7 @@ kanban-plugin: board
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 	- Old: 1.457 FoM
 	- New: 1.423 FoM
+- [ ] How can we power the stack
 - [ ] PSI RedPitaya code is coming in soon as a good starting point
 
 
