@@ -33,6 +33,7 @@ kanban-plugin: board
 - [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
+- [ ] Values for Tom: run 20250825_12
 
 
 ## Completed
