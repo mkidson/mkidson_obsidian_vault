@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
 - [ ] Test what happens to files when power is removed, when stack is turned off, etc
 - [ ] Restart new file every 30 mins or so
+- [ ] Any operation on log files needs to stop interrupts and then start them again
 
 
 ## In Progress
