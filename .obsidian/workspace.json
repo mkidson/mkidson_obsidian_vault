@@ -210,13 +210,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline"
             }
           },
           {
@@ -252,11 +251,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "Crossword/crossword.md",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",

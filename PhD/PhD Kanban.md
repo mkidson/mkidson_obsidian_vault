@@ -14,10 +14,7 @@ kanban-plugin: board
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
 - [ ] Make a timeline for Andy, and mostly ask Clint how quick he can make things
-- [ ] Normalise timing_photon code by det volume
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
-- [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
-- [ ] Check if the battery charges from 5V in.. Shouldn't but might be nice
 - [ ] Test what happens to files when power is removed, when stack is turned off, etc
 - [ ] Restart new file every 30 mins or so
 
@@ -31,10 +28,11 @@ kanban-plugin: board
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
-- [ ] Check the timing of events in simulation
 - [ ] [[iThemba LABS September Campaign]]
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
-- [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
+- [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
+- [ ] Normalise timing_photon code by det volume.
+	- This was weird. Idk if it worked
 
 
 ## Completed
@@ -45,7 +43,10 @@ kanban-plugin: board
 - [ ] Look at opensource code on safecast github for the M5 stack thing
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
+- [ ] Check the timing of events in simulation
 - [ ] Check different SPI modes and frequencies on the scope
+- [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
+- [ ] Check if the battery charges from 5V in.. Shouldn't but might be nice
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 	- Old: 1.457 FoM
 	- New: 1.423 FoM
