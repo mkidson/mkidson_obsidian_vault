@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] Test what happens to files when power is removed, when stack is turned off, etc
 - [ ] Restart new file every 30 mins or so
 - [ ] Any operation on log files needs to stop interrupts and then start them again
+- [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
 
 
 ## In Progress
