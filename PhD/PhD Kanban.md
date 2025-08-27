@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] Restart new file every 30 mins or so
 - [ ] Any operation on log files needs to stop interrupts and then start them again
 - [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
+- [ ] M5Stack 5V output current max
 
 
 ## In Progress
