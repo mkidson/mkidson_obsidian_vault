@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Any operation on log files needs to stop interrupts and then start them again
 - [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
 - [ ] M5Stack 5V output current max
+- [ ] I've got it working on interrupts, but while the interrupt function is called within 2 us of the interrupt being triggered, the data transfer only seems to happen after 15 us (about 12 after the interrupt function is called). Try find out if we can speed that up.
 
 
 ## In Progress
