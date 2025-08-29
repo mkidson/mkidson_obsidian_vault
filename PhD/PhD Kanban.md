@@ -20,7 +20,8 @@ kanban-plugin: board
 - [ ] Any operation on log files needs to stop interrupts and then start them again
 - [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
 - [ ] M5Stack 5V output current max
-- [ ] I've got it working on interrupts, but while the interrupt function is called within 2 us of the interrupt being triggered, the data transfer only seems to happen after 15 us (about 12 after the interrupt function is called). Try find out if we can speed that up.
+- [ ] Put some comments in the code...
+- [ ] Currently writing to disk after each event, lets find a way to add to a buffer and then save to disk every n second (n=5?)
 
 
 ## In Progress
@@ -51,6 +52,7 @@ kanban-plugin: board
 - [ ] Check different SPI modes and frequencies on the scope
 - [ ] Values for Tom: run 20250825_12
 - [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
+- [ ] I've got it working on interrupts, but while the interrupt function is called within 2 us of the interrupt being triggered, the data transfer only seems to happen after 15 us (about 12 after the interrupt function is called). Try find out if we can speed that up.
 - [ ] Check if the battery charges from 5V in.. Shouldn't but might be nice
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
 	- Old: 1.457 FoM
