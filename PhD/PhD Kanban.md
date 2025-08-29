@@ -27,29 +27,29 @@ kanban-plugin: board
 
 - [ ] Email travel agent mark about the flights
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
-- [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] [[iThemba LABS September Campaign]]
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
-- [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
-- [ ] Values for Tom: run 20250825_12
 
 
 ## Completed
 
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
+- [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Look at opensource code on safecast github for the M5 stack thing
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
+- [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
 - [ ] Check the timing of events in simulation
 - [ ] Check different SPI modes and frequencies on the scope
+- [ ] Values for Tom: run 20250825_12
 - [ ] Lead cap simulation: Just look at neutron fluence spectra, not necessarily neutron energy deposition
 - [ ] Check if the battery charges from 5V in.. Shouldn't but might be nice
 - [ ] Test the new medium sphere after glued and painted. Compare to old data
