@@ -72,21 +72,9 @@
               "icon": "lucide-file",
               "title": "iThemba LABS September Campaign"
             }
-          },
-          {
-            "id": "022743b4ba9d6af4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MSc/To-Do files/iThemba LABS September Campaign.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of iThemba LABS September Campaign"
             }
           },
           {
@@ -265,7 +254,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "022743b4ba9d6af4",
+  "active": "3549e170e3c3f9bd",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
