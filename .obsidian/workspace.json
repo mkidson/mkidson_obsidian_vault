@@ -73,8 +73,7 @@
               "title": "iThemba LABS September Campaign"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/iThemba LABS September Campaign.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iThemba LABS September Campaign"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -254,12 +253,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3549e170e3c3f9bd",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
-    "Crossword/crossword.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
+    "PhD/PhD Kanban.md",
+    "Crossword/crossword.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "Daily Notes/2025-02-26.md",

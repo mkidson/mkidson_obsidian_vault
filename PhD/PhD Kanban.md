@@ -13,20 +13,14 @@ kanban-plugin: board
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
-- [ ] Make a timeline for Andy, and mostly ask Clint how quick he can make things
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
-- [ ] Test what happens to files when power is removed, when stack is turned off, etc
-- [ ] Restart new file every 30 mins or so
-- [ ] Any operation on log files needs to stop interrupts and then start them again
-- [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
 - [ ] M5Stack 5V output current max
 - [ ] Put some comments in the code...
-- [ ] Currently writing to disk after each event, lets find a way to add to a buffer and then save to disk every n second (n=5?)
+- [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
 
 
 ## In Progress
 
-- [ ] Email travel agent mark about the flights
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 - [ ] [[Timeline for the n-gamma counter]]
@@ -40,11 +34,24 @@ kanban-plugin: board
 
 ## Completed
 
+
+
+***
+
+## Archive
+
+- [ ] Email travel agent mark about the flights
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]
 - [ ] Bug Tom to get his PSD circuit and play with it
 - [ ] Simulate the 6 mm sipm and diff flat spots
 - [ ] Look at opensource code on safecast github for the M5 stack thing
+- [ ] Make a timeline for Andy, and mostly ask Clint how quick he can make things
+- [ ] Test what happens to files when power is removed, when stack is turned off, etc
+- [ ] Restart new file every 30 mins or so
+- [ ] Currently writing to disk after each event, lets find a way to add to a buffer and then save to disk every n second (n=5?)
+- [ ] Let's save all events to a buffer for 5 seconds, then pause interrupts and write to file, then clear buffer and restart interrupts
+- [ ] Any operation on log files needs to stop interrupts and then start them again
 - [ ] Parameterise the flat spot size in the simulation and make the .mac file that can run it
 - [ ] Find a switch for Clint to order. 3mm pitch. 3 pins, through hole mounting.
 - [ ] Test what the stack does when 5V power is abruptly removed. Does it seamlessly switch to battery?
@@ -59,12 +66,6 @@ kanban-plugin: board
 	- New: 1.423 FoM
 - [ ] How can we power the stack
 - [ ] PSI RedPitaya code is coming in soon as a good starting point
-
-
-***
-
-## Archive
-
 - [ ] Ask clint to make up next board with PSU and pulse processing on, we'll put on the rest
 - [ ] Learn to use CARI-7
 - [ ] Play with CAPINTEC. Andy sent the manual and Mike's activity measurements
