@@ -18,6 +18,8 @@ kanban-plugin: board
 - [ ] Put some comments in the code...
 - [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
 - [ ] We're gonna run on the assumption that you never take the SD card out. If you do that, it'll just restart until you put it back in or turn it off.
+- [ ] The ADC read happens not in a task, but on core 1, which is where the loop() function runs but nothing else. The rest runs on core 0, with RTOS.
+- [ ] Currently it's not writing the header to the file for some reason
 
 
 ## In Progress
