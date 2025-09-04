@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] M5Stack 5V output current max
 - [ ] Put some comments in the code...
 - [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
+- [ ] We're gonna run on the assumption that you never take the SD card out. If you do that, it'll just restart until you put it back in or turn it off.
 
 
 ## In Progress
