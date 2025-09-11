@@ -16,6 +16,8 @@ kanban-plugin: board
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
 - [ ] M5Stack 5V output current max
 - [ ] Put some comments in the code...
+- [ ] Presentation for ASNR
+- [ ] Efficiency measurements
 
 
 ## In Progress
