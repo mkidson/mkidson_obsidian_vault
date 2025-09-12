@@ -72,8 +72,21 @@
               "icon": "lucide-file",
               "title": "iThemba LABS September Campaign"
             }
+          },
+          {
+            "id": "2a925af45570fe35",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VWS/attachments/Part of a Pump 1a-14 download.png"
+              },
+              "icon": "lucide-image",
+              "title": "Part of a Pump 1a-14 download"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "VWS/attachments/Part of a Pump 1a-14 download.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Part of a Pump 1a-14 download"
             }
           },
           {
@@ -253,11 +266,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "2a925af45570fe35",
   "lastOpenFiles": [
+    "VWS/10s and 18s.md",
+    "VWS/Thoughts....md",
+    "VWS/attachments/Part of a Pump 1a-14 download.png",
+    "VWS/attachments/Parts of a Pump 15-22 download.png",
+    "VWS/attachments/Pasted image 20240723224650.png",
+    "VWS/attachments/Pasted image 20240804191340.png",
+    "VWS/attachments/Pasted image 20240804192759.png",
+    "VWS/attachments/Pasted image 20240806184208.png",
+    "VWS/attachments/Pasted image 20240806192007.png",
+    "VWS/attachments/The 8 Pump Checks - downloadable.png",
+    "VWS/attachments/Pasted image 20240721213944.png",
+    "VWS/attachments/Pasted image 20240721213011.png",
+    "VWS/10s & 18s.canvas",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
-    "PhD/PhD Kanban.md",
     "Crossword/crossword.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
@@ -274,27 +300,14 @@
     "Daily Notes/2025-07-24.md",
     "MSc/MSc Kanban.md",
     "Daily Notes/2025-07-21.md",
-    "MSc/To-Do files/attachments/Pasted image 20250716151133.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716151102.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716151008.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150947.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150858.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150548.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150502.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150354.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150248.png",
-    "MSc/To-Do files/attachments/Pasted image 20250716150017.png",
     "Daily Notes/2025-05-19.md",
     "Daily Notes/2025-05-27.md",
     "Daily Notes/2025-05-13.md",
     "PhD/SANSA Bursary Application.md",
     "PhD/Untitled Kanban.md",
-    "Daily Notes/2025-04-17.md",
-    "Daily Notes/2025-02-10.md",
     "Daily Notes/attachments",
     "PhD/FPGA",
     "MSc/Thesis/Thesis.canvas",
-    "VWS/10s & 18s.canvas",
     "MSc/To-Do files/attachments",
     "MSc/SAIP 2024 proceedings.canvas",
     "VWS/attachments",
