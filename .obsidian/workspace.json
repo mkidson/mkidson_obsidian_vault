@@ -85,8 +85,7 @@
               "title": "Part of a Pump 1a-14 download"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/attachments/Part of a Pump 1a-14 download.png",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part of a Pump 1a-14 download"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -266,11 +265,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a925af45570fe35",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/10s and 18s.md",
     "VWS/Thoughts....md",
-    "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/attachments/Pasted image 20240723224650.png",
     "VWS/attachments/Pasted image 20240804191340.png",
@@ -304,7 +303,6 @@
     "Daily Notes/2025-05-27.md",
     "Daily Notes/2025-05-13.md",
     "PhD/SANSA Bursary Application.md",
-    "PhD/Untitled Kanban.md",
     "Daily Notes/attachments",
     "PhD/FPGA",
     "MSc/Thesis/Thesis.canvas",
