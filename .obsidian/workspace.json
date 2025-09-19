@@ -77,12 +77,17 @@
             "id": "2a925af45570fe35",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "VWS/attachments/Part of a Pump 1a-14 download.png"
+                "file": "VWS/10s & 18s.canvas",
+                "viewState": {
+                  "x": 2694.754665482132,
+                  "y": -85.27846820436224,
+                  "zoom": 0.16282222407905717
+                }
               },
-              "icon": "lucide-image",
-              "title": "Part of a Pump 1a-14 download"
+              "icon": "lucide-layout-dashboard",
+              "title": "10s & 18s"
             }
           }
         ],
@@ -223,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/attachments/Part of a Pump 1a-14 download.png",
+                "file": "VWS/10s & 18s.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part of a Pump 1a-14 download"
+              "title": "Outline of 10s & 18s"
             }
           },
           {
@@ -268,8 +273,8 @@
   },
   "active": "2a925af45570fe35",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
+    "PhD/PhD Kanban.md",
     "VWS/10s and 18s.md",
     "VWS/Thoughts....md",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
