@@ -77,17 +77,12 @@
             "id": "2a925af45570fe35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "VWS/10s & 18s.canvas",
-                "viewState": {
-                  "x": 2694.754665482132,
-                  "y": -85.27846820436224,
-                  "zoom": 0.16282222407905717
-                }
+                "file": "VWS/attachments/Parts of a Pump 15-22 download.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "10s & 18s"
+              "icon": "lucide-image",
+              "title": "Parts of a Pump 15-22 download"
             }
           }
         ],
@@ -228,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/10s & 18s.canvas",
+                "file": "VWS/attachments/Parts of a Pump 15-22 download.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10s & 18s"
+              "title": "Outline of Parts of a Pump 15-22 download"
             }
           },
           {
@@ -274,6 +269,7 @@
   "active": "2a925af45570fe35",
   "lastOpenFiles": [
     "VWS/attachments/Part of a Pump 1a-14 download.png",
+    "VWS/10s & 18s.canvas",
     "PhD/PhD Kanban.md",
     "VWS/10s and 18s.md",
     "VWS/Thoughts....md",
@@ -286,7 +282,6 @@
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
     "VWS/attachments/Pasted image 20240721213944.png",
     "VWS/attachments/Pasted image 20240721213011.png",
-    "VWS/10s & 18s.canvas",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
     "Crossword/crossword.md",
