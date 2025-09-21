@@ -72,21 +72,9 @@
               "icon": "lucide-file",
               "title": "iThemba LABS September Campaign"
             }
-          },
-          {
-            "id": "2a925af45570fe35",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "VWS/attachments/Part of a Pump 1a-14 download.png"
-              },
-              "icon": "lucide-image",
-              "title": "Part of a Pump 1a-14 download"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VWS/attachments/Part of a Pump 1a-14 download.png",
+                "file": "MSc/To-Do files/iThemba LABS September Campaign.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part of a Pump 1a-14 download"
+              "title": "Outline of iThemba LABS September Campaign"
             }
           },
           {
@@ -266,10 +254,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a925af45570fe35",
+  "active": "3549e170e3c3f9bd",
   "lastOpenFiles": [
-    "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
+    "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/10s & 18s.canvas",
     "PhD/PhD Kanban.md",
     "VWS/10s and 18s.md",
