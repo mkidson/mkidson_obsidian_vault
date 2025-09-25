@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
+- [ ] [[presentation for Francois]]
 
 
 ## Completed
