@@ -50,6 +50,7 @@
 - Mounted to a SiPM with optical grease
 - Sealed in an aluminium container
 - Outputting directly to digitiser
+- Spherical for isotropic response, as the field at aviation altitudes is diffuse
 
 # MSc measurements
 - Measurements were made at two facilities: AMANDE in Cadarache and PIAF at PTB
@@ -67,4 +68,29 @@
 - Energy deposited to light output is determined from the ToF measurements, as well as the broadening factors
 - The light output response due to any particle other than protons was unable to be calculated as it was not possible to measure L vs E
 - This lead to a cutoff value at 1 MeVee since at 16 MeV, the alpha edge is still below 1 MeVee
-- Simulations were used to determine detector efficiency. The simulated, broadened light output responses were used in conjunction with efficiency calculations for EJ-301
+- Simulations were used to determine detector efficiency. The simulated, broadened light output responses were used in conjunction with efficiency calculations for EJ-301 to produce an efficiency curve for our detector
+
+# Unfolding an AmBe spectrum
+- We were then able to unfold the neutron energy spectrum for an AmBe source
+- In black is the ISO standard AmBe neutron spectrum, red is the reference detector at the n-lab, and blue is our detector
+- It shows good agreement to the reference detector, which is reasonable as we can expect slight changes in spectrum due to differences in source construction, so where the source is identical, there is better agreement
+- The lower limit is a result of the limitations on the efficiency calculation
+- We also showed that there is very little change in response as the incident angle of the radiation changes, leading to an isotropic response
+
+# PhD goals
+- Now that we've shown that a spherical detector made from these materials is viable and provides good results, we continue
+- 25 mm is too small for the energy range of interest, so we have created at 50 mm diameter sphere and begun testing
+- Modify the Geant4 libraries to accurately model our detector
+- Test the new on-line processing circuit
+- Measure at up to 150 MeV at iThemba LABS
+- We plan to test in workplace simulation fields such as at PSI, or in workplaces such as in proton therapy centres
+- We are working to produce a device that can be installed in aircraft
+
+# Balloon measurement
+- We worked with a company called MAXIQ to put a version of our detector system onto a NASA high altitude balloon
+- Device cut out mid-way and then reconnected
+- Busy analysing data but it should be useful
+
+# iThemba LABS measurement
+- Measured with the 50 mm sphere on 4 SiPM array with broad beam up to 150 MeV with ToF
+- Should be able to get response functions from it
