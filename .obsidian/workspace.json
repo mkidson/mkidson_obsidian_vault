@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "presentation for Francois"
             }
+          },
+          {
+            "id": "38d08b96119b05eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b20bd7d2b4f0500",
+  "active": "38d08b96119b05eb",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/presentation for Francois.md",
