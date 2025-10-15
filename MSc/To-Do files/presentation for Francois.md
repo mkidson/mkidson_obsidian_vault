@@ -93,11 +93,12 @@
 - This lead to a cutoff value at 1 MeVee since at 16 MeV, the alpha edge is still below 1 MeVee
 - Simulations were used to determine detector efficiency. The simulated, broadened light output responses were used in conjunction with efficiency calculations for EJ-301 to produce an efficiency curve for our detector
 
-	
-
-
-
-
+# Unfolding broad neutron spectra
+- We produced efficiency-corrected detector response functions from 2-16 MeV.
+- Managed to unfold a number of spectra, most notable AmBe at the n-lab.
+- Energy resolution is limited by statistics in the responses.
+- Lower limit determined by efficiency calculations (alphas).
+- It shows good agreement to the reference detector, which is reasonable as we can expect slight changes in spectrum due to differences in source construction, so where the source is identical, there is better agreement
 
 # Comparison to a traditional detector system
 - We compared our detector to a cylinder of EJ-276 about the same size, coupled to a traditional PMT
@@ -111,40 +112,49 @@
 - We measured the response to monoenergetic 5 MeV neutrons at three different incident angles (show what that means)
 - We see practically zero effect on the neutron light output spectrum when we change the incident angle
 
+
+# MSc and poster
+- That was the work done in the MSc, which produced a few posters and some talks.
+
 # Future plans 
-- To create a detector that can run on its own, the PSD and spectroscopy needs to be done on-board
-- We are developing an analogue circuit to integrate the pulses online and output a light output value as well as a PSD factor
-- Neutrons and gamma rays separated and the neutron light output spectra saved
-- In future this L spectrum can be unfolded on-device and a neutron spectrum determined
-- Something like an M5Stack or a RedPitaya
+- Optimise detector efficiency and spectral response up to 120 MeV.
+- Develop autonomous signal processing and data acquisition system.
+- Characterise performance at fast- and high-energy reference neutron facilities.
+- Evaluate stability under aviation-relevant temperature, vibration, and pressure conditions.
+- Demonstrate capability through real-world testing and comparison with standard models and detectors.
 
+# Next steps
+- Light grey line is the important one.
+- Below 1 MeV is interesting, particularly at eV scales. There are new scintillators being developed for that (boron- / lithium-doped)
+- Above 20 MeV is the current focus. 
+- Simulations are not experimentally verified above 20 MeV, so we must either measure a lot, or work on changing that.
 
+# iThemba LABS
+- We're making use of the facility on our doorstep
+- Can get up to 200 MeV neutrons.
+- We recently measured with 150 MeV neutrons, to try do the same thing as at PTB, to measure response functions.
+- We have some preliminary results from the reference detector.
 
+# PhD progress
+- Tested the new version (bigger to handle higher energies) at iThemba LABS. Analysis is ongoing but looks promising.
+- Simulation work is ongoing, to improve high energy behaviour and to use photon transport to properly measure light collection behaviour.
+- A new board is being developed to handle the pulse processing, leading to PSD straight off the board, no need for a digitiser.
+	- First step towards a device that can be operated without a laptop etc.
+- We have developed a more lightweight acquisition system on an ESP32 microcontroller that can't do spectrometry yet, just counting.
 
-
-
-
-# Unfolding an AmBe spectrum
-- We were then able to unfold the neutron energy spectrum for an AmBe source
-- In black is the ISO standard AmBe neutron spectrum, red is the reference detector at the n-lab, and blue is our detector
-- It shows good agreement to the reference detector, which is reasonable as we can expect slight changes in spectrum due to differences in source construction, so where the source is identical, there is better agreement
-- The lower limit is a result of the limitations on the efficiency calculation
-- We also showed that there is very little change in response as the incident angle of the radiation changes, leading to an isotropic response
 
 # PhD goals
-- Now that we've shown that a spherical detector made from these materials is viable and provides good results, we continue
-- 25 mm is too small for the energy range of interest, so we have created at 50 mm diameter sphere and begun testing
-- Modify the Geant4 libraries to accurately model our detector
-- Test the new on-line processing circuit
-- Measure at up to 150 MeV at iThemba LABS
-- We plan to test in workplace simulation fields such as at PSI, or in workplaces such as in proton therapy centres
-- We are working to produce a device that can be installed in aircraft
+- Create a full prototype from the aforementioned boards and scintillators.
+- Lab testing of vibration, pressure, temperature effects.
+- Measured neutron L spectra -> unfolded neutron energy spectra
+- Measure alongside reference detectors (Francois)
+- Fly it! On aircraft, balloons, satellites(?)
+
+# Cosmic on air
+- We're aiming to make something that can be used in the cosmic-on-air project, to cover the neutron dose.
+- Not necessarily a spectrometer, especially if it should be accessible to the public
 
 # Balloon measurement
 - We worked with a company called MAXIQ to put a version of our detector system onto a NASA high altitude balloon
 - Device cut out mid-way and then reconnected
 - Busy analysing data but it should be useful
-
-# iThemba LABS measurement
-- Measured with the 50 mm sphere on 4 SiPM array with broad beam up to 150 MeV with ToF
-- Should be able to get response functions from it
