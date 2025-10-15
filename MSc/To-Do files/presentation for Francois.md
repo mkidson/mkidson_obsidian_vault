@@ -79,6 +79,26 @@
 - Neutron events result in complicated energy depositions, so we "calibrate" to gamma rays
 - This means to get energy of the incident neutrons, we can't just measure the light output
 
+# Response functions
+- At PTB, we measured broad beam for hours, getting incident neutron energy from ToF
+- Neutron events separated out with PSD
+- Neutron events separated into energy bins of width 0.25 MeV (limited by statistics and runtime)
+- "Monoenergetic" neutron responses so we can unfold the unknown spectrum as a sum of known spectra
+
+# Simulations using Geant4
+- Geant4 is a Monte Carlo particle transport code
+- We score energy deposited by recoiling particles as a result of neutron interactions
+- Energy deposited to light output is determined from the ToF measurements, as well as the broadening factors
+- The light output response due to any particle other than protons was unable to be calculated as it was not possible to measure L vs E
+- This lead to a cutoff value at 1 MeVee since at 16 MeV, the alpha edge is still below 1 MeVee
+- Simulations were used to determine detector efficiency. The simulated, broadened light output responses were used in conjunction with efficiency calculations for EJ-301 to produce an efficiency curve for our detector
+
+	
+
+
+
+
+
 # Comparison to a traditional detector system
 - We compared our detector to a cylinder of EJ-276 about the same size, coupled to a traditional PMT
 - We see improvements in both PSD and light output resolution
@@ -90,22 +110,6 @@
 # Direction sensitivity tests
 - We measured the response to monoenergetic 5 MeV neutrons at three different incident angles (show what that means)
 - We see practically zero effect on the neutron light output spectrum when we change the incident angle
-
-# Response functions
-- At PTB, we measured broad beam for hours, getting incident neutron energy from ToF
-- Neutron events separated out with PSD
-- Neutron events separated into energy bins of width 0.25 MeV (limited by statistics and runtime)
-- "Monoenergetic" neutron responses
-
-# Simulations using Geant4
-- Geant4 is a Monte Carlo particle transport code
-- We score energy deposited by recoiling particles as a result of neutron interactions
-- Energy deposited to light output is determined from the ToF measurements, as well as the broadening factors
-- The light output response due to any particle other than protons was unable to be calculated as it was not possible to measure L vs E
-- This lead to a cutoff value at 1 MeVee since at 16 MeV, the alpha edge is still below 1 MeVee
-- Simulations were used to determine detector efficiency. The simulated, broadened light output responses were used in conjunction with efficiency calculations for EJ-301 to produce an efficiency curve for our detector
-
-
 
 # Future plans 
 - To create a detector that can run on its own, the PSD and spectroscopy needs to be done on-board
