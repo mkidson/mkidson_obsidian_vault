@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] Put some comments in the code...
 - [ ] Presentation for ASNR
 - [ ] Efficiency measurements
+- [ ] [[Notes from ASNR]]
 
 
 ## In Progress

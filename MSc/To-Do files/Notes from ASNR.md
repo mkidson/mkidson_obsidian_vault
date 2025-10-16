@@ -1,0 +1,5 @@
+- EXPAC simulation software
+- Brush up on dosimetry
+- RaD-X papers on balloon flights (new mexico)
+- Send francois the slides
+- Thibaut for neutral net unfolding (very experienced)
