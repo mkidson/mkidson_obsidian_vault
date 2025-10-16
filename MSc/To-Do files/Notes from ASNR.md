@@ -3,3 +3,8 @@
 - RaD-X papers on balloon flights (new mexico)
 - Send francois the slides
 - Thibaut for neutral net unfolding (very experienced)
+
+
+- Download the different codes (there's one used by austrians)
+- make some fake data for our flight (or flightradar)
+- get the data from RaD-X
