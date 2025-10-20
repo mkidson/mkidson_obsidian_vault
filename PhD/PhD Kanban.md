@@ -10,38 +10,40 @@ kanban-plugin: board
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 - [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
-- [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow
-- [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
-- [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
+- [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow. I think it has to do with if the USB is plugged in but the optical is being used
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
 - [ ] M5Stack 5V output current max
 - [ ] Put some comments in the code...
-- [ ] Presentation for ASNR
 - [ ] Efficiency measurements
 - [ ] [[Notes from ASNR]]
+- [ ] iTL analysis
+- [ ] Balloon analysis when we have GPS data
 
 
 ## In Progress
 
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
-- [ ] [[Timeline for the n-gamma counter]]
-- [ ] [[n-gamma counter for Francois]]
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
-- [ ] [[iThemba LABS September Campaign]]
+- [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
-- [ ] [[presentation for Francois]]
 
 
 ## Completed
 
 - [ ] The ADC read happens not in a task, but on core 1, which is where the loop() function runs but nothing else. The rest runs on core 0, with RTOS.
+- [ ] [[Timeline for the n-gamma counter]]
 - [ ] We're gonna run on the assumption that you never take the SD card out. If you do that, it'll just restart until you put it back in or turn it off.
+- [ ] [[n-gamma counter for Francois]]
+- [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
 - [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
+- [ ] Presentation for ASNR
+- [ ] [[iThemba LABS September Campaign]]
 - [ ] Check if writing to file affects interrupt response time
 - [ ] Currently it's not writing the header to the file for some reason
+- [ ] [[presentation for Francois]]
 
 
 ***
