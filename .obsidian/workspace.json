@@ -44,25 +44,6 @@
             }
           },
           {
-            "id": "ece493d4449cdef0",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "PhD/PhD Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "PhD Kanban"
-            }
-          },
-          {
             "id": "6b20bd7d2b4f0500",
             "type": "leaf",
             "state": {
@@ -107,8 +88,7 @@
               "title": "2025-10-21"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-10-21.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-21"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -288,11 +268,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19ab208c437791ec",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "MSc/To-Do files/Notes from ASNR.md",
-    "Daily Notes/2025-10-21.md",
+    "MSc/To-Do files/n-gamma counter for Francois.md",
     "PhD/PhD Kanban.md",
+    "Daily Notes/2025-10-21.md",
+    "MSc/To-Do files/Notes from ASNR.md",
     "MSc/To-Do files/presentation for Francois.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
@@ -309,7 +290,6 @@
     "VWS/attachments/The 8 Pump Checks - downloadable.png",
     "VWS/attachments/Pasted image 20240721213944.png",
     "VWS/attachments/Pasted image 20240721213011.png",
-    "MSc/To-Do files/n-gamma counter for Francois.md",
     "Crossword/crossword.md",
     "MSc/To-Do files/Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response..md",
     "Daily Notes/2025-02-26.md",

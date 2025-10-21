@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [[Notes from ASNR]]
 - [ ] iTL analysis
 - [ ] Balloon analysis when we have GPS data
+- [ ] Check balloon SiPM board for PSU issues. Burnt
 
 
 ## In Progress
