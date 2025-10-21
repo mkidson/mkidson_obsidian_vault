@@ -2,7 +2,7 @@
 - Brush up on dosimetry
 - RaD-X papers on balloon flights (new mexico)
 - Send francois the slides
-- Thibaut for neutral net unfolding (very experienced)
+- Thibault for neutral net unfolding (very experienced)
 
 
 - Download the different codes (there's one used by austrians)
