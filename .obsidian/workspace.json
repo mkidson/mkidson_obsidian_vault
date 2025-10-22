@@ -103,7 +103,8 @@
               "title": "2025-10-21"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/MSc repository.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of MSc repository"
             }
           },
           {
@@ -283,10 +284,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "16e01de3d260be30",
   "lastOpenFiles": [
-    "MSc/To-Do files/MSc repository.md",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/MSc repository.md",
     "Daily Notes/2025-10-21.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Notes from ASNR.md",

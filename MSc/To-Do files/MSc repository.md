@@ -18,6 +18,7 @@
  - [ ] Figure 4.18: Neutron light output spectra measured by a 25 mm sphere of EJ-276 coupled to a SiPM for neutron fields with peak energy (a) 19.0(3) MeV and (b) 14.8(4) MeV at the PIAF Tandetron. The 19.0(3) MeV measurement was contaminated by neutrons with energy ∼ 5.8 MeV. Spectra are normalised to unit integral.
  - [ ] Figure 4.19: Neutron energy determined by time-of-flight for neutrons produced by 2674 keV deuterons irradiating a TiT target, measured at a target-detector distance of 1.018(1) m using a 25 mm sphere of EJ-276 coupled to a SiPM.
  - [ ] Figure 4.20: Neutron light output spectrum measured by a  25 mm sphere of EJ-276 coupled to a SiPM for neutron field with peak energy 19.0(3) MeV at the PIAF Tandetron facility. The ∼ 5.8 MeV contamination was removed using the time-of-flight technique. Spectrum normalised to unit integral.
+ - [ ] Figure 5.2: Light output as a function of recoiling proton energy for a 25 mm sphere of EJ-276 coupled to a SiPM. An empirical model from \[57\] is fit to the broad spectrum data.
 
 
 
