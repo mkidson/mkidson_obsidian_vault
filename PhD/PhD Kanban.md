@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Balloon analysis when we have GPS data
 - [ ] Check balloon SiPM board for PSU issues. Burnt
 - [ ] ToF spectrum "fixed" for all three options
+- [ ] Email francois about deadline for UCT negotiations
 
 
 ## In Progress
@@ -29,6 +30,7 @@ kanban-plugin: board
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
+- [ ] [[MSc repository]]
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
 
