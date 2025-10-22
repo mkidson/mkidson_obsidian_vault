@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] iTL analysis
 - [ ] Balloon analysis when we have GPS data
 - [ ] Check balloon SiPM board for PSU issues. Burnt
+- [ ] ToF spectrum "fixed" for all three options
 
 
 ## In Progress
