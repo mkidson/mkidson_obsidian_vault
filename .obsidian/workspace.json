@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/MSc repository.md",
+                "file": "Daily Notes/2025-10-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MSc repository"
+              "title": "Outline of 2025-10-21"
             }
           },
           {
@@ -284,10 +284,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "16e01de3d260be30",
+  "active": "19ab208c437791ec",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/MSc repository.md",
+    "PhD/PhD Kanban.md",
     "Daily Notes/2025-10-21.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Notes from ASNR.md",
