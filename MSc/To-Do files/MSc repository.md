@@ -33,18 +33,36 @@
 ### Efficiency and Simulation
  - [ ] Figure 5.2: Light output as a function of recoiling proton energy for a 25 mm sphere of EJ-276 coupled to a SiPM. An empirical model from \[57\] is fit to the broad spectrum data.
  - [ ] Table 5.2: Fit parameters for Equation (5.3), determined by scipy.optimize.curve_fit for the data in Figure 5.2.
- - [ ] Figure 5.4: Neutron detection efficiency as a function of incident neutron energy, calculated using simulation: NRESP for EJ-301 and Geant4 for EJ-276. The EJ-301 efficiency has been scaled to match EJ-276. A light output threshold of 2.00 MeVee was used for EJ-276, equating to 2.54 MeVee for EJ-301.
  - [ ] Figure 5.5: Neutron detection efficiency as a function of incident neutron energy, calculated using a combination of the NRESP and Geant4 simulation codes, for a 25 mm sphere of EJ-276 and a light output threshold of 0.25 MeVee .
 
 ### Unfolded spectra
  - [ ] Figure 5.9: Neutron light output spectrum of an AmBe source measured by a 25 mm sphere of EJ-276 coupled to a SiPM, compared to the refolded spectrum produced by the unfolding process.
  - [ ] Figure 5.10: Unfolded neutron energy spectrum of an AmBe source, measured by a 25 mm sphere of EJ-276 coupled to a SiPM and unfolded using GRAVEL. The measured spectrum is compared to the ISO standard AmBe spectrum specified by \[44\] as well as a measurement made using the EJ-301 reference detector at the n-lab \[41\]. Difference between the EJ-301 spectrum and the EJ-276 spectrum is shown below.
 
+## So the data is:
+- [ ] L (calibrated) and S for AmBe measurement at n-lab. The cuts should also be included to recreate the neutron selection.
+- [ ] L (calibrated) and S for STNG measurements at the n-lab for angular comparisons. With cuts to reproduce neutron spectra.
+- [ ] Values and uncertainties for edge position and count rate for angular comparisons.
+- [ ] L (calibrated) and S for all mono-energetic measurements at AMANDE and the 14.8 at PTB. PSD cuts.
+- [ ] L (calibrated), S, T_diff, T, and E for 19 MeV at PTB and all the cyclotron measurements. PSD cuts as well.
+- [ ] The "response functions" as the bins and heights for the BIG figure in the thesis
+- [ ] Also, the response functions as can be used in UMG (.rsp)
+- [ ] L vs E for broad and monoenergetics. Also the model and the fit parameters
+- [ ] Neutron detection efficiency from Geant4 and NRESP for the 25 mm sphere
+- [ ] AmBe neutron L spectrum in the format to give to UMG, and the output from UMG for the refolded spectrum
+- [ ] ISO, EJ-301, and EJ-276 unfolded AmBe neutron spectra (binned the same way)
+
+
+
+
+
+
+
 
 ## Maybe needed
  - [ ] Figure 3.8: Light output spectrum measured for a 137Cs radioisotopic gamma ray source with a 25 mm sphere of EJ-276 coupled to a SiPM. Shown is the spectrum, the derivative of that spectrum, a Gaussian function fit to the gradient, and the centroid value of the fitted Gaussian function.
 
-
+ - [ ] Figure 5.4: Neutron detection efficiency as a function of incident neutron energy, calculated using simulation: NRESP for EJ-301 and Geant4 for EJ-276. The EJ-301 efficiency has been scaled to match EJ-276. A light output threshold of 2.00 MeVee was used for EJ-276, equating to 2.54 MeVee for EJ-301.
 
 ## Notes
 - For neutron spectra, I think best to just have L (calibrated), S, T (uncalibrated), T (calibrated), E where possible. If not ToF then just L (calibrated), S.
