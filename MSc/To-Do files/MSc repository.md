@@ -40,8 +40,9 @@
  - [ ] Figure 5.10: Unfolded neutron energy spectrum of an AmBe source, measured by a 25 mm sphere of EJ-276 coupled to a SiPM and unfolded using GRAVEL. The measured spectrum is compared to the ISO standard AmBe spectrum specified by \[44\] as well as a measurement made using the EJ-301 reference detector at the n-lab \[41\]. Difference between the EJ-301 spectrum and the EJ-276 spectrum is shown below.
 
 ## So the data is:
-- [ ] L (calibrated) and S for AmBe measurement at n-lab. The cuts should also be included to recreate the neutron selection.
-- [ ] L (calibrated) and S for STNG measurements at the n-lab for angular comparisons. With cuts to reproduce neutron spectra.
+- [x] L (calibrated) and S for AmBe measurement at n-lab. The cuts should also be included to recreate the neutron selection.
+- [ ] L (uncalibrated) and S for STNG measurements at the n-lab for angular comparisons. With cuts to reproduce neutron spectra.
+	- [ ] Also has the T variable, which is the time from start of acquisition. It does have a rollover though so that needs to be mentioned in the README
 - [ ] Values and uncertainties for edge position and count rate for angular comparisons.
 - [ ] L (calibrated) and S for all mono-energetic measurements at AMANDE and the 14.8 at PTB. PSD cuts.
 - [ ] L (calibrated), S, T_diff, T, and E for 19 MeV at PTB and all the cyclotron measurements. PSD cuts as well.
