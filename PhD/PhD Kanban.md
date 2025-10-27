@@ -19,7 +19,6 @@ kanban-plugin: board
 - [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
 - [ ] Get particle type out of EXPACS
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
-- [ ] Email Bongi about paris accoms
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 
 
@@ -31,13 +30,14 @@ kanban-plugin: board
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] [[MSc repository]]
-- [ ] Normalise timing_photon code by det volume.
-	- This was weird. Idk if it worked
+- [ ] Email Bongi about paris accoms
 
 
 ## Completed
 
 - [ ] [[Notes from ASNR]]
+- [ ] Normalise timing_photon code by det volume.
+	- This was weird. Idk if it worked
 
 
 ***
