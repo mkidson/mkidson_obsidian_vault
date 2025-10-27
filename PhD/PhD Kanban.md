@@ -9,18 +9,18 @@ kanban-plugin: board
 - [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
-- [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
-- [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow. I think it has to do with if the USB is plugged in but the optical is being used
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
-- [ ] M5Stack 5V output current max
 - [ ] Put some comments in the code...
 - [ ] Efficiency measurements
-- [ ] [[Notes from ASNR]]
-- [ ] iTL analysis
-- [ ] Balloon analysis when we have GPS data
-- [ ] Check balloon SiPM board for PSU issues. Burnt
-- [ ] ToF spectrum "fixed" for all three options
-- [ ] Email francois about deadline for UCT negotiations
+- [ ] Plot different tof options on the same axes, for with and without PSD
+- [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
+- [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
+- [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
+- [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
+- [ ] Get particle type out of EXPACS
+- [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
+- [ ] Email Bongi about paris accoms
+- [ ] When looking at particle type and dose from simulation, look at high and low LET
 
 
 ## In Progress
@@ -37,23 +37,32 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] The ADC read happens not in a task, but on core 1, which is where the loop() function runs but nothing else. The rest runs on core 0, with RTOS.
-- [ ] [[Timeline for the n-gamma counter]]
-- [ ] We're gonna run on the assumption that you never take the SD card out. If you do that, it'll just restart until you put it back in or turn it off.
-- [ ] [[n-gamma counter for Francois]]
-- [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
-- [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
-- [ ] Presentation for ASNR
-- [ ] [[iThemba LABS September Campaign]]
-- [ ] Check if writing to file affects interrupt response time
-- [ ] Currently it's not writing the header to the file for some reason
-- [ ] [[presentation for Francois]]
+- [ ] [[Notes from ASNR]]
 
 
 ***
 
 ## Archive
 
+- [ ] The ADC read happens not in a task, but on core 1, which is where the loop() function runs but nothing else. The rest runs on core 0, with RTOS.
+- [ ] [[Timeline for the n-gamma counter]]
+- [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow. I think it has to do with if the USB is plugged in but the optical is being used
+- [ ] Start familiarising with the RedPitaya, and then we'll talk to PSI intern about it all
+- [ ] We're gonna run on the assumption that you never take the SD card out. If you do that, it'll just restart until you put it back in or turn it off.
+- [ ] [[n-gamma counter for Francois]]
+- [ ] Get an idea of run length needed to get certain levels of statistics for certain bin widths. Talk to Elizabeth about fluence at 8 m etc, guess an efficiency, and work it out.
+- [ ] M5Stack 5V output current max
+- [ ] ToF spectrum "fixed" for all three options
+- [ ] Check balloon SiPM board for PSU issues. Burnt
+- [ ] Balloon analysis when we have GPS data
+- [ ] iTL analysis
+- [ ] Email francois about deadline for UCT negotiations
+- [ ] I need to be saving the time as well as Q_S and Q_L whenever the interrupt triggers
+- [ ] Presentation for ASNR
+- [ ] [[iThemba LABS September Campaign]]
+- [ ] Check if writing to file affects interrupt response time
+- [ ] Currently it's not writing the header to the file for some reason
+- [ ] [[presentation for Francois]]
 - [ ] Email travel agent mark about the flights
 - [ ] We want to test out optical photons from the centre of the sphere and see how the size of scintillator, size of flat spot, and size of collection area change the light collection
 - [ ] [[Collect evidence that the sphere on SiPM shows better light collection than the cylinder on PMT, and that it has an isotropic response.]]

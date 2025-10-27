@@ -118,8 +118,7 @@
               "title": "2025-10-21"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-10-27.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-27"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -299,14 +298,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19ab208c437791ec",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "Daily Notes/2025-10-21.md",
+    "MSc/To-Do files/Notes from ASNR.md",
+    "PhD/PhD Kanban.md",
     "Daily Notes/2025-10-27.md",
     "MSc/To-Do files/MSc repository.md",
-    "PhD/PhD Kanban.md",
+    "Daily Notes/2025-10-21.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
-    "MSc/To-Do files/Notes from ASNR.md",
     "MSc/To-Do files/presentation for Francois.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
