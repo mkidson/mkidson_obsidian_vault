@@ -20,7 +20,6 @@ kanban-plugin: board
 - [ ] Get particle type out of EXPACS
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
-- [ ] What happens to E_n when using the summed pulse?
 
 
 ## In Progress
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] [[MSc repository]]
+- [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Email Bongi about paris accoms
 
 
