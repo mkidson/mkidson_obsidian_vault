@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] Efficiency measurements
 - [ ] Plot different tof options on the same axes, for with and without PSD
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
-- [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
 - [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
 - [ ] Get particle type out of EXPACS
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
+- [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Email Bongi about paris accoms
