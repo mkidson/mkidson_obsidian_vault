@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
 - [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
-- [ ] Get particle type out of EXPACS
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 
@@ -28,6 +27,7 @@ kanban-plugin: board
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
+- [ ] Get particle type out of EXPACS
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
