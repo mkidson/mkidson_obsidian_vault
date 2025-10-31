@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
+- [ ] Which spectra in CARI7 do we use? Feels strange to take everything except neutrons
 
 
 ## In Progress
