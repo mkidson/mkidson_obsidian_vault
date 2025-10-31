@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] Plot different tof options on the same axes, for with and without PSD
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
-- [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
+- [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
 - [ ] Email Bongi about paris accoms
 
 
