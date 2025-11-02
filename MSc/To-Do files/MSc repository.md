@@ -46,8 +46,8 @@
 - [x] Values and uncertainties for edge position and count rate for angular comparisons.
 - [x] L (calibrated) and S for all mono-energetic measurements at AMANDE and the 14.8 at PTB. PSD cuts including L threshold.
 - [x] L (calibrated), S, T_diff, and T for 19 MeV at PTB and all the cyclotron measurements. PSD cuts as well. Also need the parameters used to do the ToF
-- [ ] Cyclotron measurements
-- [ ] The "response functions" as the bins and heights for the BIG figure in the thesis
+- [x] Cyclotron measurements
+- [x] The "response functions" as the bins and heights for the BIG figure in the thesis
 - [ ] Also, the response functions as can be used in UMG (.rsp)
 - [ ] L vs E for broad and monoenergetics. Also the model and the fit parameters
 - [ ] Neutron detection efficiency from Geant4 and NRESP for the 25 mm sphere
