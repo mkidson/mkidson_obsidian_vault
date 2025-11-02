@@ -45,7 +45,8 @@
 	- [ ] Also has the T variable, which is the time from start of acquisition. It does have a rollover though so that needs to be mentioned in the README
 - [x] Values and uncertainties for edge position and count rate for angular comparisons.
 - [x] L (calibrated) and S for all mono-energetic measurements at AMANDE and the 14.8 at PTB. PSD cuts including L threshold.
-- [ ] L (calibrated), S, T_diff, T, and E for 19 MeV at PTB and all the cyclotron measurements. PSD cuts as well.
+- [x] L (calibrated), S, T_diff, and T for 19 MeV at PTB and all the cyclotron measurements. PSD cuts as well. Also need the parameters used to do the ToF
+- [ ] Cyclotron measurements
 - [ ] The "response functions" as the bins and heights for the BIG figure in the thesis
 - [ ] Also, the response functions as can be used in UMG (.rsp)
 - [ ] L vs E for broad and monoenergetics. Also the model and the fit parameters
