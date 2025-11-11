@@ -10,14 +10,9 @@ kanban-plugin: board
 - [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
-- [ ] Put some comments in the code...
 - [ ] Efficiency measurements
-- [ ] Plot different tof options on the same axes, for with and without PSD
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
-- [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
-- [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
-- [ ] Which spectra in CARI7 do we use? Feels strange to take everything except neutrons
 
 
 ## In Progress
@@ -26,20 +21,25 @@ kanban-plugin: board
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 - [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
 - [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
-- [ ] Get particle type out of EXPACS
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
-- [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
 - [ ] Email Bongi about paris accoms
 
 
 ## Completed
 
 - [ ] [[Notes from ASNR]]
+- [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] Normalise timing_photon code by det volume.
 	- This was weird. Idk if it worked
+- [ ] Plot L-T and L-E to see where the slope at high energies is coming from in terms of L
+- [ ] Put some comments in the code...
+- [ ] Plot different tof options on the same axes, for with and without PSD
+- [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
+- [ ] Which spectra in CARI7 do we use? Feels strange to take everything except neutrons
+- [ ] Get particle type out of EXPACS
 
 
 ***

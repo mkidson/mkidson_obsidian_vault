@@ -133,8 +133,7 @@
               "title": "2025-11-03"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-11-03.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-03"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -314,11 +313,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2bb0fb56a81a4dd5",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/MSc repository.md",
     "PhD/PhD Kanban.md",
     "Daily Notes/2025-11-03.md",
-    "MSc/To-Do files/MSc repository.md",
     "Daily Notes/2025-10-27.md",
     "MSc/To-Do files/Notes from ASNR.md",
     "Daily Notes/2025-10-21.md",
