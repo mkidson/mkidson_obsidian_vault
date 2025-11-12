@@ -13,6 +13,8 @@ kanban-plugin: board
 - [ ] Efficiency measurements
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
+- [ ] In repository, redo the mononenergetic list
+- [ ] repository: add the calibrated cut to ambe, and make a readme
 
 
 ## In Progress
