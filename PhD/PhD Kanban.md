@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] repository: add the calibrated cut to ambe, and make a readme
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
 - [ ] Make notes for each slide
+- [ ] Are we sharing our data with MAXIQ?
 
 
 ## In Progress
