@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] In repository, redo the mononenergetic list
 - [ ] repository: add the calibrated cut to ambe, and make a readme
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
-- [ ] Make notes for each slide
 - [ ] Are we sharing our data with MAXIQ?
 
 
@@ -30,7 +29,6 @@ kanban-plugin: board
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
-- [ ] Email Bongi about paris accoms
 
 
 ## Completed
@@ -43,6 +41,8 @@ kanban-plugin: board
 - [ ] Put some comments in the code...
 - [ ] Plot different tof options on the same axes, for with and without PSD
 - [ ] Play with CFD parameters to see how that affects the time (probably shouldn't shift by 6 samples)
+- [ ] Email Bongi about paris accoms
+- [ ] Make notes for each slide
 - [ ] Which spectra in CARI7 do we use? Feels strange to take everything except neutrons
 - [ ] Get particle type out of EXPACS
 
