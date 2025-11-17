@@ -33,6 +33,12 @@ kanban-plugin: board
 
 ## Completed
 
+
+
+***
+
+## Archive
+
 - [ ] [[Notes from ASNR]]
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] Normalise timing_photon code by det volume.
@@ -45,12 +51,6 @@ kanban-plugin: board
 - [ ] Make notes for each slide
 - [ ] Which spectra in CARI7 do we use? Feels strange to take everything except neutrons
 - [ ] Get particle type out of EXPACS
-
-
-***
-
-## Archive
-
 - [ ] The ADC read happens not in a task, but on core 1, which is where the loop() function runs but nothing else. The rest runs on core 0, with RTOS.
 - [ ] [[Timeline for the n-gamma counter]]
 - [ ] Test the stability of the USB vs optical inputs of QtDAQ, somehow. I think it has to do with if the USB is plugged in but the optical is being used
