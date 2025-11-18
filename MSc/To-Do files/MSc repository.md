@@ -52,7 +52,8 @@
 - [x] L vs E for broad and monoenergetics. Also the model and the fit parameters
 - [x] Neutron detection efficiency from Geant4 and NRESP for the 25 mm sphere
 - [x] AmBe neutron L spectrum in the format to give to UMG, and the output from UMG for the refolded spectrum
-- [ ] ISO, EJ-301, and EJ-276 unfolded AmBe neutron spectra (binned the same way)
+- [ ] ISO, EJ-301, and EJ-276 unfolded AmBe neutron spectra (binned the same way). Talk about these in the README
+- [ ] Go through all the files and make sure they all have the right headers with units etc
 
 ## And the code
 - [ ] 
