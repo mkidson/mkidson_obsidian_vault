@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
+- [ ] Get all the other files processed and finalised for iTL data
 
 
 ## Completed

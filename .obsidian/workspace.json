@@ -163,8 +163,7 @@
               "title": "MSc repository"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,13 +300,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/MSc repository.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MSc repository"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -344,11 +343,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e66df9f91ee0eb4",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/MSc repository.md",
     "PhD/PhD Kanban.md",
     "Daily Notes/2025-11-13.md",
-    "MSc/To-Do files/MSc repository.md",
     "Daily Notes/2025-11-03.md",
     "Daily Notes/2025-10-27.md",
     "MSc/To-Do files/Notes from ASNR.md",
