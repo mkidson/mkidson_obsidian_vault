@@ -13,10 +13,9 @@ kanban-plugin: board
 - [ ] Efficiency measurements
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
-- [ ] repository: add the calibrated cut to ambe, and make a readme
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
 - [ ] Are we sharing our data with MAXIQ?
-- [ ] Fix print statement in \_\_press to print the right filename
+- [ ] Reading on space weather and dosimetry
 
 
 ## In Progress
@@ -35,6 +34,8 @@ kanban-plugin: board
 ## Completed
 
 - [ ] In repository, redo the mononenergetic list
+- [ ] Fix print statement in \_\_press to print the right filename
+- [ ] repository: add the calibrated cut to ambe, and make a readme
 
 
 ***
