@@ -36,3 +36,13 @@ w_{R}= \begin{cases}
 $$
 ![[Pasted image 20251121123502.png]]
 
+## Estimating Absorbed Dose in Tissue
+We then need to know the absorbed dose in a specific tissue or organ. We imagine an object that has a uniform distribution of radioactive material throughout, with some activity and some type, which defines the type of emitted radiation. The object will have a mass, which we need to know.
+### Absorbed Fraction $\phi$ 
+Absorbed fraction, often denoted by $\phi$, is the fraction of energy released in the object, that is absorbed by the object. For photons, there is some escaping energy depending on material and size. For electrons, it's usually assumed that all the energy is deposited (sometimes called nonpenetrating emissions while photons are called penetrating radiation). 
+
+### Generic Equation for Absorbed Dose in Tissue
+$$
+\dot{D} = \frac{kA\sum_{i}y_{i}E_{i}\phi_{i}}{m}
+$$
+where $\dot{D}$ is the absorbed dose rate (Gy/s), $A$ is activity (MBq), $y$ is number of radiations with energy $E$ emitted per nuclear transition, $E$ is energy per radiation (MeV), $\phi$ is fraction of energy emitted that is absorbed in the target, $m$ is mass of the target region, and $k$ is some proportionality constant with the relevant units.
