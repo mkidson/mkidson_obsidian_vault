@@ -46,3 +46,19 @@ $$
 \dot{D} = \frac{kA\sum_{i}y_{i}E_{i}\phi_{i}}{m}
 $$
 where $\dot{D}$ is the absorbed dose rate (Gy/s), $A$ is activity (MBq), $y$ is number of radiations with energy $E$ emitted per nuclear transition, $E$ is energy per radiation (MeV), $\phi$ is fraction of energy emitted that is absorbed in the target, $m$ is mass of the target region, and $k$ is some proportionality constant with the relevant units.
+
+### Cumulative Dose
+Since we use activity in the above equations, we get a rate as a result. To get the cumulative dose we time integrate the activity and get dose:
+$$
+D = \frac{k\tilde A\sum_{i}y_{i}E_{i}\phi_{i}}{m}
+$$
+where $\tilde A$ is the cumulative activity, given in something like MBq s. 
+
+## Effective Half-Time
+Similarly to the way in which radioactive materials reduce in amount according to their half-life, non-radioactive materials in the body/organs are cleared by first-order processes. So 
+$$
+X(t)=X_0e^{-\lambda_{b}t}
+$$
+where $X(t)$ is the amount of substance at time $t$, $X_0$ is the initial amount of substance, $\lambda_b$ is the biological disappearance constant ($=0.693/T_b$), and $T_b$ is the biological half-time for removal. 
+
+We then consider the removal of some radioactive substance from the body, and in this case the two equations combine. I'm gonna stop here and move onto dose from external radiation.
