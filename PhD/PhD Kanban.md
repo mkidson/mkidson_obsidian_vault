@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] Reading on space weather and dosimetry
 - [ ] Include figure numbers in the READMEs
 - [ ] Look at events in that region with middling L but high E, above the peak
+- [ ] Check if we asked for Opensky historical data access
 
 
 ## In Progress
