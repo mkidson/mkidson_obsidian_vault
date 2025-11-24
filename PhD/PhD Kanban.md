@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Are we sharing our data with MAXIQ?
 - [ ] Reading on space weather and dosimetry
 - [ ] Include figure numbers in the READMEs
+- [ ] Look at events in that region with middling L but high E, above the peak
 
 
 ## In Progress
