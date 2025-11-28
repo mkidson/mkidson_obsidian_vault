@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Are we sharing our data with MAXIQ?
 - [ ] Include figure numbers in the READMEs
 - [ ] Look at events in that region with middling L but high E, above the peak
+- [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
 
 
 ## In Progress
