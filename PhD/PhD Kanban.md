@@ -14,10 +14,8 @@ kanban-plugin: board
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Are we sharing our data with MAXIQ?
-- [ ] Reading on space weather and dosimetry
 - [ ] Include figure numbers in the READMEs
 - [ ] Look at events in that region with middling L but high E, above the peak
-- [ ] Check if we asked for Opensky historical data access
 
 
 ## In Progress
@@ -29,8 +27,8 @@ kanban-plugin: board
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
+- [ ] Reading on space weather and dosimetry
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
-- [ ] Get all the other files processed and finalised for iTL data
 
 
 ## Completed
@@ -38,6 +36,8 @@ kanban-plugin: board
 - [ ] In repository, redo the mononenergetic list
 - [ ] Fix print statement in \_\_press to print the right filename
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
+- [ ] Check if we asked for Opensky historical data access
+- [ ] Get all the other files processed and finalised for iTL data
 - [ ] repository: add the calibrated cut to ambe, and make a readme
 
 
