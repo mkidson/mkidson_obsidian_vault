@@ -16,7 +16,7 @@ kanban-plugin: board
 - [ ] Are we sharing our data with MAXIQ?
 - [ ] Include figure numbers in the READMEs
 - [ ] Look at events in that region with middling L but high E, above the peak
-- [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
+- [ ] Garcia results: find a EJ301 run at some energy, preferably 14 MeV. Also check the physics lists
 
 
 ## In Progress
@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] In repository, redo the mononenergetic list
 - [ ] Fix print statement in \_\_press to print the right filename
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
+- [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
 - [ ] Check if we asked for Opensky historical data access
 - [ ] Get all the other files processed and finalised for iTL data
 - [ ] repository: add the calibrated cut to ambe, and make a readme

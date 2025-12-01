@@ -315,13 +315,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline"
             }
           },
           {
@@ -358,12 +357,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/attachments/Pasted image 20251121123502.png",
     "PhD/attachments",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/MSc repository.md",
     "Daily Notes/2025-11-13.md",
     "Daily Notes/2025-11-03.md",
