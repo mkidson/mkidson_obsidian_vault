@@ -193,8 +193,7 @@
               "title": "2025-12-02"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -331,13 +330,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-12-02.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -374,10 +373,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b01652541c2723a0",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "Daily Notes/2025-12-02.md",
+    "PhD/PhD Kanban.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/attachments/Pasted image 20251121123502.png",
     "PhD/attachments",
