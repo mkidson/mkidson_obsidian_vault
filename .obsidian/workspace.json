@@ -148,8 +148,7 @@
               "title": "Sphere Paper"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Sphere Paper.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sphere Paper"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -329,10 +328,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "223ea454a63df678",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "Daily Notes/2025-12-02.md",
     "Daily Notes/Sphere Paper.md",
+    "Daily Notes/2025-12-02.md",
     "PhD/PhD Kanban.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/attachments/Pasted image 20251121123502.png",
