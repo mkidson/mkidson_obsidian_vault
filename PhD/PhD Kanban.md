@@ -13,10 +13,7 @@ kanban-plugin: board
 - [ ] Efficiency measurements
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
-- [ ] Are we sharing our data with MAXIQ?
-- [ ] Include figure numbers in the READMEs
 - [ ] Look at events in that region with middling L but high E, above the peak
-- [ ] Garcia results: find a EJ301 run at some energy, preferably 14 MeV. Also check the physics lists
 
 
 ## In Progress
@@ -38,7 +35,10 @@ kanban-plugin: board
 - [ ] Fix print statement in \_\_press to print the right filename
 - [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
 - [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
+- [ ] Are we sharing our data with MAXIQ?
+- [ ] Garcia results: find a EJ301 run at some energy, preferably 14 MeV. Also check the physics lists
 - [ ] Check if we asked for Opensky historical data access
+- [ ] Include figure numbers in the READMEs
 - [ ] Get all the other files processed and finalised for iTL data
 - [ ] repository: add the calibrated cut to ambe, and make a readme
 
