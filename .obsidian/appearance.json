@@ -3,7 +3,7 @@
   "cssTheme": "Border",
   "nativeMenus": false,
   "showViewHeader": true,
-  "baseFontSize": 21,
+  "baseFontSize": 17,
   "monospaceFontFamily": "Droid Sans Mono",
   "baseFontSizeAction": true,
   "textFontFamily": "Helvetica,Times New Roman",

@@ -13,3 +13,10 @@ not my problem right now
 ## Unfolding
 - We can unfold the monoenergetic measurements at AMANDE
 - And AmBe at nlab
+
+
+
+# Text
+To characterise the detector system, measurements of a broad beam neutron source were made at the PTB Ion Accelerator Facility (PIAF). A beam of 17 MeV protons were accelerated by a CV28 cyclotron onto a 3 mm thick Be target, producing neutrons up to 15.95(15) MeV along with gamma rays. The detector was placed 11.998(1) m from the target and the neutron energy determined with time-of-flight, using the gamma rays as a time calibration. The front face of the detector was flooded with neutrons.
+
+Neutron events were separated from gamma ray events using PSD and with neutron energy from ToF, neutron events were separated into bins of width 0.25 MeV, from 
