@@ -6,12 +6,9 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
-- [ ] Research off-the-shelf DAQ systems with stats that we need
 - [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
 - [ ] Efficiency measurements
-- [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
@@ -19,11 +16,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
-- [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
-- [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
-- [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
 - [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
 - [ ] [[MSc repository]]
 - [ ] Reading on space weather and dosimetry
@@ -33,22 +26,29 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] In repository, redo the mononenergetic list
-- [ ] Fix print statement in \_\_press to print the right filename
-- [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
-- [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
-- [ ] Are we sharing our data with MAXIQ?
-- [ ] Garcia results: find a EJ301 run at some energy, preferably 14 MeV. Also check the physics lists
-- [ ] Check if we asked for Opensky historical data access
-- [ ] Include figure numbers in the READMEs
-- [ ] Get all the other files processed and finalised for iTL data
-- [ ] repository: add the calibrated cut to ambe, and make a readme
 
 
 ***
 
 ## Archive
 
+- [ ] In repository, redo the mononenergetic list
+- [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
+- [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
+- [ ] Use MC to simulate detectors to get the geometric term for efficiency calculation
+- [ ] [[Build up light output spectrum with the MAXIQ SiPM board by changing the threshold]]
+- [ ] Research off-the-shelf DAQ systems with stats that we need
+- [ ] Test new SiPM boards in a consistent manner (and come up with the testing method)
+- [ ] Fix print statement in \_\_press to print the right filename
+- [ ] The Q value as calculated uses the mass of hydrogen, which includes the electron. If you use a proton you get my value...
+- [ ] Maybe try recreate the Garcie results. Need to work out the way they did physicslists...
+- [ ] Are we sharing our data with MAXIQ?
+- [ ] Garcia results: find a EJ301 run at some energy, preferably 14 MeV. Also check the physics lists
+- [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
+- [ ] Check if we asked for Opensky historical data access
+- [ ] Include figure numbers in the READMEs
+- [ ] Get all the other files processed and finalised for iTL data
+- [ ] repository: add the calibrated cut to ambe, and make a readme
 - [ ] [[Notes from ASNR]]
 - [ ] Plot with CARI7 for the balloon, at least at low altitudes to calibrate CPM to dose
 - [ ] Normalise timing_photon code by det volume.
