@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] Energy peak must be the same as the peak energy as calculated. Fudge the distance to make it work (distance in sphere)
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
-- [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
+- [ ] Can we put CARI7a and flightaware data in the database?
 
 
 ## In Progress
@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[MSc repository]]
 - [ ] Reading on space weather and dosimetry
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
+- [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 
 
 ## Completed
