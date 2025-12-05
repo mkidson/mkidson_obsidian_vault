@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Reading on space weather and dosimetry
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
+- [ ] NRESP in Geant4
 
 
 ## Completed
