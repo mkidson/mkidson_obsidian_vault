@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Implement the advice from the Garcia paper guy
 - [ ] Try the scintillation package 2 MeV vs 1 MeV
+- [ ] Teach Kutullo how to use the python stuff
 
 
 ## In Progress
