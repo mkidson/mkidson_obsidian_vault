@@ -29,18 +29,6 @@
             }
           },
           {
-            "id": "b93dfe05da3a7b84",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "16a9b435eeafe2b6",
             "type": "leaf",
             "state": {
@@ -160,8 +148,7 @@
               "title": "Sphere Paper"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,7 +328,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b93dfe05da3a7b84",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
     "PhD/Radiation Dosimetry.md",
     "Daily Notes/Sphere Paper.md",

@@ -12,6 +12,10 @@ kanban-plugin: board
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
+- [ ] EXPACS neutron and gamma spectra, compare intensities
+- [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
+- [ ] Implement the advice from the Garcia paper guy
+- [ ] Try the scintillation package 2 MeV vs 1 MeV
 
 
 ## In Progress
