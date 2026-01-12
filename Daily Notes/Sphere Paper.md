@@ -21,4 +21,7 @@ To characterise the detector system, measurements of a broad beam neutron source
 
 Neutron events were separated from gamma ray events using PSD and with neutron energy from ToF, neutron events were separated into bins of width 0.25 MeV, from 1.25 MeV to 16.5 MeV. The projection of these events into light output produced the response of the detector to neutrons of the energy in a given bin. 
 
-The positions of the proton recoil edges, in MeVee, were determined by differentiating the $L$ spectra and fitting a negative-going Gaussian function to the result, taking the centroid value to be position of the edge and the width, $\sigma$, to be $\Delta L$. 
+The positions of the proton recoil edges, in MeVee, were determined by differentiating the $L$ spectra and fitting a negative-going Gaussian function to the result, taking the centroid value to be the position of the edge and the width, $\sigma$, to be $\Delta L$. 
+
+Simulations with Geant4 were used to determine the neutron detection efficiency of the detector system. Incident monoenergetic neutrons were simulated from 1.00 MeV to 19.75 MeV in steps of 0.25 MeV. At each energy, 1 million neutrons were generated, uniformly flooding the front face of the detector. For each incident neutron event, the type of recoiling particle, along with the energy it deposited in the scintillator, was recorded. Energy deposited was converted to light output using the relationship determined above as well as a Gaussian broadening function, taking $\Delta L$ at a given value of $L$ as the width of the function.
+
