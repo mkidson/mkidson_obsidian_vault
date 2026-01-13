@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Implement the advice from the Garcia paper guy
 - [ ] Try the scintillation package 2 MeV vs 1 MeV
+- [ ] Get NRESP E to L responses from Tanya
 
 
 ## In Progress
