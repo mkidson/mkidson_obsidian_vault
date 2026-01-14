@@ -12,34 +12,34 @@ kanban-plugin: board
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
-- [ ] Implement the advice from the Garcia paper guy
-- [ ] Try the scintillation package 2 MeV vs 1 MeV
-- [ ] Get NRESP E to L responses from Tanya
 
 
 ## In Progress
 
-- [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
-- [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
-- [ ] [[MSc repository]]
 - [ ] Reading on space weather and dosimetry
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
-- [ ] NRESP in Geant4
-- [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)![[Pasted image 20260112115733.png]]
+- [ ] Get NRESP E to L responses from Tanya
+- [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] [[What the hell was I working on]]
 
 
 ## Completed
 
-- [ ] Teach Kutullo how to use the python stuff
-- [ ] EXPACS neutron and gamma spectra, compare intensities
 
 
 ***
 
 ## Archive
 
+- [ ] Teach Kutullo how to use the python stuff
+- [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
+- [ ] Implement the advice from the Garcia paper guy
+- [ ] [[MSc repository]]
+- [ ] Try the scintillation package 2 MeV vs 1 MeV
+- [ ] Send time histogram to Kutullo to convert to energy to see if it looks the same
+- [ ] EXPACS neutron and gamma spectra, compare intensities
+- [ ] NRESP in Geant4
 - [ ] In repository, redo the mononenergetic list
 - [ ] Analyse the different source tests with the balloon detectors, based on the activities measured using CAPINTEC
 - [ ] Andy will pull me into the third year project to do coincidence method for activity of a source and then do efficiency of detectors
