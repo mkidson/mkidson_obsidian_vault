@@ -56,4 +56,23 @@ Make sure that you are the one in any hand that has the edge. Even with a small 
 	- A gets the "side pot", which is the amount that A bet over B's stack (700) plus that amount from C, so 1400 total.
 	- C loses 800 to B, 700 to C, and gets the rest back.
 - Sometimes you can refer to your stack as the number of big blinds.
-- 
+
+## House cut - the rake
+- In casinos, the house will usually take about 5% of the pot whenever you win it.
+- If you play $5 - $10, the rake will be every half hour or so, and each player pays a BB.
+- Tip the dealer when you win a hand.
+
+# Expected value
+- In poker, EV is how much you win times the probability of winning, MINUS how much you lose times the probability of losing.
+- Push your positive expectation, and fold you negative expectations.
+- Any time you bet, call, raise, your payment in at that point is only that bet/call/raise. Don't consider everything else you've put into the pot because it's already there.
+
+## Pot odds
+- Easier way to calculate EV
+- Pot odds is the ratio of the amount in the pot to the amount of the bet to call.
+	- $70 in the pot
+	- $20 to call
+	- 70:20 is 3.5:1
+	- Odds against hitting are, e.g. 37 non-clubs to 9 clubs, which is 4:1
+- Whenever odds against hitting are worse than pot odds, don't call (above example).
+- Whenever pot odds are better than odds against, call! 
