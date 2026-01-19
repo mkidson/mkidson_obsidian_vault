@@ -76,3 +76,48 @@ Make sure that you are the one in any hand that has the edge. Even with a small 
 	- Odds against hitting are, e.g. 37 non-clubs to 9 clubs, which is 4:1
 - Whenever odds against hitting are worse than pot odds, don't call (above example).
 - Whenever pot odds are better than odds against, call! 
+- Pot odds are calculated on the flop.
+
+## Calculating outs
+- Involves calculation and guesswork.
+- What does your opponent have?
+	- Could your outs give them a better hand?
+- E.g. You have Q10S
+- You raise and opponent calls.
+- Flop: AS JH 8C
+- You check, opponent bets. How many outs do you have?
+- Possible Op hands:
+	- 2 pair or better
+		- You need a K or 9 for a straight, so 8 outs
+		- Backdoor flush draw, 10/47 on the turn and 9/46 on the river. We call that 2 outs because you need to draw twice (this is a genera rule for runner runner draws)
+		- We could hit but they get a full house, so we subtract 2 outs
+		- So we have 8 outs if they have a big hand
+	- A in the hand
+		- Unlikely to beat a straight or flush, so 10 outs. We need to hit straight with a K or 9 (8 outs) or a backdoor flush (2 outs)
+	- J in the hand
+		- 3 more outs because we can pair our Q as well as above, so 13 outs
+	- Lower pair
+		- You can hit the straight or flush, or pair your Q or 10. 16 outs
+	- Since we have no idea what he has, let's call it 10 outs to be safe.
+
+### Handy outs table
+Rule of thumb: 14 outs makes you even money against a better hand (no bet will scare you off). And you will always be getting better than even pot odds from any bet
+
+| Number of outs | Drawing hand                                           |
+| -------------- | ------------------------------------------------------ |
+| 4              | 2 pair, needing a full house; or gutshot straight draw |
+| 6              | 2 overcards needing to make a pair                     |
+| 8              | Open-ended straight draw                               |
+| 9              | Flush draw                                             |
+| 11             | Flush draw plus a pair needing to improve to trips     |
+| 12             | Flush draw plus gutshot straight draw                  |
+| 15             | Flush draw plus open-ended straight draw               |
+
+## Express odds vs. implied odds
+- When all in, odds are easy to calculate.
+- With chips behind, it's more complicated
+	- How much will you win if you hit your draw?
+	- Some draws are obvious, e.g. flushes.
+	- Some are hidden, e.g. straights.
+- Implied odds are the pot odds, taking into account future betting (how much money could I bet after the river if I hit my draw, not just what am I betting now).
+- 
