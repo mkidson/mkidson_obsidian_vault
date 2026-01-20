@@ -182,8 +182,7 @@
               "title": "Sphere Paper"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Sphere Paper.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sphere Paper"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -363,15 +362,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "223ea454a63df678",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "Daily Notes/Sphere Paper.md",
     "PhD/PhD Kanban.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "Poker/Poker 1.md",
     "Poker",
     "PhD/attachments/Pasted image 20260112115733.png",
-    "Daily Notes/Sphere Paper.md",
     "MSc/To-Do files/Build up light output spectrum with the MAXIQ SiPM board by changing the threshold.md",
     "Daily Notes/2025-12-02.md",
     "PhD/attachments/Pasted image 20251121123502.png",

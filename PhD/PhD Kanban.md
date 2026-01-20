@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
+- [ ] We have very little usable L vs E data for the small sphere below 2.5 MeV, and practically all of the steps in the simulation deposit 2.5 MeV or less. So all the data above 2.5 MeV is useless for simulation
 
 
 ## In Progress
