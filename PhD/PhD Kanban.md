@@ -12,6 +12,8 @@ kanban-plugin: board
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
+- [ ] Simulate SiPM damage incident radiation spectrum (not urgent)
+- [ ] Find some EJ-276-like material that has L to E measurements
 
 
 ## In Progress
