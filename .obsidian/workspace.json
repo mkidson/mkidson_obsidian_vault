@@ -29,25 +29,6 @@
             }
           },
           {
-            "id": "76782f631772c5d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "PhD/PhD Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "PhD Kanban"
-            }
-          },
-          {
             "id": "a016a5d7b4aac6a8",
             "type": "leaf",
             "state": {
@@ -364,10 +345,10 @@
   },
   "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "Daily Notes/Sphere Paper.md",
-    "PhD/PhD Kanban.md",
-    "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/What the hell was I working on.md",
+    "PhD/PhD Kanban.md",
+    "Daily Notes/Sphere Paper.md",
+    "PhD/Radiation Dosimetry.md",
     "Poker/Poker 1.md",
     "Poker",
     "PhD/attachments/Pasted image 20260112115733.png",
