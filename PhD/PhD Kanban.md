@@ -22,12 +22,13 @@ kanban-plugin: board
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Get NRESP E to L responses from Tanya
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Find some EJ-276-like material that has L to E measurements
-- [ ] [[What the hell was I working on]]
+- [ ] Fix discontinuities in the E to L conversion (protons)
 
 
 ## Completed
 
+- [ ] Find some EJ-276-like material that has L to E measurements
+- [ ] [[What the hell was I working on]]
 
 
 ***
