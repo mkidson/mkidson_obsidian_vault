@@ -82,9 +82,9 @@ Make sure that you are the one in any hand that has the edge. Even with a small 
 - Involves calculation and guesswork.
 - What does your opponent have?
 	- Could your outs give them a better hand?
-- E.g. You have Q10S
+- E.g. You have Q-10s
 - You raise and opponent calls.
-- Flop: AS JH 8C
+- Flop: As Jh 8c
 - You check, opponent bets. How many outs do you have?
 - Possible Op hands:
 	- 2 pair or better
