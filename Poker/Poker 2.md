@@ -82,4 +82,49 @@
 - A bad scenario is an early position raise followed by a re-raise. You should fold medium pair
 
 ### Pocket jacks
-- 
+- Hard, because you're probably ahead pre-flop
+- But the flop often brings an overcard
+- If the board is co-ordinated, you're screwed because people could hit straights etc
+- Safe to play it like a small pair, like 5-5, but you aren't maximising your equity
+- It's good to protect your hand on the flop with a good sized bet, but be ready to abort if you get called or raised
+
+### Small pairs (2-2 to 5-5)
+- Do not play when shallow stacked
+- In weak games against weak players, play them for one raise, hoping to get someone bad to buy in
+- In strong games, only play them in late position (obviously not calling raises)
+- Fold if you miss the set on the flop (this is really all you're hoping for)
+- When SUPER deep stacked, beware
+	- You can easily lose to a bigger set, and you're likely to bet a lot since you're deep
+
+### Big slick (A-K) (looks good, never wins)
+- Very pretty looking hand, but you really don't have anything yet. You need draws to get some value
+- Plays well short stacked
+- Top pair top kicker usually loses if the pot gets huge (you're up against flushes and sets and full houses)
+- When you hit on the flop, it's pretty obvious that you hit if you bet/raise there, so you don't get paid out much
+- Valuable for domination, e.g. you share a card with someone (A) but your kicker is much better (K vs J)
+	- If you both miss an A, your hand is better
+	- People love to play aces, but yours is better
+- With A-K, you want to get calls from weaker aces pre-flop. You don't want to scare people off with 3-bets and 4-bets
+	- By re-raising, you're scaring off the hands that will lose to you, and not those hands that are better.
+- Against any pair, A-K is just under 50%
+- If you have A-K, the probability that someone else has A-A or K-K is about 4%, so in general don't play as if you're up against them
+- When short stacked, you should raise more often than calling raises. Be the aggressor
+- Deep stacked, it's harder
+	- Raise in any position
+	- Re-raise in late position
+	- When facing a 3-bet, fold it
+	- Don't make a habit of it, but you should be ok with folding A-K pre-flop
+- Remember to take opponent into account. Against a loose player, it's better to play
+- When suited, it's really powerful AS A DRAWING HAND
+
+### Little slick (A-Q)
+- A lot like A-K but weaker
+- A-K is underdog to 12 hands out of 1225
+- A-Q is underdog to 34 hands out of 1225, so it's almost 3 times as bad
+- Still strong though
+	- Play in every position
+	- Be more likely to fold to serious action
+	- If you see a 4-bet, someone probably has A-A, K-K, A-K
+	- Still well behind even small pairs
+
+
