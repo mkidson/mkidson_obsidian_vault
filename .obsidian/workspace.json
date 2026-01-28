@@ -193,7 +193,8 @@
               "title": "Poker 1"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -330,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "Daily Notes/Sphere Paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Sphere Paper"
             }
           },
           {
@@ -373,11 +374,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "223ea454a63df678",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "Poker/Poker 1.md",
     "Poker/Poker 2.md",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "Daily Notes/Sphere Paper.md",
     "PhD/Radiation Dosimetry.md",
