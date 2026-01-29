@@ -21,7 +21,7 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Get "scintillation_testing" simulation running with photons being produced properly
+- [ ] E to num photons needs to take the electron into account. Not sure how the electrons and the protons relate, motherfuckers don't put any NUMBERS ON ANYTHING
 
 
 ## Completed
@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] [[What the hell was I working on]]
 - [ ] I started to implement the proton and alpha E to L functions into the scintillation package, but I realised I don't know the light output functions in terms of photons per MeV. I'll look at the Verbinski data and scale it, maybe
 - [ ] Get NRESP E to L responses from Tanya
+- [ ] Get "scintillation_testing" simulation running with photons being produced properly
 - [ ] Fix discontinuities in the E to L conversion (protons)
 
 
