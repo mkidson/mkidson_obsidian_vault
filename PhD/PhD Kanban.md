@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
+- [ ] I started to implement the proton and alpha E to L functions into the scintillation package, but I realised I don't know the light output functions in terms of photons per MeV. I'll look at the Verbinski data and scale it, maybe
 
 
 ## Completed
