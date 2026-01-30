@@ -12,7 +12,7 @@ kanban-plugin: board
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
-- [ ] Simulate SiPM damage incident radiation spectrum (not urgent)
+- [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 
 
 ## In Progress
@@ -21,10 +21,16 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Why am I getting seg faults?
 
 
 ## Completed
+
+- [ ] Why am I getting seg faults?
+
+
+***
+
+## Archive
 
 - [ ] Find some EJ-276-like material that has L to E measurements
 - [ ] [[What the hell was I working on]]
@@ -33,12 +39,6 @@ kanban-plugin: board
 - [ ] Get NRESP E to L responses from Tanya
 - [ ] Get "scintillation_testing" simulation running with photons being produced properly
 - [ ] Fix discontinuities in the E to L conversion (protons)
-
-
-***
-
-## Archive
-
 - [ ] Teach Kutullo how to use the python stuff
 - [ ] Have a look at simulating a lead cap for a cylindrical detector, to see what the neutron multiplication looks like. Might need higher energy neutrons?
 - [ ] Implement the advice from the Garcia paper guy
