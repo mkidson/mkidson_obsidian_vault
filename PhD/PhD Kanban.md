@@ -13,6 +13,10 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
+- [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit
+- [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
+- [ ] Clean up the polish testing plots etc
+- [ ] Design a holder for the different scintillators for the sphere paper
 
 
 ## In Progress

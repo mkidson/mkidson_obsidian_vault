@@ -208,8 +208,7 @@
               "title": "2026-02-04"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -346,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2026-02-04.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-04"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -389,10 +388,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df42e79d7f9630a8",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "Daily Notes/2026-02-04.md",
+    "PhD/PhD Kanban.md",
     "Poker/Poker 1.md",
     "Daily Notes/Sphere Paper.md",
     "Poker/Poker 2.md",
