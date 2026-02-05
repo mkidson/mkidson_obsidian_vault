@@ -1,3 +1,5 @@
 The effect of the surface finish on spheres of EJ-276 on the light output, energy resolution, and PSD ability was tested for a selection of different scintillator wrapping techniques. Two identical spheres of EJ-276 with diameter 20 mm and a 6 mm flat spot milled into them were prepared, with the only difference being the surface finish: one was polished to a smooth finish while the other was left with the rough surface as a result of the machining process. The spheres were tested with 5 different wrappings: no wrapping; PTFE tape; and EJ-510 TiO2 paint in 1, 2, and 3 coats. 
 
-One sphere at a time was placed on top of a SiPM module, with optical grease to optically couple the two, and a source placed 115.78 mm from the top of the sphere. For 1 and 2 coats of paint, Cs-137 and AmBe were used. For the other cases, Cs-137, Co-60, Na-22, and AmBe were used. 
+One sphere at a time was placed on top of a SiPM module, with optical grease to optically couple the two, and a source placed 115.78 mm from the top of the sphere. Measurements were made with each surface finish and wrapping combination, using Cs-137 and AmBe as radiation sources. 
+
+![[naked_cs.png]]
