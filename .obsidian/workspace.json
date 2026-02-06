@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -376,13 +376,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Report on sphere polish testing to Andy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Report on sphere polish testing to Andy"
+              "title": "Outline"
             }
           },
           {
@@ -419,13 +418,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a9ee8bcc1eaa63a",
+  "active": "38fa4e53a599506a",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Report on sphere polish testing to Andy.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "MSc/To-Do files/Untitled.pdf",
-    "MSc/To-Do files/Report on sphere polish testing to Andy.md",
     "MSc/To-Do files/attachments/naked_cs.png",
-    "PhD/PhD Kanban.md",
     "Daily Notes/2026-02-05.md",
     "Daily Notes/2026-02-04.md",
     "Poker/Poker 1.md",
