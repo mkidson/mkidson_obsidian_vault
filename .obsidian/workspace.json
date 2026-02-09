@@ -229,13 +229,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-02-05.md",
+                "file": "Daily Notes/2026-02-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-05"
+              "title": "2026-02-09"
             }
           }
         ],
@@ -418,14 +418,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38fa4e53a599506a",
+  "active": "05adfc1bf9a71871",
   "lastOpenFiles": [
+    "Daily Notes/2026-02-09.md",
+    "Daily Notes/2026-02-05.md",
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/Report on sphere polish testing to Andy.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "MSc/To-Do files/Untitled.pdf",
     "MSc/To-Do files/attachments/naked_cs.png",
-    "Daily Notes/2026-02-05.md",
     "Daily Notes/2026-02-04.md",
     "Poker/Poker 1.md",
     "Daily Notes/Sphere Paper.md",
