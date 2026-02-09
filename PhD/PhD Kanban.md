@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
-- [ ] Clean up the polish testing plots etc
 - [ ] Design a holder for the different scintillators for the sphere paper
 
 
@@ -25,13 +24,14 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] [[Report on sphere polish testing to Andy]]
 
 
 ## Completed
 
 - [ ] Comparison between 14 MeV at AMANDE and PTB for sphere paper
 - [ ] Why am I getting seg faults?
+- [ ] [[Report on sphere polish testing to Andy]]
+- [ ] Clean up the polish testing plots etc
 
 
 ***

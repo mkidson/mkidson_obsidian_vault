@@ -220,7 +220,6 @@
       {
         "id": "d5aa8e9dbcec004c",
         "type": "tabs",
-        "dimension": 72.96511627906976,
         "children": [
           {
             "id": "3ef86e625dcfc59d",
@@ -260,23 +259,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "815b955c2aece699",
-        "type": "tabs",
-        "dimension": 27.034883720930235,
-        "children": [
-          {
-            "id": "05adfc1bf9a71871",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -391,10 +373,11 @@
   "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
     "Poker/Poker 1.md",
+    "PhD/PhD Kanban.md",
+    "MSc/To-Do files/n-gamma counter for Francois.md",
     "Daily Notes/2026-02-04.md",
     "Daily Notes/2026-02-09.md",
     "Daily Notes/2026-02-05.md",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Report on sphere polish testing to Andy.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "MSc/To-Do files/Untitled.pdf",
@@ -414,7 +397,6 @@
     "Daily Notes/2025-10-27.md",
     "MSc/To-Do files/Notes from ASNR.md",
     "Daily Notes/2025-10-21.md",
-    "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/presentation for Francois.md",
     "Daily Notes/2025-08-11.md",
     "MSc/To-Do files/iThemba LABS September Campaign.md",
