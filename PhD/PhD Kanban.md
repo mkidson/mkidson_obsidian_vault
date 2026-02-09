@@ -30,6 +30,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] Comparison between 14 MeV at AMANDE and PTB for sphere paper
 - [ ] Why am I getting seg faults?
 
 
