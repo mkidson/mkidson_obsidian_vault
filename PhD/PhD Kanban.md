@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
+- [ ] Write abstract for ASNR thing
 
 
 ## In Progress
