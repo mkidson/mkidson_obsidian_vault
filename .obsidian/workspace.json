@@ -223,8 +223,7 @@
               "title": "Poker 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,13 +342,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Write abstract for ASNR thing.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Write abstract for ASNR thing"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -386,10 +385,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b54d090880dc9669",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Write abstract for ASNR thing.md",
+    "PhD/PhD Kanban.md",
     "Poker/Poker 1.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "Daily Notes/2026-02-04.md",
