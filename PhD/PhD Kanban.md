@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
-- [ ] [[Write abstract for ASNR thing]]
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 
@@ -26,7 +25,8 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit
+- [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
+- [ ] [[Write abstract for ASNR thing]]
 
 
 ## Completed
