@@ -16,6 +16,8 @@ kanban-plugin: board
 - [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] [[Write abstract for ASNR thing]]
+- [ ] Check out efficiency at a few energies comparing new to old L calculation method
+- [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 
 
 ## In Progress
