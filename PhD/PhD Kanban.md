@@ -13,8 +13,6 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] Design a holder for the different scintillators for the sphere paper
-- [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 
@@ -22,16 +20,18 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Reading on space weather and dosimetry
-- [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
-- [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
+- [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
+- [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] [[Write abstract for ASNR thing]]
 
 
 ## Completed
 
 - [ ] Comparison between 14 MeV at AMANDE and PTB for sphere paper
+- [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
+- [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Why am I getting seg faults?
 - [ ] [[Report on sphere polish testing to Andy]]
 - [ ] Clean up the polish testing plots etc
