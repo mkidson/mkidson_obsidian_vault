@@ -23,7 +23,6 @@ kanban-plugin: board
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
-- [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] [[Write abstract for ASNR thing]]
 
 
@@ -33,6 +32,7 @@ kanban-plugin: board
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
 - [ ] Why am I getting seg faults?
+- [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] [[Report on sphere polish testing to Andy]]
 - [ ] Clean up the polish testing plots etc
 
