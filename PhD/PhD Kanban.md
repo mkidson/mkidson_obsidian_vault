@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
+- [ ] [[CoA Teacher paper notes v11]]
 
 
 ## Completed
