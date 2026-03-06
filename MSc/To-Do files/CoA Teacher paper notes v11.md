@@ -9,4 +9,6 @@
 
 # The radiation environment at flight altitudes
 - First paragraph has "measured" said twice in a sentence
+- Typo: "and on planetary or lunar surfaces where *there* is a lack of an atmosphere"
+- "A solar ﬂare is a sudden, intense burst of electromagnetic radiation" paragraph has a typo near the end: "These surge of radiation travels" makes no sense
 - 
