@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "6a16517f9bd9fabd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "16a9b435eeafe2b6",
             "type": "leaf",
             "state": {
@@ -89,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "581fd3f42f4808ff",
+  "active": "6a16517f9bd9fabd",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/CoA Teacher paper notes v11.md",
