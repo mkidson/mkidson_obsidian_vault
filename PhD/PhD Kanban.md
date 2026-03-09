@@ -24,6 +24,7 @@ kanban-plugin: board
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] [[CoA Teacher paper notes v11]]
+- [ ] [[Sphere paper analyses]]
 
 
 ## Completed
