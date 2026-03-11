@@ -32,3 +32,9 @@
 
 250 channels across 10 MeVee (standard) but maybe finer binning for gammas
 Consistent binning per MeVee for gammas and for neutrons
+
+
+# To send
+- [x] Gamma and neutron average pulses
+- [ ] Sphere L spectra for calibration gammas, angular gammas, STNG neutrons
+- [ ] Sphere L-S spectra for STNG and AmBe
