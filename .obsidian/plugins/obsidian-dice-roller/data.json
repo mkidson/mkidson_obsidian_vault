@@ -102,6 +102,55 @@
       "resultText": "[19]",
       "timestamp": 1720769394119,
       "id": "VweQnnADyCIh"
+    },
+    {
+      "result": 1,
+      "original": "1d20kh",
+      "resultText": "[1]",
+      "timestamp": 1773673295274,
+      "id": "-FkGz5yzBiZ0"
+    },
+    {
+      "result": 10,
+      "original": "1d20kh",
+      "resultText": "[10]",
+      "timestamp": 1773673306336,
+      "id": "FGdtcCbFJ7SS"
+    },
+    {
+      "result": 15,
+      "original": "1d20kh",
+      "resultText": "[15]",
+      "timestamp": 1773673309000,
+      "id": "e030Y0Nn7Jdz"
+    },
+    {
+      "result": 19,
+      "original": "1d20kh",
+      "resultText": "[19]",
+      "timestamp": 1773673310955,
+      "id": "X9HjUE27sCxN"
+    },
+    {
+      "result": 6,
+      "original": "1d20kh",
+      "resultText": "[6]",
+      "timestamp": 1773673313328,
+      "id": "hR8nWwJfdaBG"
+    },
+    {
+      "result": 12,
+      "original": "1d20kh",
+      "resultText": "[12]",
+      "timestamp": 1773673316125,
+      "id": "U_X6gOSoi-uH"
+    },
+    {
+      "result": 17,
+      "original": "4d20kh",
+      "resultText": "[17, 6d, 12d, 10d]",
+      "timestamp": 1773673321281,
+      "id": "inX5_6LV7Jrd"
     }
   ]
 }
