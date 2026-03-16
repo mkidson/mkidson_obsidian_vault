@@ -102,9 +102,24 @@
               "icon": "lucide-file",
               "title": "Poker 1"
             }
+          },
+          {
+            "id": "99285f6d9e7319a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-03-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-16"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Sphere paper analyses.md",
+                "file": "Daily Notes/2026-03-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sphere paper analyses"
+              "title": "Outline of 2026-03-16"
             }
           },
           {
@@ -266,9 +281,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8e5e58e1d1e9bf7",
+  "active": "99285f6d9e7319a4",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
+    "Daily Notes/2026-03-16.md",
     "MSc/To-Do files/Sphere paper analyses.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/CoA Teacher paper notes v11.md",
@@ -302,7 +318,6 @@
     "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/10s & 18s.canvas",
-    "VWS/10s and 18s.md",
     "VWS/attachments/Pasted image 20240723224650.png",
     "VWS/attachments/Pasted image 20240804191340.png",
     "VWS/attachments/Pasted image 20240804192759.png",
