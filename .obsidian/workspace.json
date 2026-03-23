@@ -94,13 +94,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-03-19.md",
+                "file": "Daily Notes/2026-03-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-19"
+              "title": "2026-03-23"
             }
           }
         ],
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2026-03-19.md",
+                "file": "Daily Notes/2026-03-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-19"
+              "title": "Outline of 2026-03-23"
             }
           },
           {
@@ -268,8 +268,9 @@
   },
   "active": "99285f6d9e7319a4",
   "lastOpenFiles": [
-    "Daily Notes/2026-03-16.md",
     "Daily Notes/2026-03-19.md",
+    "Daily Notes/2026-03-23.md",
+    "Daily Notes/2026-03-16.md",
     "Poker/Poker 1.md",
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/Sphere paper analyses.md",
@@ -299,7 +300,6 @@
     "Daily Notes/2025-11-03.md",
     "Daily Notes/2025-10-27.md",
     "Daily Notes/2025-10-21.md",
-    "Daily Notes/2025-08-11.md",
     "VWS/attachments/Part of a Pump 1a-14 download.png",
     "VWS/attachments/Parts of a Pump 15-22 download.png",
     "VWS/10s & 18s.canvas",
