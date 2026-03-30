@@ -24,6 +24,7 @@ kanban-plugin: board
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] [[Sphere paper analyses]]
+- [ ] [[Trip update meeting]]
 
 
 ## Completed

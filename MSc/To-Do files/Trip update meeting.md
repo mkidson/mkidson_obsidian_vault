@@ -1,0 +1,7 @@
+- Contract
+	- 25000 EUR is that too much?
+	- There are a few details to iron out before going to lawyers
+	- Intellectual property, Francois doesn't mind if it's ours
+- Funding in the meantime
+	- He can order a new detector, which he can pay 60% of upfront, which can fund me for a bit.
+	- 
