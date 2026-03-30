@@ -21,13 +21,19 @@ kanban-plugin: board
 - [ ] Reading on space weather and dosimetry
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
-- [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] [[Sphere paper analyses]]
 
 
 ## Completed
+
+- [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
+
+
+***
+
+## Archive
 
 - [ ] Comparison between 14 MeV at AMANDE and PTB for sphere paper
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
@@ -38,12 +44,6 @@ kanban-plugin: board
 - [ ] Design a holder for the different scintillators for the sphere paper
 - [ ] [[Report on sphere polish testing to Andy]]
 - [ ] Clean up the polish testing plots etc
-
-
-***
-
-## Archive
-
 - [ ] Find some EJ-276-like material that has L to E measurements
 - [ ] [[What the hell was I working on]]
 - [ ] I started to implement the proton and alpha E to L functions into the scintillation package, but I realised I don't know the light output functions in terms of photons per MeV. I'll look at the Verbinski data and scale it, maybe
