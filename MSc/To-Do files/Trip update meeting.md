@@ -4,4 +4,5 @@
 	- Intellectual property, Francois doesn't mind if it's ours
 - Funding in the meantime
 	- He can order a new detector, which he can pay 60% of upfront, which can fund me for a bit.
-	- 
+- Monthly-ish meetings
+- 
