@@ -6,4 +6,6 @@
 	- He can order a new detector, which he can pay 60% of upfront, which can fund me for a bit.
 - Monthly-ish meetings
 - Paper that Francois just sent
-- =
+- Acquisition board from XStorm
+	- Needs some work on the FPGA side (because they don't have the original code)
+	- Solves a lot of problems for us, at least
