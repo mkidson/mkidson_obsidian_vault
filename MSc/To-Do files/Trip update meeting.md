@@ -12,3 +12,8 @@
 
 
 # IAEA meeting on FPGA for radiation detectors
+
+
+# Sphere paper
+- Look at angular data next
+- 

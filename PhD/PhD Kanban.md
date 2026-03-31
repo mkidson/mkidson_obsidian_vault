@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] [[Sphere paper analyses]]
 - [ ] [[Trip update meeting]]
+- [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
 
 
 ## Completed
