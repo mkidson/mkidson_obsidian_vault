@@ -9,3 +9,6 @@
 - Acquisition board from XStorm
 	- Needs some work on the FPGA side (because they don't have the original code)
 	- Solves a lot of problems for us, at least
+
+
+# IAEA meeting on FPGA for radiation detectors
