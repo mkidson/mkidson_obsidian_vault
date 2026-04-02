@@ -29,6 +29,18 @@
             }
           },
           {
+            "id": "f45d612efcbfa908",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "00564d803cc11f86",
             "type": "leaf",
             "state": {
@@ -118,7 +130,8 @@
               "title": "CoA Teacher paper notes v11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,13 +250,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline"
             }
           },
           {
@@ -280,7 +292,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "f45d612efcbfa908",
   "lastOpenFiles": [
     "MSc/To-Do files/Trip update meeting.md",
     "PhD/PhD Kanban.md",
