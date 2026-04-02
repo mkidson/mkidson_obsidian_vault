@@ -130,8 +130,7 @@
               "title": "CoA Teacher paper notes v11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,12 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -292,7 +292,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f45d612efcbfa908",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
     "MSc/To-Do files/Trip update meeting.md",
     "PhD/PhD Kanban.md",
