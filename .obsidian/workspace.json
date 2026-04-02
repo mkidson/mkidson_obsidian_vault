@@ -130,7 +130,8 @@
               "title": "CoA Teacher paper notes v11"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -249,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/CoA Teacher paper notes v11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of CoA Teacher paper notes v11"
             }
           },
           {
@@ -292,16 +293,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "aef924c70d28a79b",
   "lastOpenFiles": [
-    "MSc/To-Do files/Trip update meeting.md",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Sphere paper analyses.md",
+    "MSc/To-Do files/Trip update meeting.md",
     "MSc/To-Do files/CoA Teacher paper notes v11.md",
     "Poker/Poker 1.md",
     "Daily Notes/2026-03-23.md",
     "Daily Notes/2026-03-19.md",
     "Daily Notes/2026-03-16.md",
-    "MSc/To-Do files/Sphere paper analyses.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "MSc/To-Do files/MSc repository.md",
