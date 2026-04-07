@@ -14,6 +14,10 @@ kanban-plugin: board
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
+- [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
+- [ ] Output list mode neutrons as well for generator
+- [ ] Check if 135 is low for all neutrons for all geometries
+- [ ] average pulse using collimated Cs
 
 
 ## In Progress
@@ -26,7 +30,7 @@ kanban-plugin: board
 - [ ] [[Sphere paper analyses]]
 - [ ] [[Trip update meeting]]
 - [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
-- [ ] Look at the sphere alignment
+- [ ] Look at the sphere alignment. Which way is the alignment skewed?
 
 
 ## Completed
