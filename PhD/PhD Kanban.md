@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 - [ ] Output list mode neutrons as well for generator
 - [ ] Check if 135 is low for all neutrons for all geometries
-- [ ] average pulse using collimated Cs
 
 
 ## In Progress
@@ -36,6 +35,7 @@ kanban-plugin: board
 ## Completed
 
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
+- [ ] average pulse using collimated Cs
 
 
 ***
