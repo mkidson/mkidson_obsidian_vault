@@ -1,0 +1,2 @@
+Neutrons are simulated incident on the detector volume, flooding the volume. If an event occurs within the volume, a proton, alpha particle(s), deuteron, or carbon nucleus is produced (or some combination of these). These will be called "recoil particles". At each step in the simulation, the recoil particle deposits some energy. The simulation records the energy of the particle before and after each step.
+
