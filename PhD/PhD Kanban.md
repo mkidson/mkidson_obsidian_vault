@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
-- [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 - [ ] Output list mode neutrons as well for generator
 - [ ] Check if 135 is low for all neutrons for all geometries
 
@@ -36,6 +35,7 @@ kanban-plugin: board
 
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] average pulse using collimated Cs
+- [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 
 
 ***
