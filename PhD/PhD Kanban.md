@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 - [ ] Output list mode neutrons as well for generator
-- [ ] Check if 135 is low for all neutrons for all geometries
 
 
 ## In Progress
@@ -24,17 +23,18 @@ kanban-plugin: board
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
-- [ ] [[CoA Teacher paper notes v11]]
-- [ ] [[Sphere paper analyses]]
 - [ ] [[Trip update meeting]]
 - [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
 - [ ] Look at the sphere alignment. Which way is the alignment skewed?
+- [ ] Check if 135 is low for all neutrons for all geometries
 
 
 ## Completed
 
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] average pulse using collimated Cs
+- [ ] [[CoA Teacher paper notes v11]]
+- [ ] [[Sphere paper analyses]]
 - [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 
 
