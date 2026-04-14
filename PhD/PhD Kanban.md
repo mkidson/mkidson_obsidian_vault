@@ -13,6 +13,9 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
+- [ ] Start writing MSc paper based on the sphere paper
+- [ ] MSc paper needs to use new simulations
+- [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry
 
 
 ## In Progress
