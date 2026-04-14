@@ -16,6 +16,8 @@ kanban-plugin: board
 - [ ] Start writing MSc paper based on the sphere paper
 - [ ] MSc paper needs to use new simulations
 - [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry
+- [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
+- [ ] Check gain on the 4 Sipm Cs run. Do the sum normally. Then compare to the sum after shifting them all in L slightly (multiply the pulse trace)
 
 
 ## In Progress
