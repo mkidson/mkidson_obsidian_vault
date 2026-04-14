@@ -13,7 +13,6 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] Output list mode neutrons as well for generator
 
 
 ## In Progress
@@ -24,7 +23,6 @@ kanban-plugin: board
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 - [ ] Look at the sphere alignment. Which way is the alignment skewed?
-- [ ] Check if 135 is low for all neutrons for all geometries
 
 
 ## Completed
@@ -35,7 +33,9 @@ kanban-plugin: board
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
 - [ ] [[Sphere paper analyses]]
+- [ ] Check if 135 is low for all neutrons for all geometries
 - [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
+- [ ] Output list mode neutrons as well for generator
 
 
 ***
