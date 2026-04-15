@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Start writing MSc paper based on the sphere paper
 - [ ] MSc paper needs to use new simulations
 - [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry
-- [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
 - [ ] Check gain on the 4 Sipm Cs run. Do the sum normally. Then compare to the sum after shifting them all in L slightly (multiply the pulse trace)
 
 
@@ -27,7 +26,7 @@ kanban-plugin: board
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
-- [ ] Look at the sphere alignment. Which way is the alignment skewed?
+- [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
 
 
 ## Completed
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
 - [ ] [[Sphere paper analyses]]
+- [ ] Look at the sphere alignment. Which way is the alignment skewed?
 - [ ] Check if 135 is low for all neutrons for all geometries
 - [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 - [ ] Output list mode neutrons as well for generator
