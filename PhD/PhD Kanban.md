@@ -25,13 +25,16 @@ kanban-plugin: board
 - [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
-- [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
-- [ ] Check gain on the 4 Sipm Cs run. Do the sum normally. Then compare to the sum after shifting them all in L slightly (multiply the pulse trace)
-- [ ] Find the best way to represent the collimated data. It looks weird now
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 
 
 ## Completed
+
+
+
+***
+
+## Archive
 
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] average pulse using collimated Cs
@@ -39,16 +42,13 @@ kanban-plugin: board
 - [ ] [[CoA Teacher paper notes v11]]
 - [ ] Check the weird offset thing. Compare new STNG data on sphere to old L vs E data and see if it's different. Needs to compare to like AMANDE or PTB
 - [ ] [[Sphere paper analyses]]
+- [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
 - [ ] Look at the sphere alignment. Which way is the alignment skewed?
+- [ ] Check gain on the 4 Sipm Cs run. Do the sum normally. Then compare to the sum after shifting them all in L slightly (multiply the pulse trace)
 - [ ] Check if 135 is low for all neutrons for all geometries
+- [ ] Find the best way to represent the collimated data. It looks weird now
 - [ ] Count rate for the collimated gammas. Put L spectra on top of each other and see change in intensity.
 - [ ] Output list mode neutrons as well for generator
-
-
-***
-
-## Archive
-
 - [ ] Comparison between 14 MeV at AMANDE and PTB for sphere paper
 - [ ] What happens to E_n when using the summed pulse? Why is it all wiggly like that?
 - [ ] Start refining the sphere characterisation and making a story for part 2 of the sphere paper
