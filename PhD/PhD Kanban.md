@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] Redo collimated gammas with all three at 0 deg. Redo STNG for prism at 0 deg
 - [ ] Check gain on the 4 Sipm Cs run. Do the sum normally. Then compare to the sum after shifting them all in L slightly (multiply the pulse trace)
 - [ ] Find the best way to represent the collimated data. It looks weird now
+- [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 
 
 ## Completed
