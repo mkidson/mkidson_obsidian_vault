@@ -15,7 +15,9 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Start writing MSc paper based on the sphere paper
 - [ ] MSc paper needs to use new simulations
-- [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry
+- [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just "be a presence there for n-lab"
+- [ ] send cfds to tanya
+- [ ] collimated 4 sipm spectrum Cs
 
 
 ## In Progress
