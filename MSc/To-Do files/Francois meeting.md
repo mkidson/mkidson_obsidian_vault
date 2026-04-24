@@ -14,7 +14,7 @@
 
 # Regular updates
 - Francois will join for one of our tuesday meetings per month
-- Last week of may setup teams meeting
+- Last week of may set up teams meeting
 
 # Goals at the end of the PhD
 - Mid to late 2028, we must have a device (XStorm + ours) that is operational to be used on Air France. There are two other devices that are also going to be included.
@@ -28,6 +28,12 @@
 
 # Contract
 - Might want to include the TGF and the integration into the Air France thing
+- We will add the above and some edits, get it through our legal team, and then get it back to ASNR soon
+- 
 
 # "New detector" for quick funds
-- 
+- Should be about a month if we can invoice them next week
+
+
+# Slides for the next meeting with Francois
+# Report to Francois about each of the conferences for his reporting 
