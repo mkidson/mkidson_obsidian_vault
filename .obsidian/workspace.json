@@ -115,7 +115,8 @@
               "title": "Radiation Dosimetry"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Trip update meeting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Trip update meeting"
             }
           },
           {
@@ -277,10 +278,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "00564d803cc11f86",
   "lastOpenFiles": [
-    "PhD/Simulation work.md",
     "PhD/PhD Kanban.md",
+    "PhD/Simulation work.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/Sphere paper analyses.md",
     "Poker/Poker 1.md",
