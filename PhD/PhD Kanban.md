@@ -13,11 +13,8 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] Start writing MSc paper based on the sphere paper
-- [ ] MSc paper needs to use new simulations
 - [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just "be a presence there for n-lab"
-- [ ] send cfds to tanya
-- [ ] collimated 4 sipm spectrum Cs
+- [ ] Simulations don't really match do they...
 
 
 ## In Progress
@@ -29,11 +26,15 @@ kanban-plugin: board
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 - [ ] [[Francois meeting]]
+- [ ] Start writing MSc paper based on the sphere paper
+- [ ] MSc paper needs to use new simulations
 - [ ] Invoice for ANSTT
 
 
 ## Completed
 
+- [ ] send cfds to tanya
+- [ ] collimated 4 sipm spectrum Cs
 
 
 ***
