@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just "be a presence there for n-lab"
 - [ ] Simulations don't really match do they...
+- [ ] Efficiency in the MSc repository is just wrong. Idk why
 
 
 ## In Progress
