@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Simulations don't really match do they...
 - [ ] Efficiency in the MSc repository is just wrong. Idk why
+- [ ] ITL data change start time to be -40 ns not -20
 
 
 ## In Progress
