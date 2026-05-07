@@ -1,17 +1,20 @@
 
 - [ ] New slide 2 (high energy neutrons in general). Include neutron dose as fn of energy, so neutron spectra must be measured. Neutrons get produced by ???. Words from the IAEA meeting. Unfolding is necessary as it's not in the lab
-- [ ] Slide 3: aviation environments
-- [ ] Slide 4: space weather - reduce the words on the page a bit. Keep the words you're saying
-- [ ] slide 6: add in "spectral capability in situ" and the blue is unfolding with measured responses
-- [ ] slide 7: remove MSc, just previous work. Simplify it to say we validated below 20 MeV and are extending to higher energies
-- [ ] slide 8: Extending to higher energies by increasing scintillator size, both for higher efficiency and to account for the increase in proton recoil range. Remove anything that seems like it's a PhD update
-- [ ] slide 10: add in date and beam current
+- [x] Slide 3: aviation environments
+- [x] Slide 4: space weather - reduce the words on the page a bit. Keep the words you're saying
+- [x] slide 6: add in "spectral capability in situ" and the blue is unfolding with measured responses
+- [x] slide 7: remove MSc, just previous work. Simplify it to say we validated below 20 MeV and are extending to higher energies
+- [x] slide 8: Extending to higher energies by increasing scintillator size, both for higher efficiency and to account for the increase in proton recoil range. Remove anything that seems like it's a PhD update
+- [x] slide 10: add in date and beam current
 - [ ] 
 
 
-# Introduction (the challenge (high energy neutrons))
-And then why aviation
+# The challenge: high energy neutrons
+- 
 
+
+
+# Neutrons in aviation
 - At aircraft cruising altitudes, the atmosphere provides less shielding than it does at sea level, leading to an increased dose received by passengers and crew. 
 - The radiation is mostly secondary radiation due to interactions of cosmic rays with the atmosphere, which can be categorised into galactic cosmic rays and solar energetic particles.
 - A large proportion of the dose is due to neutrons.
@@ -34,6 +37,7 @@ And then why aviation
 - Our energy range was limited on the high end by scintillator size and on the low end by constraints in the efficiency simulation.
 
 # Research goals
+- Extending prototype to higher energies by increasing scintillator size. This is for detection efficiency and to account for proton recoil range.
 - Aiming to combine simulation and measurement to create response functions up to 120 MeV
 - Develop autonomous signal processing and data acquisition system.
 - Characterise the performance of the unfolding at high energy reference neutron facilities.
@@ -44,17 +48,16 @@ And then why aviation
 - We made measurements in September last year of up to 150 MeV neutrons with an 8 metre flight path. Here are some plots of those data.
 - We were able to create response functions, but the statistics on the data meant our energy bins are quite wide (10 MeV), which won't lead to very good unfolding performance.
 - So, simulation will be used to fill in the gaps and improve the energy resolution.
+- Emphasise the simulation is necessary to get better energy resolution (maybe 5 MeV bins?)
 
-## Slide 11 date and beam current
 
 # Simulation with Geant4
-We're starting below 20 MeV and then extending. Remove the "below" from the title. Above 20 MeV it MUST be matched to measurement
-
-- We are using Geant4 MC code to simulate the response functions, using the measured data as a guide for what they should look like.
+- We are using Geant4 MC code to simulate the response functions. First for < 20 MeV and then extending above, which is hard to do.
+- Measurement MUST be used above 20 MeV to guide the simulation as the models are not well verified wrt measured data.
 - We simulate monoenergetic neutrons incident on the detector.
 - Any recoil particles that are produced get tracked as they deposit their energy and each energy deposition step produces a number of photons.
-	- Geant4 has a scintillation package which we are exploring, which produces the photons and tracks them as they bounce around and eventually some of them hit the photomultiplier.
-	- We are also looking into converting straight from energy deposition to the "light output" measured by the acquisition system, as this reduces complexity and run time.
+- Energy deposition is converted to light output for each step.
+- A Gaussian broadening function is applied to each event, producing the final result.
 
 # summary
 - Here are some of the other things that have happened and are ongoing.
@@ -62,9 +65,10 @@ We're starting below 20 MeV and then extending. Remove the "below" from the titl
 # next steps
 - Here are some of the things that I'm looking into doing next.
 
-# Cosmic on air remove title. just have poster (new from website)
-- We are also working to produce a version of the detector that is capable of doing some basic neutron dosimetry that can be used for the cosmic on air citizen science project.
-- Here is some data from a recent flight with a prototype where we were hoping to see neutron gamma separation but no luck...
+# CoA poster
+- We are also working on a version that can be used in a citizen science project.
+
+
 
 # Thanks for listening!
 
