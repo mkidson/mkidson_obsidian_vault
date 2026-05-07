@@ -5,8 +5,9 @@
 
 # Introduction (the challenge)
 - At aircraft cruising altitudes, the atmosphere provides less shielding than it does at sea level, leading to an increased dose received by passengers and crew. 
-- The radiation is mostly secondary radiation due to interactions of cosmic rays with the atmosphere, which can be split into galactic cosmic rays and solar energetic particles.
-- A large proportion of the dose is due to neutrons and the dose received by air crew is calculated only using a simulation -- there is no constant monitoring and the field isn't particularly well characterised.
+- The radiation is mostly secondary radiation due to interactions of cosmic rays with the atmosphere, which can be categorised into galactic cosmic rays and solar energetic particles.
+- A large proportion of the dose is due to neutrons.
+- The dose received by air crew is calculated only using a simulation -- there is no constant monitoring and the field isn't particularly well characterised.
 
 # Space weather
 - GCRs are a sort of background, constant source of radiation.
@@ -15,13 +16,14 @@
 - The flux can also increase if there are just so many particles coming from the sun.
 - Most of the events that we experience and which affect the dose received at flight altitude have timescales of a few hours, so constant monitoring is necessary to be able to catch and characterise them for future simulations.
 
-# Why measure
-- As before, measurement is necessary in these fields as the neutron fluence spectrum can change shape and intensity, and the dose due to neutron radiation is heavily dependent on the fluence.
-- The general shape of the neutron spectrum in aviation is like the figure shown, with peaks at 1 and 100 MeV.
+# Why measure SPECTRA
+- The general shape of the neutron spectrum in aviation is like the figure shown, with peaks at 1 and 100 MeV. The shape could change during solar events.
+- So measurement is necessary in these fields as the dose due to neutron radiation is heavily dependent on the the shape and intensity of that spectrum.
 
 # Detector systems for neutron spectrometry
 - The goal is to measure the energy distribution of the neutrons present in the environment.
 - There are a number of techniques that can be used in the lab, but in the field there is practically only one: spectrum unfolding.
+- Especially where the spectrum changes, relatively high efficiency detectors are needed, hence organic scintillators.
 - To do unfolding, measurements must be made of known neutron fields and the unknown field is reconstructed from those measured response functions.
 
 # For aviation
