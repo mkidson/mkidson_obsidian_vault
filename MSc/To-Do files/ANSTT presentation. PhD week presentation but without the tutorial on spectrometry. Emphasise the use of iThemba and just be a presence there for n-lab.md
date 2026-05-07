@@ -1,5 +1,5 @@
 
-- [ ] New slide 2 (high energy neutrons in general). Include neutron dose as fn of energy, so neutron spectra must be measured. Neutrons get produced by ???. Words from the IAEA meeting. Unfolding is necessary as it's not in the lab
+- [x] New slide 2 (high energy neutrons in general). Include neutron dose as fn of energy, so neutron spectra must be measured. Neutrons get produced by ???. Words from the IAEA meeting. Unfolding is necessary as it's not in the lab
 - [x] Slide 3: aviation environments
 - [x] Slide 4: space weather - reduce the words on the page a bit. Keep the words you're saying
 - [x] slide 6: add in "spectral capability in situ" and the blue is unfolding with measured responses
@@ -10,11 +10,14 @@
 
 
 # The challenge: high energy neutrons
-- 
-
+- High energy neutrons are of high relevance in many fields.
+- They are produced both naturally by cosmic rays interacting with matter such as in spacecraft of the atmosphere, and also in and around high energy accelerator facilities (research and therapy).
+- In all cases, there is a low energy peak around 1 MeV and a high energy around 100 MeV. 
+- In all cases, the dose received by a biological or electronic system is highly dependent on the energy spectrum, so measurement of the spectrum, not just dosimetry, is required.
 
 
 # Neutrons in aviation
+- Of particular interest to this presentation are neutron fields present in aviation environments.
 - At aircraft cruising altitudes, the atmosphere provides less shielding than it does at sea level, leading to an increased dose received by passengers and crew. 
 - The radiation is mostly secondary radiation due to interactions of cosmic rays with the atmosphere, which can be categorised into galactic cosmic rays and solar energetic particles.
 - A large proportion of the dose is due to neutrons.
