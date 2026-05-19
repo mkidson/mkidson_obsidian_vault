@@ -21,7 +21,7 @@
 - At aircraft cruising altitudes, the atmosphere provides less shielding than it does at sea level, leading to an increased dose received by passengers and crew. 
 - The radiation is mostly secondary radiation due to interactions of cosmic rays with the atmosphere, which can be categorised into galactic cosmic rays and solar energetic particles.
 - A large proportion of the dose is due to neutrons.
-- The dose received by air crew is calculated only using a simulation -- there is no constant monitoring and the field isn't particularly well characterised.
+- The dose received by air crew is calculated only using a simulation
 
 # Space weather
 - GCRs are a sort of background, constant source of radiation.
