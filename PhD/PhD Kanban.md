@@ -13,8 +13,6 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] Simulations don't really match do they...
-- [ ] Efficiency in the MSc repository is just wrong. Idk why
 - [ ] ITL data change start time to be -40 ns not -20
 
 
@@ -22,27 +20,30 @@ kanban-plugin: board
 
 - [ ] Reading on space weather and dosimetry
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
-- [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
-- [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
-- [ ] [[Francois meeting]]
-- [ ] [[ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab]]
 - [ ] Start writing MSc paper based on the sphere paper
 - [ ] MSc paper needs to use new simulations
-- [ ] Invoice for ANSTT
+- [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
+- [ ] [[Light transport simulations]]
 
 
 ## Completed
 
-- [ ] send cfds to tanya
-- [ ] collimated 4 sipm spectrum Cs
 
 
 ***
 
 ## Archive
 
+- [ ] send cfds to tanya
+- [ ] [[ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab]]
+- [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
+- [ ] Test 4 vs 1 SiPM, also the summing circuit from Tom, also the NIM circuit. You have optimised integrals
+- [ ] [[Francois meeting]]
+- [ ] Efficiency in the MSc repository is just wrong. Idk why
+- [ ] Simulations don't really match do they...
+- [ ] collimated 4 sipm spectrum Cs
+- [ ] Invoice for ANSTT
 - [ ] Play with the ISS detector, testing count rate as fn of energy (gamma sources)
 - [ ] average pulse using collimated Cs
 - [ ] [[Trip update meeting]]
