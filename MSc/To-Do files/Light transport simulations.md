@@ -1,14 +1,15 @@
 # Things to score
-- [ ] Time between production and arrival at SiPM
-- [ ] Number of wall interactions before SiPM
+- [x] Time between production and arrival at SiPM
+- [x] Number of wall interactions before SiPM
+	- [ ] This is saved to the fStepNumber variable and the actual number is (fStepNumber - 2)/2
 - [ ] Total photons escaping around SiPM 
 	- [ ] Maybe this can be done by putting a volume around the SiPM that stops and kills but adds a counter?
-- [ ] Photons incident on SiPM per source photon
+- [x] Photons incident on SiPM per source photon
 
 # Things to vary
-- [ ] Sphere radius $R_s$
-- [ ] Flat spot radius $R_f$
-- [ ] SiPM side length $L_s$
+- [x] Sphere radius $R_s$
+- [x] Flat spot radius $R_f$
+- [x] SiPM side length $L_s$
 - [ ] Scintillation source geometry
 
 
