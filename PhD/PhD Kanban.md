@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] MSc paper needs to use new simulations
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 - [ ] [[Light transport simulations]]
+- [ ] [[Neutron multiplier simulations]]
 
 
 ## Completed
