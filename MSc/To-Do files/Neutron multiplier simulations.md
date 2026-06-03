@@ -16,4 +16,17 @@ We want to find the best "hat" to put on the detector to change the incident spe
 - [ ] Fe
 - [ ] W
 - [ ] Be
-- [ ] Any others that 
+- [ ] Any others that may be useful?
+
+# Scoring
+- [ ] Energy distribution of:
+	- [ ] Neutrons
+	- [ ] Protons
+	- [ ] Deuterons
+	- [ ] Tritons
+	- [ ] Alphas
+- [ ] On the other side of the sample to the beam, obviously
+
+
+# Next steps
+- [ ] Looking at some kind of shell model?
