@@ -178,8 +178,7 @@
               "title": "Poker 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Neutron multiplier simulations.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Neutron multiplier simulations"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -341,10 +340,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "30e7aa9c98e1ca78",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Neutron multiplier simulations.md",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Light transport simulations.md",
     "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
     "MSc/To-Do files/Trip update meeting.md",

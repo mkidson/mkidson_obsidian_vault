@@ -26,6 +26,8 @@ kanban-plugin: board
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 - [ ] [[Light transport simulations]]
 - [ ] [[Neutron multiplier simulations]]
+- [ ] Fabricate the aviation light output spectrum and then try unfolding it
+- [ ] Try boxcar unfolding
 
 
 ## Completed
