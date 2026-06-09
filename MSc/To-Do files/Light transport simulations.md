@@ -31,3 +31,23 @@
 - $R_f$ varies over the best 3 from the previous simulation (as fn of $R_s$)
 - $L_s$ varies over the best 3 from the previous simulation (as fn of $R_f$)
 
+
+
+# New simulation set
+- Using specular reflection
+- Photons reaching the flat spot but not the SiPM are lost, not reflected
+## 1
+- R_s varies over 10, 12.5, and 25 mm
+- Keep SiPM at 6 mm
+- Vary R_f over 2.5 mm to 5.0 mm
+- We want to optimise the coverage fraction in terms of
+	- Number of photons
+	- Time to SiPM
+	- Some kind of spread of time to SiPM
+
+## 2
+- R_s = 25 mm
+- L_s = 12 mm
+- Vary R_f over 5 mm to 10 mm
+- Compare to 25 mm with L_s = 6 mm and R_s = 12.5 and 25 mm
+

@@ -14,6 +14,9 @@ kanban-plugin: board
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] ITL data change start time to be -40 ns not -20
+- [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
+- [ ] Check 0 degree spectrum to see if it is right
+- [ ] Send to tanya: response functions, selection of calibrated light output spectra (Li, C, boxcar)
 
 
 ## In Progress
@@ -33,6 +36,9 @@ kanban-plugin: board
 - [ ] Does the photon wavelength change as it travels through the sphere?
 - [ ] Make photons on flat spot but not sipm escapes, not reflecting
 - [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
+- [ ] Fix the SiPM size and change coverage fraction from just smaller than SiPM to just bigger than SiPM
+- [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
+- [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
 
 
 ## Completed
