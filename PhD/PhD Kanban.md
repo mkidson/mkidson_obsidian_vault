@@ -28,6 +28,11 @@ kanban-plugin: board
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Fabricate the aviation light output spectrum and then try unfolding it
 - [ ] Try boxcar unfolding
+- [ ] Make specular reflection and count the number of bounces. No loss at the boundary
+- [ ] Score photons leaving the sphere at the boundary?
+- [ ] Does the photon wavelength change as it travels through the sphere?
+- [ ] Make photons on flat spot but not sipm escapes, not reflecting
+- [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
 
 
 ## Completed
