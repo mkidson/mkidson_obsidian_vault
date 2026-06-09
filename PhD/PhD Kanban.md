@@ -32,7 +32,7 @@ kanban-plugin: board
 - [ ] Fix the SiPM size and change coverage fraction from just smaller than SiPM to just bigger than SiPM
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
-- [ ] Send to tanya: response functions, selection of calibrated light output spectra (Li, C, boxcar)
+- [ ] [[Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)]]
 - [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
 - [ ] Unfolding etc
 
