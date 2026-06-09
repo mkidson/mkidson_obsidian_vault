@@ -13,10 +13,6 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] ITL data change start time to be -40 ns not -20
-- [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
-- [ ] Check 0 degree spectrum to see if it is right
-- [ ] Send to tanya: response functions, selection of calibrated light output spectra (Li, C, boxcar)
 
 
 ## In Progress
@@ -29,20 +25,25 @@ kanban-plugin: board
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 - [ ] [[Light transport simulations]]
 - [ ] [[Neutron multiplier simulations]]
-- [ ] Fabricate the aviation light output spectrum and then try unfolding it
-- [ ] Try boxcar unfolding
-- [ ] Make specular reflection and count the number of bounces. No loss at the boundary
 - [ ] Score photons leaving the sphere at the boundary?
-- [ ] Does the photon wavelength change as it travels through the sphere?
 - [ ] Make photons on flat spot but not sipm escapes, not reflecting
-- [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
+- [ ] Check 0 degree spectrum to see if it is right
+- [ ] ITL data change start time to be -40 ns not -20
 - [ ] Fix the SiPM size and change coverage fraction from just smaller than SiPM to just bigger than SiPM
+- [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
+- [ ] Send to tanya: response functions, selection of calibrated light output spectra (Li, C, boxcar)
 - [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
+- [ ] Unfolding etc
 
 
 ## Completed
 
+- [ ] Try boxcar unfolding
+- [ ] Fabricate the aviation light output spectrum and then try unfolding it
+- [ ] Does the photon wavelength change as it travels through the sphere?
+- [ ] Make specular reflection and count the number of bounces. No loss at the boundary
+- [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
 
 
 ***

@@ -36,6 +36,7 @@
 # New simulation set
 - Using specular reflection
 - Photons reaching the flat spot but not the SiPM are lost, not reflected
+- NOTE: if fLogicalVolume is 0, it's SiPM. If it's 1, it's the escape volume
 ## 1
 - R_s varies over 10, 12.5, and 25 mm
 - Keep SiPM at 6 mm
