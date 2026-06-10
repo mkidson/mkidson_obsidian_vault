@@ -37,6 +37,9 @@
 - Using specular reflection
 - Photons reaching the flat spot but not the SiPM are lost, not reflected
 - NOTE: if fLogicalVolume is 0, it's SiPM. If it's 1, it's the escape volume
+- I've defined the "coverage fraction" as the ratio between the area of the SiPM and the area of the flat spot
+	- This means that when the coverage fraction is below 1, we should see escapes out the sides of the flat spot.
+	- Realistically, we get escapes until about 1.2, because the overlap is not perfect (square in circle etc)
 ## 1
 - R_s varies over 10, 12.5, and 25 mm
 - Keep SiPM at 6 mm
