@@ -13,6 +13,8 @@ kanban-plugin: board
 - [ ] Look at events in that region with middling L but high E, above the peak
 - [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
+- [ ] Try adjusting the transmission probability so there is less loss for the TiO coating. See if that changes the sharpness of the proton edge (and maybe the scaling?)
+- [ ] Eljen has no data for photons as a function of energy deposited above 40 MeV... Bit of a problem.
 
 
 ## In Progress
