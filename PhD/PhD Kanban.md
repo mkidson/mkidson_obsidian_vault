@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
 - [ ] Try adjusting the transmission probability so there is less loss for the TiO coating. See if that changes the sharpness of the proton edge (and maybe the scaling?)
 - [ ] Eljen has no data for photons as a function of energy deposited above 40 MeV... Bit of a problem.
+- [ ] Is there a good way to systematically determine the scaling factor for scintillation package?
 
 
 ## In Progress

@@ -223,8 +223,7 @@
               "title": "Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,13 +342,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)"
+              "title": "Outline of PhD Kanban"
             }
           },
           {
@@ -386,11 +385,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cfc3493e499f9222",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/SAIP 2026.md",
-    "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
     "MSc/To-Do files/Light transport simulations.md",
     "MSc/To-Do files/Neutron multiplier simulations.md",
     "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
