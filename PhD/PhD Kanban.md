@@ -30,7 +30,6 @@ kanban-plugin: board
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
-- [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
 - [ ] Unfolding etc
 - [ ] [[SAIP 2026]]
 
@@ -45,6 +44,7 @@ kanban-plugin: board
 - [ ] Make photons on flat spot but not sipm escapes, not reflecting
 - [ ] Fix the SiPM size and change coverage fraction from just smaller than SiPM to just bigger than SiPM
 - [ ] ITL data change start time to be -40 ns not -20
+- [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
 - [ ] Check 0 degree spectrum to see if it is right
 - [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
 - [ ] [[Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)]]
