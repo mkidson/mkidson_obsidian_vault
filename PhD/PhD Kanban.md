@@ -31,7 +31,6 @@ kanban-plugin: board
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
 - [ ] Unfolding etc
-- [ ] [[SAIP 2026]]
 
 
 ## Completed
@@ -47,6 +46,7 @@ kanban-plugin: board
 - [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
 - [ ] Check 0 degree spectrum to see if it is right
 - [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
+- [ ] [[SAIP 2026]]
 - [ ] [[Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)]]
 
 
