@@ -268,7 +268,8 @@
               "title": "Light transport simulations"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -387,13 +388,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Light transport simulations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Light transport simulations"
             }
           },
           {
@@ -430,11 +431,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "6eb4da4f10b31a2a",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/SAIP 2026.md",
     "MSc/To-Do files/Light transport simulations.md",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
     "MSc/To-Do files/Neutron multiplier simulations.md",
     "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
