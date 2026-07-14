@@ -16,6 +16,12 @@ kanban-plugin: board
 - [ ] Try adjusting the transmission probability so there is less loss for the TiO coating. See if that changes the sharpness of the proton edge (and maybe the scaling?)
 - [ ] Eljen has no data for photons as a function of energy deposited above 40 MeV... Bit of a problem.
 - [ ] Is there a good way to systematically determine the scaling factor for scintillation package?
+- [ ] Andy has some curves for photons per MeV at high energies
+- [ ] Try stretching the proton response onto the alphas and carbons
+- [ ] Comrie 2015 66 MeV photon response
+- [ ] try weighting the simulated input spectrum to match the iThemba ToF data
+- [ ] Also try 20-30
+- [ ] Use AmBe 4.4 to calibrate
 
 
 ## In Progress
