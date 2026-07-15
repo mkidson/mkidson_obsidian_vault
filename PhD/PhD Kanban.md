@@ -22,6 +22,13 @@ kanban-plugin: board
 - [ ] try weighting the simulated input spectrum to match the iThemba ToF data
 - [ ] Also try 20-30
 - [ ] Use AmBe 4.4 to calibrate
+- [ ] Light transport when you change the point of production
+- [ ] AmBe FoM and Cs L edge resolution
+- [ ] SAIP proceedings: read tanya's paper from cyclotrons conference
+- [ ] Ask Tanya for list of things to send her
+- [ ] Comrie 2015 describes iThemba experimental setup well
+- [ ] Include the peak in unfolded spectra
+- [ ] how da hell are we gonna do dose conversions
 
 
 ## In Progress
