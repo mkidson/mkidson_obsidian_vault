@@ -29,6 +29,21 @@
             }
           },
           {
+            "id": "58e6951bd12dfb21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/To-Do files/Things to send to Tanya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to send to Tanya"
+            }
+          },
+          {
             "id": "1d2ec13186256bab",
             "type": "leaf",
             "state": {
@@ -268,7 +283,8 @@
               "title": "Light transport simulations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -387,13 +403,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Things to send to Tanya.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD Kanban"
+              "title": "Outline of Things to send to Tanya"
             }
           },
           {
@@ -430,10 +446,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "58e6951bd12dfb21",
   "lastOpenFiles": [
-    "MSc/To-Do files/Light transport simulations.md",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Things to send to Tanya.md",
+    "MSc/To-Do files/Light transport simulations.md",
     "MSc/To-Do files/SAIP 2026.md",
     "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
     "MSc/To-Do files/Neutron multiplier simulations.md",
@@ -457,7 +474,6 @@
     "Daily Notes/2025-12-02.md",
     "Daily Notes/Sphere Paper.md",
     "MSc/To-Do files/Report on sphere polish testing to Andy.md",
-    "MSc/To-Do files/Write abstract for ASNR thing.md",
     "MSc/To-Do files/Untitled.pdf",
     "MSc/To-Do files/attachments/naked_cs.png",
     "Poker",
