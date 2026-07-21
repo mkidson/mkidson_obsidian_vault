@@ -44,7 +44,7 @@ kanban-plugin: board
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
 - [ ] Unfolding etc
-- [ ] SAIP Proceedings
+- [ ] [[SAIP Proceedings]]
 - [ ] [[Things to send to Tanya]]
 
 
