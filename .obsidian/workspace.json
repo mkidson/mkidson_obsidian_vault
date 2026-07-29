@@ -314,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -433,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/SAIP Proceedings.md",
+                "file": "MSc/To-Do files/Light transport simulations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SAIP Proceedings"
+              "title": "Outline of Light transport simulations"
             }
           },
           {
@@ -476,10 +476,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "280d2583c15a9d37",
+  "active": "99213cf0ec638646",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/SAIP Proceedings.md",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/SAIP 2026.md",
     "MSc/To-Do files/Things to send to Tanya.md",
     "MSc/To-Do files/Light transport simulations.md",
