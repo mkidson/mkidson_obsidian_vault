@@ -20,8 +20,6 @@ kanban-plugin: board
 - [ ] Try stretching the proton response onto the alphas and carbons
 - [ ] Comrie 2015 66 MeV photon response
 - [ ] try weighting the simulated input spectrum to match the iThemba ToF data
-- [ ] Light transport when you change the point of production
-- [ ] AmBe FoM and Cs L edge resolution
 - [ ] how da hell are we gonna do dose conversions
 
 
@@ -33,16 +31,18 @@ kanban-plugin: board
 - [ ] Start writing MSc paper based on the sphere paper
 - [ ] MSc paper needs to use new simulations
 - [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
-- [ ] [[Light transport simulations]]
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
-- [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
-- [ ] [[SAIP Proceedings]]
-- [ ] [[Things to send to Tanya]]
-- [ ] Try to integrate both 25 and 50 sphere over the entire range to remove that dependence
 
 
 ## Completed
+
+- [ ] [[Light transport simulations]]
+
+
+***
+
+## Archive
 
 - [ ] Try boxcar unfolding
 - [ ] Fabricate the aviation light output spectrum and then try unfolding it
@@ -51,25 +51,25 @@ kanban-plugin: board
 - [ ] Score photons leaving the sphere at the boundary?
 - [ ] Make photons on flat spot but not sipm escapes, not reflecting
 - [ ] Fix the SiPM size and change coverage fraction from just smaller than SiPM to just bigger than SiPM
+- [ ] Tanya sent an email about adjusting Geant4 to 100 MeV
 - [ ] ITL data change start time to be -40 ns not -20
 - [ ] Ask Tanya for list of things to send her
 - [ ] Unfolding etc
+- [ ] [[SAIP Proceedings]]
+- [ ] Try to integrate both 25 and 50 sphere over the entire range to remove that dependence
+- [ ] [[Things to send to Tanya]]
 - [ ] SAIP proceedings: read tanya's paper from cyclotrons conference
+- [ ] Light transport when you change the point of production
 - [ ] Use AmBe 4.4 to calibrate
 - [ ] Also try 20-30
 - [ ] SAIP will be the current simulations and a good plan for how to get up to 100 MeV (use iThemba)
+- [ ] AmBe FoM and Cs L edge resolution
 - [ ] Check 0 degree spectrum to see if it is right
 - [ ] Comrie 2015 describes iThemba experimental setup well
 - [ ] Include the peak in unfolded spectra
 - [ ] Find the optimal coverage fraction of the SiPM and flat spot, for 12.5 mm and 25 mm and 50 mm
 - [ ] [[SAIP 2026]]
 - [ ] [[Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)]]
-
-
-***
-
-## Archive
-
 - [ ] send cfds to tanya
 - [ ] [[ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab]]
 - [ ] Write something up regarding the simulation work you've been doing, specifically the process of getting L from Edep within the Geant program
