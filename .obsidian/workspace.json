@@ -299,6 +299,18 @@
             }
           },
           {
+            "id": "fcc5c672c268a1a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
             "id": "280d2583c15a9d37",
             "type": "leaf",
             "state": {
@@ -314,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -334,7 +346,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -439,7 +453,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Light transport simulations"
+              "title": "Outline"
             }
           },
           {
@@ -476,7 +490,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "99213cf0ec638646",
+  "active": "fcc5c672c268a1a6",
   "lastOpenFiles": [
     "MSc/To-Do files/SAIP Proceedings.md",
     "PhD/PhD Kanban.md",
