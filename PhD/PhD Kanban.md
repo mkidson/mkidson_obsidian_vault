@@ -25,7 +25,7 @@ kanban-plugin: board
 - [ ] PhD Timeline
 - [ ] NEUDOS abstract
 - [ ] Travel grant application
-- [ ] Colloquium slides
+- [ ] [[Colloquium slides]]
 
 
 ## Completed
