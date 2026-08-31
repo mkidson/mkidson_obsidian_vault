@@ -29,165 +29,18 @@
             }
           },
           {
-            "id": "17a9a7f5b3f647a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
-            "id": "5e12649e6e8e7650",
+            "id": "2149d5c8f65cc53d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/SAIP Proceedings.md",
+                "file": "MSc/To-Do files/Francois meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SAIP Proceedings"
-            }
-          },
-          {
-            "id": "58e6951bd12dfb21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Things to send to Tanya.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to send to Tanya"
-            }
-          },
-          {
-            "id": "1d2ec13186256bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/SAIP 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SAIP 2026"
-            }
-          },
-          {
-            "id": "30e7aa9c98e1ca78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Neutron multiplier simulations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Neutron multiplier simulations"
-            }
-          },
-          {
-            "id": "6eb4da4f10b31a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Light transport simulations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Light transport simulations"
-            }
-          },
-          {
-            "id": "882dedc7e8fa2222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab"
-            }
-          },
-          {
-            "id": "a23a01db44fec5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD/Simulation work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Simulation work"
-            }
-          },
-          {
-            "id": "00564d803cc11f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Trip update meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Trip update meeting"
-            }
-          },
-          {
-            "id": "d8e5e58e1d1e9bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Sphere paper analyses.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sphere paper analyses"
-            }
-          },
-          {
-            "id": "581fd3f42f4808ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/CoA Teacher paper notes v11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CoA Teacher paper notes v11"
+              "title": "Francois meeting"
             }
           },
           {
@@ -204,129 +57,8 @@
               "icon": "lucide-file",
               "title": "Radiation Dosimetry"
             }
-          },
-          {
-            "id": "2149d5c8f65cc53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Francois meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Francois meeting"
-            }
-          },
-          {
-            "id": "eb3a1dcc62d421a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poker/Poker 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Poker 2"
-            }
-          },
-          {
-            "id": "70b16a383100b203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Light transport simulations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Light transport simulations"
-            }
-          },
-          {
-            "id": "cfc3493e499f9222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar)"
-            }
-          },
-          {
-            "id": "77ac97e20c5d7ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Light transport simulations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Light transport simulations"
-            }
-          },
-          {
-            "id": "77a86732954baaab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/SAIP 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SAIP 2026"
-            }
-          },
-          {
-            "id": "99213cf0ec638646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Light transport simulations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Light transport simulations"
-            }
-          },
-          {
-            "id": "280d2583c15a9d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/SAIP Proceedings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SAIP Proceedings"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -490,24 +222,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17a9a7f5b3f647a0",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "MSc/To-Do files/SAIP Proceedings.md",
+    "MSc/To-Do files/Francois meeting.md",
     "PhD/PhD Kanban.md",
-    "MSc/To-Do files/SAIP 2026.md",
-    "MSc/To-Do files/Things to send to Tanya.md",
+    "PhD/Radiation Dosimetry.md",
+    "MSc/To-Do files/SAIP Proceedings.md",
     "MSc/To-Do files/Light transport simulations.md",
+    "MSc/To-Do files/SAIP 2026.md",
     "MSc/To-Do files/Send to tanya response functions, selection of calibrated light output spectra (Li, C, boxcar).md",
-    "MSc/To-Do files/Neutron multiplier simulations.md",
-    "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
+    "Poker/Poker 2.md",
+    "MSc/To-Do files/CoA Teacher paper notes v11.md",
+    "MSc/To-Do files/Sphere paper analyses.md",
     "MSc/To-Do files/Trip update meeting.md",
     "PhD/Simulation work.md",
-    "Poker/Poker 2.md",
+    "MSc/To-Do files/ANSTT presentation. PhD week presentation but without the tutorial on spectrometry. Emphasise the use of iThemba and just be a presence there for n-lab.md",
+    "MSc/To-Do files/Neutron multiplier simulations.md",
+    "MSc/To-Do files/Things to send to Tanya.md",
     "Poker/Poker 1.md",
-    "MSc/To-Do files/Francois meeting.md",
-    "PhD/Radiation Dosimetry.md",
-    "MSc/To-Do files/Sphere paper analyses.md",
-    "MSc/To-Do files/CoA Teacher paper notes v11.md",
     "Daily Notes/2026-03-23.md",
     "Daily Notes/2026-03-19.md",
     "Daily Notes/2026-03-16.md",

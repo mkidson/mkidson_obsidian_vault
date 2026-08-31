@@ -6,16 +6,8 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
-- [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
-- [ ] Efficiency measurements
 - [ ] When looking at particle type and dose from simulation, look at high and low LET
-- [ ] Look at events in that region with middling L but high E, above the peak
-- [ ] Can we put CARI7a and flightaware data in the database?
 - [ ] Simulate SiPM damage incident radiation spectrum (not urgent). Look at Andy's email about dose, to francois
-- [ ] Try adjusting the transmission probability so there is less loss for the TiO coating. See if that changes the sharpness of the proton edge (and maybe the scaling?)
-- [ ] Eljen has no data for photons as a function of energy deposited above 40 MeV... Bit of a problem.
-- [ ] Is there a good way to systematically determine the scaling factor for scintillation package?
 - [ ] Andy has some curves for photons per MeV at high energies
 - [ ] Try stretching the proton response onto the alphas and carbons
 - [ ] Comrie 2015 66 MeV photon response
@@ -28,22 +20,34 @@ kanban-plugin: board
 - [ ] Reading on space weather and dosimetry
 - [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Check out efficiency at a few energies comparing new to old L calculation method
-- [ ] Start writing MSc paper based on the sphere paper
-- [ ] MSc paper needs to use new simulations
-- [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
+- [ ] PhD Timeline
+- [ ] NEUDOS abstract
+- [ ] Travel grant application
+- [ ] Colloquium slides
 
 
 ## Completed
 
-- [ ] [[Light transport simulations]]
 
 
 ***
 
 ## Archive
 
+- [ ] MSc paper needs to use new simulations
+- [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
+- [ ] Is there a good way to systematically determine the scaling factor for scintillation package?
+- [ ] Eljen has no data for photons as a function of energy deposited above 40 MeV... Bit of a problem.
+- [ ] Try adjusting the transmission probability so there is less loss for the TiO coating. See if that changes the sharpness of the proton edge (and maybe the scaling?)
+- [ ] Look at events in that region with middling L but high E, above the peak
+- [ ] Can we put CARI7a and flightaware data in the database?
+- [ ] Efficiency measurements
+- [ ] Want to test cylinder on 4 SiPM and glued and painted sphere on SiPM in 14.1 MeV beam to try understand why the edge is so much lower for sphere on SiPM in my thesis
+- [ ] [[Light transport simulations]]
+- [ ] Redo the 4 SiPM CFD crossing and average pulse to use the new data, collimated
+- [ ] Start writing MSc paper based on the sphere paper
 - [ ] Try boxcar unfolding
 - [ ] Fabricate the aviation light output spectrum and then try unfolding it
 - [ ] Does the photon wavelength change as it travels through the sphere?
