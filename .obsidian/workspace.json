@@ -29,6 +29,18 @@
             }
           },
           {
+            "id": "17a9a7f5b3f647a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "5e12649e6e8e7650",
             "type": "leaf",
             "state": {
@@ -313,7 +325,8 @@
               "title": "SAIP Proceedings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -477,7 +490,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "17a9a7f5b3f647a0",
   "lastOpenFiles": [
     "MSc/To-Do files/SAIP Proceedings.md",
     "PhD/PhD Kanban.md",
