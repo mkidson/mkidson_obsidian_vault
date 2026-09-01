@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] NEUDOS abstract
 - [ ] Travel grant application
 - [ ] [[Colloquium slides]]
+- [ ] MSc paper
 
 
 ## Completed
