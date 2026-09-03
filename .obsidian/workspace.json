@@ -29,6 +29,21 @@
             }
           },
           {
+            "id": "91c8ce2dabb15e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSc/To-Do files/Travel grant application.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Travel grant application"
+            }
+          },
+          {
             "id": "4c5f3beb01965bda",
             "type": "leaf",
             "state": {
@@ -73,7 +88,8 @@
               "title": "Radiation Dosimetry"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Travel grant application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,10 +253,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "91c8ce2dabb15e1e",
   "lastOpenFiles": [
-    "MSc/To-Do files/Colloquium slides.md",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Travel grant application.md",
+    "MSc/To-Do files/Colloquium slides.md",
     "MSc/To-Do files/Francois meeting.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/SAIP Proceedings.md",
@@ -264,7 +281,6 @@
     "MSc/To-Do files/presentation for Francois.md",
     "MSc/To-Do files/n-gamma counter for Francois.md",
     "MSc/To-Do files/Notes from ASNR.md",
-    "Daily Notes/2025-12-02.md",
     "MSc/To-Do files/Untitled.pdf",
     "MSc/To-Do files/attachments/naked_cs.png",
     "Poker",

@@ -24,7 +24,7 @@ kanban-plugin: board
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] PhD Timeline
 - [ ] NEUDOS abstract
-- [ ] Travel grant application
+- [ ] [[Travel grant application]]
 - [ ] [[Colloquium slides]]
 - [ ] MSc paper
 
