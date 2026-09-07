@@ -88,8 +88,7 @@
               "title": "Radiation Dosimetry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Travel grant application.md",
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,10 +252,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "91c8ce2dabb15e1e",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Travel grant application.md",
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Colloquium slides.md",
     "MSc/To-Do files/Francois meeting.md",
     "PhD/Radiation Dosimetry.md",
