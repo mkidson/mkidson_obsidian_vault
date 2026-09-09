@@ -27,6 +27,7 @@ kanban-plugin: board
 - [ ] [[Travel grant application]]
 - [ ] [[Colloquium slides]]
 - [ ] MSc paper
+- [ ] [[SAIP proceedings reviewer comments]]
 
 
 ## Completed
