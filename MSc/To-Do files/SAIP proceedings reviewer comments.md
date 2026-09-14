@@ -20,6 +20,8 @@
 - [ ] The unfolding result for the continuum neutron spectrum is shown but not discussed in the text. The authors could add a brief statement about this result.
 	- [ ] **This just isn't true...**
 
+# Optical method 
+- [ ] Add a reference for G4Scintillation
 # Semi-empirical method
 - [x] Any explanation as to why the data from EJ-301 was used 
 
