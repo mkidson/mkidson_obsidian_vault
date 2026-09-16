@@ -59,36 +59,6 @@
             }
           },
           {
-            "id": "4c5f3beb01965bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Colloquium slides.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Colloquium slides"
-            }
-          },
-          {
-            "id": "2149d5c8f65cc53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Francois meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Francois meeting"
-            }
-          },
-          {
             "id": "16a9b435eeafe2b6",
             "type": "leaf",
             "state": {
@@ -117,24 +87,9 @@
               "icon": "lucide-file",
               "title": "Travel grant application"
             }
-          },
-          {
-            "id": "923053d733d1e397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc/To-Do files/Colloquium slides.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Colloquium slides"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/SAIP proceedings reviewer comments.md",
+                "file": "MSc/To-Do files/Travel grant application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -298,14 +253,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf68b047cbca3b71",
+  "active": "91c8ce2dabb15e1e",
   "lastOpenFiles": [
-    "PhD/PhD Kanban.md",
-    "MSc/To-Do files/Colloquium slides.md",
     "MSc/To-Do files/SAIP proceedings reviewer comments.md",
     "MSc/To-Do files/Travel grant application.md",
-    "MSc/To-Do files/Francois meeting.md",
     "PhD/Radiation Dosimetry.md",
+    "MSc/To-Do files/Colloquium slides.md",
+    "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Francois meeting.md",
     "MSc/To-Do files/SAIP Proceedings.md",
     "MSc/To-Do files/Light transport simulations.md",
     "MSc/To-Do files/SAIP 2026.md",
