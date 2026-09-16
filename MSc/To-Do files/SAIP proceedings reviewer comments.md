@@ -17,8 +17,8 @@
 
 
 # Figure 4
-- [ ] The unfolding result for the continuum neutron spectrum is shown but not discussed in the text. The authors could add a brief statement about this result.
-	- [ ] **This just isn't true...**
+- [x] The unfolding result for the continuum neutron spectrum is shown but not discussed in the text. The authors could add a brief statement about this result.
+	- [x] **This just isn't true...**
 
 # Optical method 
 - [x] Add a reference for G4Scintillation

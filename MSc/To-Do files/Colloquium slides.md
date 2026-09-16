@@ -43,3 +43,26 @@
 # International measurements
 - As on the slide
 - AMANDE was great for verifying any measurements made at PIAF
+
+# Measured response functions
+- Measured at PIAF
+- Neutrons are produced when accelerated protons hit a Li target. We can get a signal from the cyclotron that corresponds to a proton hitting the target and we digitise that along with the detector pulse
+- We can then find the time it took for the neutron to fly and hit the detector and if we know the distance that it flew, we can determine its speed and thus its energy.
+- With the measurement of the broad beam neutron spectra, we were able to split it up into "monoenergetic" neutron spectra which become our response functions
+
+# Geant4 efficiency sims
+- As earlier, we need to know the efficiency of our detector in order for our unfolding to tell us about the incident spectrum, not the detected spectrum
+- Ideally the measurement facilities would tell us about the incident spectrum when we made measurements, but that wasn't possible so we need to simulate.
+- We determined light output as a function of recoil proton energy from our measured data and used some other measured data from the literature to produce light output spectra
+- Then determined efficiency
+
+# Unfolding result
+- Measured the AmBe source in the n-lab and unfolded the neutron energy spectrum
+- It matches the spectrum measured by the reference detector very well and the ISO spectrum reasonably well. This is expected as different AmBe sources may have slightly different spectra due to differences in manufacturing
+
+# PhD work
+- We have made the sphere bigger to detect more neutrons and neutrons of higher energies
+- We've made some measurements of response functions up to 120 MeV
+- Geant4 simulations of response functions, which becomes a whole different ballgame at energies above 20 MeV
+- Some new signal processing electronics to take the device towards a complete device which just outputs the result
+- And hoping to make measurements in the fields of interest and in simulated workplace fields where we know what the result would be.

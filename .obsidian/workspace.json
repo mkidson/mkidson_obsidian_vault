@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Colloquium slides.md",
+                "file": "MSc/To-Do files/SAIP proceedings reviewer comments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -298,12 +298,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "923053d733d1e397",
+  "active": "cf68b047cbca3b71",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/Colloquium slides.md",
     "MSc/To-Do files/SAIP proceedings reviewer comments.md",
     "MSc/To-Do files/Travel grant application.md",
-    "MSc/To-Do files/Colloquium slides.md",
     "MSc/To-Do files/Francois meeting.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/SAIP Proceedings.md",
