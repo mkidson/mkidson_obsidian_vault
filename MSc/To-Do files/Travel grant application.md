@@ -3,7 +3,7 @@
 - [ ] All academic transcripts
 - [ ] A CV (no longer than a page)
 - [ ] Written motivation from the supervisor and HoD
-- [ ] A full budget in the form (not exceeding 32000)
+- [ ] A full budget in the form (exceeding 32000 but ensuring there are funds for the rest)
 - [ ] Thesis title?
 
 # Budget

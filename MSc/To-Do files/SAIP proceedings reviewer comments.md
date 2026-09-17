@@ -27,8 +27,8 @@
 
 
 # Conclusion
-- [ ] Were there any systematic differences between the two methods? Did one fit the data better than the other?
+- [x] Were there any systematic differences between the two methods? Did one fit the data better than the other?
 
 # Future work
-- [ ] Any ideas as to which physics lists will be looked at/which cross-section data will be edited?
+- [x] Any ideas as to which physics lists will be looked at/which cross-section data will be edited?
 - [ ] 
