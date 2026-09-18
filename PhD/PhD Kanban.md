@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Colloquium slides]]
 - [ ] MSc paper
 - [ ] [[SAIP proceedings reviewer comments]]
+- [ ] MAXIQ code update
 
 
 ## Completed
