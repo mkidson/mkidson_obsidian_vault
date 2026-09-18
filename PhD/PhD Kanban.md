@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Colloquium slides]]
 - [ ] MSc paper
 - [ ] MAXIQ code update
+- [ ] Compare individual signals through the summing circuit to without the circuit
 
 
 ## Completed
