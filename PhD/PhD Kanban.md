@@ -27,12 +27,12 @@ kanban-plugin: board
 - [ ] [[Travel grant application]]
 - [ ] [[Colloquium slides]]
 - [ ] MSc paper
-- [ ] [[SAIP proceedings reviewer comments]]
 - [ ] MAXIQ code update
 
 
 ## Completed
 
+- [ ] [[SAIP proceedings reviewer comments]]
 
 
 ***
