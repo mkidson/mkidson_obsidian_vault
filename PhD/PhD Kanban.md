@@ -26,7 +26,6 @@ kanban-plugin: board
 - [ ] NEUDOS abstract
 - [ ] [[Travel grant application]]
 - [ ] MSc paper
-- [ ] MAXIQ code update
 
 
 ## Completed
@@ -34,6 +33,7 @@ kanban-plugin: board
 - [ ] [[SAIP proceedings reviewer comments]]
 - [ ] Compare individual signals through the summing circuit to without the circuit
 - [ ] [[Colloquium slides]]
+- [ ] MAXIQ code update
 
 
 ***

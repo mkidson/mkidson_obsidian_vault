@@ -88,7 +88,8 @@
               "title": "Travel grant application"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/Travel grant application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,13 +253,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "5e0a8f1ddb56b7e8",
   "lastOpenFiles": [
+    "PhD/PhD Kanban.md",
     "MSc/To-Do files/SAIP proceedings reviewer comments.md",
     "MSc/To-Do files/Travel grant application.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/Colloquium slides.md",
-    "PhD/PhD Kanban.md",
     "MSc/To-Do files/Francois meeting.md",
     "MSc/To-Do files/SAIP Proceedings.md",
     "MSc/To-Do files/Light transport simulations.md",
