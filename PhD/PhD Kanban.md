@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Comrie 2015 66 MeV photon response
 - [ ] try weighting the simulated input spectrum to match the iThemba ToF data
 - [ ] how da hell are we gonna do dose conversions
+- [ ] Should we just integrate for as long as possible?
 
 
 ## In Progress
@@ -26,6 +27,9 @@ kanban-plugin: board
 - [ ] NEUDOS abstract
 - [ ] [[Travel grant application]]
 - [ ] MSc paper
+- [ ] What are the L spectra STNG like when taking into account calibration uncertainties?
+- [ ] Gain matching
+- [ ] Simulated response functions < 20 MeV. And unfolding using them
 
 
 ## Completed
