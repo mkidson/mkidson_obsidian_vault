@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] try weighting the simulated input spectrum to match the iThemba ToF data
 - [ ] how da hell are we gonna do dose conversions
 - [ ] Should we just integrate for as long as possible?
+- [ ] I need to understand LET better
 
 
 ## In Progress
