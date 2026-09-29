@@ -1,10 +1,11 @@
 - [ ] Copy of the abstract (possibly with acceptance letter if that's available)
 - [ ] Documentary evidence that sufficient alternative funding has been acquired to support the costs
-- [ ] All academic transcripts
+- [x] All academic transcripts
 - [ ] A CV (no longer than a page)
-- [ ] Written motivation from the supervisor and HoD
-- [ ] A full budget in the form (exceeding 32000 but ensuring there are funds for the rest)
-- [ ] Thesis title?
+- [x] Written motivation from the supervisor 
+- [ ] and HoD
+- [x] A full budget in the form (exceeding 32000 but ensuring there are funds for the rest)
+- [x] Thesis title?
 
 # Budget
 - Daily subsistence rate (as given by them for UK): 102 GBP = 2211,08 ZAR (3 Sept 2026)
