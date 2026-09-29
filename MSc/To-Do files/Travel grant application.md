@@ -10,3 +10,7 @@
 - Daily subsistence rate (as given by them for UK): 102 GBP = 2211,08 ZAR (3 Sept 2026)
 - Conference fee: GBP 575 = 12471,81 ZAR (3 Sept 2026)
 - Accom: GBP 505.8 = 10970,85 ZAR (3 Sept 2026)
+
+
+
+# 
