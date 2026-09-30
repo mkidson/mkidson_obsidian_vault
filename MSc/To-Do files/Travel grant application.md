@@ -1,5 +1,6 @@
-- [ ] Copy of the abstract (possibly with acceptance letter if that's available)
-- [ ] Documentary evidence that sufficient alternative funding has been acquired to support the costs
+- [x] Copy of the abstract (possibly with acceptance letter if that's available)
+- [x] Documentary evidence that sufficient alternative funding has been acquired to support the costs
+- [ ] Certified ID
 - [x] All academic transcripts
 - [ ] A CV (no longer than a page)
 - [x] Written motivation from the supervisor 
