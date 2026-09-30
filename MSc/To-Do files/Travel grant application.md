@@ -1,8 +1,8 @@
 - [x] Copy of the abstract (possibly with acceptance letter if that's available)
 - [x] Documentary evidence that sufficient alternative funding has been acquired to support the costs
-- [ ] Certified ID
+- [x] Certified ID
 - [x] All academic transcripts
-- [ ] A CV (no longer than a page)
+- [x] A CV (no longer than a page)
 - [x] Written motivation from the supervisor 
 - [ ] and HoD
 - [x] A full budget in the form (exceeding 32000 but ensuring there are funds for the rest)
