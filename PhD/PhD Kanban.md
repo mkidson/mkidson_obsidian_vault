@@ -25,7 +25,6 @@ kanban-plugin: board
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
 - [ ] PhD Timeline
-- [ ] NEUDOS abstract
 - [ ] [[Travel grant application]]
 - [ ] MSc paper
 - [ ] What are the L spectra STNG like when taking into account calibration uncertainties?
@@ -39,6 +38,7 @@ kanban-plugin: board
 - [ ] Compare individual signals through the summing circuit to without the circuit
 - [ ] [[Colloquium slides]]
 - [ ] MAXIQ code update
+- [ ] NEUDOS abstract
 
 
 ***
