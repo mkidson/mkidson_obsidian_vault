@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] What are the L spectra STNG like when taking into account calibration uncertainties?
 - [ ] Gain matching
 - [ ] Simulated response functions < 20 MeV. And unfolding using them
+- [ ] Measure cross sections in Geant4 below 20 MeV, then above 20 MeV. Some kind of scoring
 
 
 ## Completed
