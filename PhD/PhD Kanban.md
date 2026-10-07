@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] how da hell are we gonna do dose conversions
 - [ ] Should we just integrate for as long as possible?
 - [ ] I need to understand LET better
+- [ ] Standardised, rigorous way of defining PSD parameters. Separate to the L used for energy?
 
 
 ## In Progress
@@ -30,6 +31,7 @@ kanban-plugin: board
 - [ ] Gain matching
 - [ ] Simulated response functions < 20 MeV. And unfolding using them
 - [ ] Measure cross sections in Geant4 below 20 MeV, then above 20 MeV. Some kind of scoring
+- [ ] Cs spectrum for various levels of long integral. See if the energy resolution changes
 
 
 ## Completed
