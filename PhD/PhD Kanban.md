@@ -28,7 +28,6 @@ kanban-plugin: board
 - [ ] PhD Timeline
 - [ ] MSc paper
 - [ ] What are the L spectra STNG like when taking into account calibration uncertainties?
-- [ ] Gain matching
 - [ ] Simulated response functions < 20 MeV. And unfolding using them
 - [ ] Measure cross sections in Geant4 below 20 MeV, then above 20 MeV. Some kind of scoring
 - [ ] Cs spectrum for various levels of long integral. See if the energy resolution changes
@@ -36,18 +35,19 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] [[SAIP proceedings reviewer comments]]
-- [ ] Compare individual signals through the summing circuit to without the circuit
-- [ ] [[Colloquium slides]]
-- [ ] MAXIQ code update
-- [ ] NEUDOS abstract
-- [ ] [[Travel grant application]]
+- [ ] Gain matching
 
 
 ***
 
 ## Archive
 
+- [ ] [[SAIP proceedings reviewer comments]]
+- [ ] Compare individual signals through the summing circuit to without the circuit
+- [ ] [[Colloquium slides]]
+- [ ] MAXIQ code update
+- [ ] NEUDOS abstract
+- [ ] [[Travel grant application]]
 - [ ] MSc paper needs to use new simulations
 - [ ] Count number of neutrons in lead cap stuff in peak and not in peak, as fn of lead thickness
 - [ ] Is there a good way to systematically determine the scaling factor for scintillation package?
