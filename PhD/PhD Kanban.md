@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Should we just integrate for as long as possible?
 - [ ] I need to understand LET better
 - [ ] Standardised, rigorous way of defining PSD parameters. Separate to the L used for energy?
+- [ ] Lower complexity in the electronics means less chance of damage from the field being measured
 
 
 ## In Progress
