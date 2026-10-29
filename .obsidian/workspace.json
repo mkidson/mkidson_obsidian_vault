@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "290a22134b755a46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "16a9b435eeafe2b6",
             "type": "leaf",
             "state": {
@@ -59,7 +71,8 @@
               "title": "Travel grant application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +236,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "290a22134b755a46",
   "lastOpenFiles": [
     "MSc/To-Do files/Travel grant application.md",
     "PhD/PhD Kanban.md",
