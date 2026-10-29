@@ -32,6 +32,8 @@ kanban-plugin: board
 - [ ] Simulated response functions < 20 MeV. And unfolding using them
 - [ ] Measure cross sections in Geant4 below 20 MeV, then above 20 MeV. Some kind of scoring
 - [ ] Cs spectrum for various levels of long integral. See if the energy resolution changes
+- [ ] [[Notes]]
+- [ ] optimised sipm flat spot size to tanya
 
 
 ## Completed
