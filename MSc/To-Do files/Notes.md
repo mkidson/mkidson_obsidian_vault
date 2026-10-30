@@ -8,12 +8,14 @@
 - [ ] 
 - [ ] Put in the FoM as a function of L and S, either 2D or the two lines
 - [ ] PSD plot alongside the FoM two gaussians
-- [ ] Uncertainties on PTB and AMANDE 14.1 energies
+- [ ] Uncertainties on PTB and AMANDE 14.1 energies - email people
 - [x] PTB Author
-- [ ] More ToF steps
+- [x] More ToF steps
 - [ ] The stacked plot is better for responses
-- [ ] Put n-lab on the comparison
+- [x] Put n-lab on the comparison
 - [ ] L vs E plot before the discussion of the fit
+	- [ ] Check uncertainties on the L vs E plot data
+	- [ ] Add uncertainty bars for the fit
 - [ ] Efficiency plot before response function making
 - [ ] Unfold mono before AmBe
 - [ ] AmBe PSD plot comparing us and EJ301
