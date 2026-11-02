@@ -6,8 +6,8 @@
 	- [x] Papers from AMANDE, workplace fields. ROSPEC
 	- [ ] How it can supplement Bonner Sphere systems
 - [ ] 
-- [ ] Put in the FoM as a function of L and S, either 2D or the two lines
-- [ ] PSD plot alongside the FoM two gaussians
+- [x] Put in the FoM as a function of L and S, either 2D or the two lines
+- [x] PSD plot alongside the FoM two gaussians
 - [ ] Uncertainties on PTB and AMANDE 14.1 energies - email people
 - [x] PTB Author
 - [x] More ToF steps
