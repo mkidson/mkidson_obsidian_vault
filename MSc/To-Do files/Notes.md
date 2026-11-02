@@ -13,7 +13,7 @@
 - [x] More ToF steps
 - [ ] The stacked plot is better for responses
 - [x] Put n-lab on the comparison
-- [ ] L vs E plot before the discussion of the fit
+- [x] L vs E plot before the discussion of the fit
 	- [ ] Check uncertainties on the L vs E plot data
 	- [ ] Add uncertainty bars for the fit
 - [ ] Efficiency plot before response function making
@@ -64,5 +64,8 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 	2. Monoenergetics
 	3. Laplace et al.
 	4. Fit
-15. AmBe neutron L spectrum
-16. AmBe unfolded E spectrum
+15. Efficiency plot
+16. Mono unfolding
+17. AmBe PSD for EJ-301 and this detector
+18. AmBe neutron L spectrum
+19. AmBe unfolded E spectrum
