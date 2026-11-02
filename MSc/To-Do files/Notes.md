@@ -27,3 +27,42 @@
 
 
 # Read up on journals NIM A and Rad Meas to see what they want
+Rad Meas are explicit about their interest in papers that present advances in scintillating materials, novel detection techniques, personal dosimetry, environmental dosimetry. 
+NIM A are also a good fit but Rad Meas is more about measurement specifically, so I like them more.
+
+
+# Figures
+## Send Andy left bin edges, without the final edge as he can work it out.
+
+1. Disassembled detector
+2. Example pulse shapes
+	1. Gamma and neutron pulse
+	2. Showing t_0, t_S, and t_L
+3. Gamma calib linear fit
+	1. Uncertainty of Compton edge energy (Gaussian etc)
+	2. Fit parameters in the legend
+4. FoM fit on the S projection
+	1. FWHMs
+	2. mus with arrows between
+5. FoM as fn of t_S and t_L
+6. PSD plot
+	1. Labels for neutrons and gamma rays?
+	2. Give Andy the line to plot
+	3. L threshold as well
+7. Low energy L spectra
+8. High energy L spectra
+9. Detector and ToF trace
+10. ToF spectrum after calibration
+11. Stepped L spectra from broad spectrum
+12. Comparison 5 MeV
+13. Comparison 14.1 MeV 
+	1. PTB broad
+	2. AMANDE
+	3. n-lab
+14. L vs E
+	1. Broad spectrum
+	2. Monoenergetics
+	3. Laplace et al.
+	4. Fit
+15. AmBe neutron L spectrum
+16. AmBe unfolded E spectrum
