@@ -85,9 +85,21 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "08b99a1c435398bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "99ff4d589583f241",
+  "active": "08b99a1c435398bd",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
     "MSc/To-Do files/Notes.md",
