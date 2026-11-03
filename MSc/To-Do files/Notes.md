@@ -19,13 +19,21 @@
 	- [x] Put the fit parameters in
 - [x] Efficiency plot before response function making
 - [x] Unfold mono before AmBe
-- [ ] AmBe PSD plot comparing us and EJ301
-- [ ] AmBe LOS alongside the unfolded
+- [x] AmBe PSD plot comparing us and EJ301
+- [x] AmBe LOS alongside the unfolded
 - [ ] Conclusion
 	- [ ] Highlight that the nice edge resolution is because of the sphere
 	- [ ] Matched 2 inch detector on a PMT in terms of unfolding. Really sell that
 	- [ ] Hint towards higher energies
 
+
+# To do
+- [ ] Go through and fix all references to tables and figures
+- [ ] Go through all the captions
+- [ ] Make sure all the figures that are there are spoken about properly
+- [ ] Efficiency
+- [ ] PSD comparison
+- [ ] Monoenergetic unfolding
 
 # Read up on journals NIM A and Rad Meas to see what they want
 Rad Meas are explicit about their interest in papers that present advances in scintillating materials, novel detection techniques, personal dosimetry, environmental dosimetry. 
