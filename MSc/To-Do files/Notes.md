@@ -15,10 +15,10 @@
 - [x] Put n-lab on the comparison
 - [x] L vs E plot before the discussion of the fit
 	- [ ] Check uncertainties on the L vs E plot data
-	- [ ] Add uncertainty bars for the fit
-	- [ ] Put the fit parameters in
+	- [x] Add uncertainty bars for the fit
+	- [x] Put the fit parameters in
 - [x] Efficiency plot before response function making
-- [ ] Unfold mono before AmBe
+- [x] Unfold mono before AmBe
 - [ ] AmBe PSD plot comparing us and EJ301
 - [ ] AmBe LOS alongside the unfolded
 - [ ] Conclusion

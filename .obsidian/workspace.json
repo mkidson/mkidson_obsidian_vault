@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "99ff4d589583f241",
+            "id": "5c4317c90c95c6dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -251,11 +251,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "99ff4d589583f241",
+  "active": "5c4317c90c95c6dd",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
-    "MSc/To-Do files/Notes.md",
     "MSc/To-Do files/Travel grant application.md",
+    "PhD/SANSA Bursary Application.md",
+    "MSc/To-Do files/Notes.md",
     "MSc/To-Do files/SAIP proceedings reviewer comments.md",
     "PhD/Radiation Dosimetry.md",
     "MSc/To-Do files/Colloquium slides.md",
@@ -278,7 +279,6 @@
     "Daily Notes/2026-03-16.md",
     "MSc/To-Do files/What the hell was I working on.md",
     "MSc/To-Do files/MSc repository.md",
-    "MSc/To-Do files/presentation for Francois.md",
     "MSc/To-Do files/Untitled.pdf",
     "MSc/To-Do files/attachments/naked_cs.png",
     "Poker",
