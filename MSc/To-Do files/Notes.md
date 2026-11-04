@@ -4,14 +4,14 @@
 - [x] No aviation, only workplace. 20 MeV only
 	- [x] Look at start of Chloe paper for how to write that
 	- [x] Papers from AMANDE, workplace fields. ROSPEC
-	- [ ] How it can supplement Bonner Sphere systems
-- [ ] 
+	- [x] How it can supplement Bonner Sphere systems
+- [x] 
 - [x] Put in the FoM as a function of L and S, either 2D or the two lines
 - [x] PSD plot alongside the FoM two gaussians
 - [ ] Uncertainties on PTB and AMANDE 14.1 energies - email people
 - [x] PTB Author
 - [x] More ToF steps
-- [ ] The stacked plot is better for responses
+- [x] The stacked plot is better for responses
 - [x] Put n-lab on the comparison
 - [x] L vs E plot before the discussion of the fit
 	- [ ] Check uncertainties on the L vs E plot data
@@ -34,6 +34,9 @@
 - [ ] Efficiency
 - [ ] PSD comparison
 - [ ] Monoenergetic unfolding
+
+# Questions
+- Should we use a different L length for PSD vs light output?
 
 # Read up on journals NIM A and Rad Meas to see what they want
 Rad Meas are explicit about their interest in papers that present advances in scintillating materials, novel detection techniques, personal dosimetry, environmental dosimetry. 
