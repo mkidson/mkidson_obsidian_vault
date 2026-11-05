@@ -85,21 +85,8 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
-          },
-          {
-            "id": "fc3573c0e30791d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,6 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PhD/PhD Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,12 +250,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fc3573c0e30791d6",
+  "active": "b3c54530d952b2e4",
   "lastOpenFiles": [
+    "MSc/To-Do files/Notes.md",
     "MSc/To-Do files/Travel grant application.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/PhD Kanban.md",
-    "MSc/To-Do files/Notes.md",
     "PhD/SANSA Bursary Application.md",
     "MSc/To-Do files/SAIP proceedings reviewer comments.md",
     "MSc/To-Do files/Colloquium slides.md",
