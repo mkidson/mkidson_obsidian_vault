@@ -28,9 +28,9 @@
 
 
 # To do
-- [ ] Go through and fix all references to tables and figures
+- [x] Go through and fix all references to tables and figures
 - [ ] Go through all the captions
-- [ ] Make sure all the figures that are there are spoken about properly
+- [x] Make sure all the figures that are there are spoken about properly
 - [ ] Efficiency
 - [ ] PSD comparison
 - [ ] Monoenergetic unfolding
