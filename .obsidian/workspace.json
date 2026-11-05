@@ -85,9 +85,21 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "fc3573c0e30791d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,7 +262,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5c4317c90c95c6dd",
+  "active": "fc3573c0e30791d6",
   "lastOpenFiles": [
     "MSc/To-Do files/Travel grant application.md",
     "PhD/Radiation Dosimetry.md",
