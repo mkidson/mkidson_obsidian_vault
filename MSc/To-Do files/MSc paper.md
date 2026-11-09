@@ -81,3 +81,8 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 17. AmBe PSD for EJ-301 and this detector
 18. AmBe neutron L spectrum
 19. AmBe unfolded E spectrum
+
+# First draft meeting 
+- Can I send Andy functions with variables or should I send lines to plot?
+- Uncertainties on the fit parameters in legends?
+- How best to do 2D histograms?

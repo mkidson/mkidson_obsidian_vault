@@ -92,13 +92,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSc/To-Do files/Notes.md",
+                "file": "MSc/To-Do files/MSc paper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "MSc paper"
             }
           }
         ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSc/To-Do files/Notes.md",
+                "file": "MSc/To-Do files/MSc paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -269,7 +269,7 @@
   "active": "61878c0766683585",
   "lastOpenFiles": [
     "PhD/PhD Kanban.md",
-    "MSc/To-Do files/Notes.md",
+    "MSc/To-Do files/MSc paper.md",
     "MSc/To-Do files/Travel grant application.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/SANSA Bursary Application.md",
