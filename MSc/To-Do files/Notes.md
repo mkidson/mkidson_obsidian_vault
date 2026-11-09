@@ -44,7 +44,7 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 
 
 # Figures
-## Send Andy left bin edges, without the final edge as he can work it out.
+## Sending Andy the bin middles
 
 1. Disassembled detector
 2. Example pulse shapes
