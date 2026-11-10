@@ -43,44 +43,47 @@ Rad Meas are explicit about their interest in papers that present advances in sc
 NIM A are also a good fit but Rad Meas is more about measurement specifically, so I like them more.
 
 
-# Figures
+# Figures - to andy
 ## Sending Andy the bin middles
 
-1. Disassembled detector
-2. Example pulse shapes
-	1. Gamma and neutron pulse
-	2. Showing t_0, t_S, and t_L
-3. Gamma calib linear fit
-	1. Uncertainty of Compton edge energy (Gaussian etc)
-	2. Fit parameters in the legend
-4. FoM fit on the S projection
-	1. FWHMs
-	2. mus with arrows between
-5. FoM as fn of t_S and t_L
-6. PSD plot
-	1. Labels for neutrons and gamma rays?
-	2. Give Andy the line to plot
-	3. L threshold as well
-7. Low energy L spectra
-8. High energy L spectra
-9. Detector and ToF trace
-10. ToF spectrum after calibration
-11. Stepped L spectra from broad spectrum
-12. Comparison 5 MeV
-13. Comparison 14.1 MeV 
-	1. PTB broad
-	2. AMANDE
-	3. n-lab
-14. L vs E
-	1. Broad spectrum
-	2. Monoenergetics
-	3. Laplace et al.
-	4. Fit
-15. Efficiency plot
-16. Mono unfolding
-17. AmBe PSD for EJ-301 and this detector
-18. AmBe neutron L spectrum
-19. AmBe unfolded E spectrum
+1. [ ] Disassembled detector
+2. [x] Example pulse shapes
+	1. [x] Gamma and neutron pulse
+	2. [x] Showing t_0, t_S, and t_L
+3. [x] Gamma calib linear fit
+	1. [ ] Uncertainty of Compton edge energy (Gaussian etc)
+	2. [x] Fit parameters in the legend
+	3. [ ] Can I just get him to plot that line?
+4. [x] FoM fit on the S projection
+	1. [x] FWHMs
+	2. [x] mus with arrows between
+	3. [ ] Can I send him the Gaussian params or just give him the line to plot
+5. [ ] FoM as fn of t_S and t_L
+6. [x] PSD plot
+	1. [x] Labels for neutrons and gamma rays?
+	2. [x] Give Andy the line to plot
+	3. [x] L threshold as well
+	4. [ ] How does he want the 2D plots to be done?
+7. [ ] Low energy L spectra
+8. [ ] High energy L spectra
+9. [ ] Detector and ToF trace
+10. [ ] ToF spectrum after calibration
+11. [ ] Stepped L spectra from broad spectrum
+12. [ ] Comparison 5 MeV
+13. [ ] Comparison 14.1 MeV 
+	1. [ ] PTB broad
+	2. [ ] AMANDE
+	3. [ ] n-lab
+14. [ ] L vs E
+	1. [ ] Broad spectrum
+	2. [ ] Monoenergetics
+	3. [ ] Laplace et al.
+	4. [ ] Fit
+15. [ ] Efficiency plot
+16. [ ] Mono unfolding
+17. [ ] AmBe PSD for EJ-301 and this detector
+18. [ ] AmBe neutron L spectrum
+19. [ ] AmBe unfolded E spectrum
 
 # First draft meeting 
 - Can I send Andy functions with variables or should I send lines to plot?
