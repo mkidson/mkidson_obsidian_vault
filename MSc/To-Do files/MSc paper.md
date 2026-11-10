@@ -99,9 +99,16 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 	- smooth
 	- densely populated
 	- narrow energy band
-	- ?
+	- sharp edges
 - L vs E plot
 - Simulation is needed
 	- Lineshapes are normalised to incident neutron
 - Tanya isn't confident that the fit parameters are right...
+- Goodness of fit
+	- R^2 = 0.9999
+	- chi sq
+- More details on the unfolding algorithm and implementation
+	- MAXED not GRAVEL
+- Show the input and refolded spectra (like thesis)
+- What is "agreement" with the AmBe unfolding
 - 
