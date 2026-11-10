@@ -89,3 +89,10 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 - Can I send Andy functions with variables or should I send lines to plot?
 - Uncertainties on the fit parameters in legends?
 - How best to do 2D histograms?
+
+## Things to discuss
+- t_L vs t_long being different?
+- FoM plot - can it be less smooth, show contour lines clearly, or maybe a big X at the spot 
+- Not removing the 5.8 MeV contribution from 19 MeV as it doesn't affect things
+- L thresholds for monoenergetic plots - low low low?
+- 
