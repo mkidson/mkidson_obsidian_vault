@@ -95,4 +95,13 @@ NIM A are also a good fit but Rad Meas is more about measurement specifically, s
 - FoM plot - can it be less smooth, show contour lines clearly, or maybe a big X at the spot 
 - Not removing the 5.8 MeV contribution from 19 MeV as it doesn't affect things
 - L thresholds for monoenergetic plots - low low low?
+- What are the characteristics of "good" response functions?
+	- smooth
+	- densely populated
+	- narrow energy band
+	- ?
+- L vs E plot
+- Simulation is needed
+	- Lineshapes are normalised to incident neutron
+- Tanya isn't confident that the fit parameters are right...
 - 
