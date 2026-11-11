@@ -17,17 +17,14 @@ kanban-plugin: board
 - [ ] I need to understand LET better
 - [ ] Standardised, rigorous way of defining PSD parameters. Separate to the L used for energy?
 - [ ] Lower complexity in the electronics means less chance of damage from the field being measured
+- [ ] Update examples in analysis repo to reflect new calculate_integrals functionality
 
 
 ## In Progress
 
 - [ ] Reading on space weather and dosimetry
-- [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
-- [ ] Check out efficiency at a few energies comparing new to old L calculation method
 - [ ] [[Neutron multiplier simulations]]
 - [ ] Unfolding: boxcar with perfect prior information. boxcar with almost right information. Other options maybe
-- [ ] PhD Timeline
-- [ ] MSc paper
 - [ ] What are the L spectra STNG like when taking into account calibration uncertainties?
 - [ ] Simulated response functions < 20 MeV. And unfolding using them
 - [ ] Measure cross sections in Geant4 below 20 MeV, then above 20 MeV. Some kind of scoring
@@ -38,7 +35,11 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] PhD Timeline
+- [ ] Check out efficiency at a few energies comparing new to old L calculation method
+- [ ] Put neutron spectrum into Geant and see how many detections per incident neutron we see for the 25 mm sphere and then the 50 mm sphere or 25 mm surrounded by 25 mm of HDPE (and in future Pb or Fe)
 - [ ] Gain matching
+- [ ] MSc paper
 
 
 ***
