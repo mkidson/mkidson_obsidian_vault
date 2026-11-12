@@ -101,7 +101,8 @@
               "title": "MSc paper"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD/PhD Kanban.md",
+                "file": "MSc/To-Do files/MSc paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,10 +266,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3c54530d952b2e4",
+  "active": "61878c0766683585",
   "lastOpenFiles": [
-    "MSc/To-Do files/MSc paper.md",
     "PhD/PhD Kanban.md",
+    "MSc/To-Do files/MSc paper.md",
     "MSc/To-Do files/Travel grant application.md",
     "PhD/Radiation Dosimetry.md",
     "PhD/SANSA Bursary Application.md",
